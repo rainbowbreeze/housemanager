@@ -14,6 +14,8 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 /**
+ * Specialized scraper for Immobiliare.it website
+ * 
  * @author Alfredo "Rainbowbreeze" Morresi
  *
  */
