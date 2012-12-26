@@ -49,7 +49,7 @@ public class ImmobiliareScraperTest {
         File file = new File("testresources/immobiliare_mock_1.txt");
         String fileContent = StreamHelper.toString(new FileInputStream(file));
         
-        mNetworkManager.getUrlReplies().put(ImmobiliareScraper.URL_BASE, fileContent);
+        mNetworkManager.getUrlReplies().put(ImmobiliareScraper.URL_FIRST_QUERY, fileContent);
         
         ScrapingResult result = mScraper.scrape();
         assertNotNull(result);
@@ -57,6 +57,33 @@ public class ImmobiliareScraperTest {
         assertFalse(result.hasErrors());
         assertEquals(61, result.getTotalPages());
         assertEquals(15, result.getAnnounces().size());
+        assertEquals("/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=2", result.getCursor());
+        
+        for (HouseAnnounce announce : result.getAnnounces()) {
+            assertTrue("Detail url", StringUtils.isNotEmpty(announce.getDetailUrl()));
+            assertTrue("Image url", StringUtils.isNotEmpty(announce.getImgUrl()));
+            assertTrue("Short desc", StringUtils.isNotEmpty(announce.getShortDesc()));
+            assertTrue("Title", StringUtils.isNotEmpty(announce.getTitle()));
+            assertTrue("Area", announce.getArea() > 0);
+            assertTrue("Price", announce.getPrice() > 0);
+        }
+    }
+
+    @Test
+    public void testLastPage() throws IOException {
+        String cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=61";
+        File file = new File("testresources/immobiliare_mock_2.txt");
+        String fileContent = StreamHelper.toString(new FileInputStream(file));
+
+        mNetworkManager.getUrlReplies().put(ImmobiliareScraper.URL_NEXT_QUERY + cursor, fileContent);
+        
+        ScrapingResult result = mScraper.scrapeNext(cursor);
+        assertNotNull(result);
+        assertFalse(result.hasErrors());
+        assertEquals(61, result.getTotalPages());
+        assertEquals(6, result.getAnnounces().size());
+        assertFalse(result.hasMoreResults());
+        assertTrue(StringUtils.isEmpty(result.getCursor()));
         
         for (HouseAnnounce announce : result.getAnnounces()) {
             assertFalse("Detail url", StringUtils.isEmpty(announce.getDetailUrl()));
@@ -64,12 +91,10 @@ public class ImmobiliareScraperTest {
             assertFalse("Short desc", StringUtils.isEmpty(announce.getShortDesc()));
             assertFalse("Title", StringUtils.isEmpty(announce.getTitle()));
             assertTrue("Area", announce.getArea() > 0);
-            assertTrue("Price", announce.getPrice() > 0);
+            //assertTrue("Price", announce.getPrice() > 0); //trattativa riservata
         }
-        
-        assertEquals("15", result.getCursor());
     }
-
+    
     // ----------------------------------------- Private Methods
 
     // ----------------------------------------- Private Classes

@@ -21,7 +21,8 @@ public class ImmobiliareScraper {
     // ------------------------------------------ Private Fields
     private static final String LOG_HASH = ImmobiliareScraper.class.getSimpleName();
 
-    public static final String URL_BASE = "http://www.immobiliare.it/Pavia/vendita_case-Pavia.html?criterio=rilevanza";
+    public static final String URL_FIRST_QUERY = "http://www.immobiliare.it/Pavia/vendita_case-Pavia.html?criterio=rilevanza";
+    public static final String URL_NEXT_QUERY = "http://www.immobiliare.it";
     
     private final ILogFacility mLogFacility;
     private final NetworkManager mNetworkManager;
@@ -36,9 +37,19 @@ public class ImmobiliareScraper {
 
     // ------------------------------------------ Public Methods
     public ScrapingResult scrape() {
+        return scrapePage(URL_FIRST_QUERY);
+    }
+
+    public ScrapingResult scrapeNext(String cursor) {
+        return scrapePage(URL_NEXT_QUERY + cursor);
+    }
+
+    // ----------------------------------------- Private Methods
+    
+    private ScrapingResult scrapePage(String url) {
         String text = null;
         try {
-            text = mNetworkManager.getUrlContent(URL_BASE);
+            text = mNetworkManager.getUrlContent(url);
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -54,6 +65,7 @@ public class ImmobiliareScraper {
         }
         
         result.setTotalPages(findTotalPages(doc));
+        result.setCursor(findNextPage(doc));
         
         if (null != text) {
             Elements announces = doc.select("div.contenuto_box");
@@ -65,13 +77,11 @@ public class ImmobiliareScraper {
                     result.addError();
                 }
             }
-            result.setCursor(announces.size() + "");
         }
         
         return result;
     }
 
-    // ----------------------------------------- Private Methods
     /**
      * Finds the number of total pages to query based on results of first query page
      * 
@@ -81,16 +91,36 @@ public class ImmobiliareScraper {
     private int findTotalPages(Document doc) {
         String pageCount = null;
         try {
-            pageCount = doc.select("div#pageCount").first().select("strong").last().text().trim();
+            pageCount = doc.select("div#pageCount").first().getElementsByTag("strong").last().text().trim();
             return Integer.parseInt(pageCount);
         } catch (NumberFormatException e) {
             mLogFacility.warn(LOG_HASH, "Wrong conversion of total pages: " + pageCount);
-            return 0;
         } catch (Exception e) {
             mLogFacility.warn(LOG_HASH, "Cannot find page counter element");
-            return 0;
         }
+        return 0;
     }
+    
+    /**
+     * Finds link for the next page
+     * @param doc
+     * @return
+     */
+    private String findNextPage(Document doc) {
+        try {
+            Elements nextPageElems = doc.select("div#paginazione").first().select("a");
+            for (Element nextPageElem : nextPageElems) {
+                if (nextPageElem.className().startsWith("no-decoration button next_page")) {
+                    String nextPageUrl = nextPageElem.attr("href");
+                    return "#".equalsIgnoreCase(nextPageUrl) ? null : nextPageUrl;
+                }
+            }
+        } catch (Exception e) {
+            mLogFacility.warn(LOG_HASH, "Cannot find div#paginazione");
+        }
+        return null;
+    }
+
     
     /**
      * Analyzes a single element and discover all the information for the house
@@ -102,7 +132,7 @@ public class ImmobiliareScraper {
         boolean findData = false;
 
         try {
-            Element linkElem = announceElem.select("div.annuncio_title").first().select("a").first();
+            Element linkElem = announceElem.select("div.annuncio_title").first().getElementsByTag("a").first();
             String title = linkElem.text();
             if (StringUtils.isNotEmpty(title)) {
                 announce.setTitle(title);
