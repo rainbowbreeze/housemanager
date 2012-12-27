@@ -1,6 +1,8 @@
 package it.rainbowbreeze.housemanager;
 
 import it.rainbowbreeze.housemanager.common.App;
+import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
+import it.rainbowbreeze.housemanager.scraper.AnnounceScrapingResult;
 import it.rainbowbreeze.housemanager.scraper.SearchPageScrapingResult;
 
 import java.io.IOException;
@@ -15,10 +17,14 @@ public class HouseManagerServlet extends HttpServlet {
             throws IOException {
         resp.setContentType("text/plain");
         
-        SearchPageScrapingResult result = App.i().getImmobiliareScraper().scrape();
+        SearchPageScrapingResult searchResult = App.i().getImmobiliareScraper().scrape();
         
         resp.getWriter().println("Hello, world");
-        resp.getWriter().println("Announces: " + result.getCursor());
-        resp.getWriter().println("Pages: " + result.getTotalPages());
+        resp.getWriter().println("Announces: " + searchResult.getCursor());
+        resp.getWriter().println("Pages: " + searchResult.getTotalPages());
+        
+        HouseAnnounce announce = searchResult.getAnnounces().get(0);
+        AnnounceScrapingResult deepResult = App.i().getImmobiliareScraper().scrapeDeep(announce);
+        resp.getWriter().println("Lat: " + deepResult.getAnnounce().getLat() + " - Lon: " + deepResult.getAnnounce().getLon());
     }
 }

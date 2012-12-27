@@ -51,9 +51,8 @@ public class SearchPageScrapingResult {
     public int getConversionError() {
         return mConversionError;
     }
-    public void setConversionError(int conversionError) {
-        this.mConversionError = conversionError;
-    }
+    
+    
     // ------------------------------------------ Public Methods
     public boolean hasMoreResults() {
         return !StringUtils.isEmpty(mCursor);

@@ -85,6 +85,29 @@ public class HouseAnnounce {
         return this;
     }
     
+    private String mLat;
+    /**
+     * Latitude
+     */
+    public String getLat() {
+        return mLat;
+    }
+    public HouseAnnounce setLat(String newValue) {
+        mLat = newValue;
+        return this;
+    }
+    private String mLon;
+    /**
+     * Longitude
+     */
+    public String getLon() {
+        return mLon;
+    }
+    public HouseAnnounce setLon(String newValue) {
+        mLon = newValue;
+        return this;
+    }
+    
 
 
     // ------------------------------------------ Public Methods

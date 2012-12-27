@@ -23,8 +23,9 @@ public class ImmobiliareScraper {
     // ------------------------------------------ Private Fields
     private static final String LOG_HASH = ImmobiliareScraper.class.getSimpleName();
 
-    public static final String URL_FIRST_QUERY = "http://www.immobiliare.it/Pavia/vendita_case-Pavia.html?criterio=rilevanza";
-    public static final String URL_NEXT_QUERY = "http://www.immobiliare.it";
+    public static final String URL_FIRST_RESULT_PAGE = "http://www.immobiliare.it/Pavia/vendita_case-Pavia.html?criterio=rilevanza";
+    public static final String URL_NEXT_RESULT_PAGE_BASE = "http://www.immobiliare.it";
+    public static final String URL_DETAIL_ANNOUNCE_BASE = "http://www.immobiliare.it";
     
     private final ILogFacility mLogFacility;
     private final NetworkManager mNetworkManager;
@@ -38,41 +39,73 @@ public class ImmobiliareScraper {
     // --------------------------------------- Public Properties
 
     // ------------------------------------------ Public Methods
+    
+    /**
+     * Scrapes the first page of a global search on selected site
+     * @return
+     */
     public SearchPageScrapingResult scrape() {
-        return scrapePage(URL_FIRST_QUERY);
+        return scrapePage(URL_FIRST_RESULT_PAGE);
     }
 
+    /**
+     * Scrapes for page 2 - n of a global search on selected site 
+     * @param cursor
+     * @return
+     */
     public SearchPageScrapingResult scrapeNext(String cursor) {
-        return scrapePage(URL_NEXT_QUERY + cursor);
+        return scrapePage(URL_NEXT_RESULT_PAGE_BASE + cursor);
     }
     
+    /**
+     * Adds information to an announce scraping his own page
+     * @param announce
+     * @return
+     */
+    public AnnounceScrapingResult scrapeDeep(HouseAnnounce announce) {
+        return scrapeAnnounce(announce);
+    }
+    
+
     // ----------------------------------------- Private Methods
     
+    /**
+     * Analyzes a generic search result page
+     * @param url
+     * @return
+     */
     private SearchPageScrapingResult scrapePage(String url) {
+        SearchPageScrapingResult result = new SearchPageScrapingResult();
+        
+        mLogFacility.info(LOG_HASH, "Scraping for result page " + url);
+
         String text = null;
         try {
             text = mNetworkManager.getUrlContent(url);
         } catch (Exception e) {
+            //TODO add error here
             e.printStackTrace();
+            result.addError();
+            return result;
         }
 
         Document doc = Jsoup.parse(text);
         
-        //find total pages
-        SearchPageScrapingResult result = new SearchPageScrapingResult();
-
         if (null == doc) {
             //TODO add error here
+            result.addError();
             return result;
         }
         
+        //finds total pages
         result.setTotalPages(findTotalPages(doc));
+        //finds cursor to open next search page
         result.setCursor(findNextPage(doc));
         
         if (null != text) {
             Elements announces = doc.select("div.contenuto_box");
             for (Element announceElem : announces) {
-                HouseAnnounce announce = parseAnnounce(announceElem);
+                HouseAnnounce announce = parseAnnounceInSearchResult(announceElem);
                 if (null != announce) {
                     result.getAnnounces().add(announce);
                 } else {
@@ -83,6 +116,7 @@ public class ImmobiliareScraper {
         
         return result;
     }
+    
 
     /**
      * Finds the number of total pages to query based on results of first query page
@@ -103,8 +137,9 @@ public class ImmobiliareScraper {
         return 0;
     }
     
+    
     /**
-     * Finds link for the next page
+     * Finds link for the next search page result
      * @param doc
      * @return
      */
@@ -125,11 +160,12 @@ public class ImmobiliareScraper {
 
     
     /**
-     * Analyzes a single element and discover all the information for the house
+     * Analyzes a single result of a global search and discover all the information for the house
+     * 
      * @param announceElem
      * @return
      */
-    private HouseAnnounce parseAnnounce(Element announceElem) {
+    private HouseAnnounce parseAnnounceInSearchResult(Element announceElem) {
         HouseAnnounce announce = new HouseAnnounce();
         boolean findData = false;
 
@@ -205,5 +241,54 @@ public class ImmobiliareScraper {
     }
 
 
+    private AnnounceScrapingResult scrapeAnnounce(HouseAnnounce announce) {
+        AnnounceScrapingResult result = new AnnounceScrapingResult();
+
+        if (null == announce || StringUtils.isEmpty(announce.getDetailUrl())) {
+            //TODO add error here
+            result.addError();
+            return result;
+        }
+
+        mLogFacility.info(LOG_HASH, "Scraping for announce " + announce.getDetailUrl());
+        String text = null;
+        try {
+            text = mNetworkManager.getUrlContent(announce.getDetailUrl());
+        } catch (Exception e) {
+            //TODO add error here
+            e.printStackTrace();
+            result.addError();
+            return result;
+        }
+
+        Document doc = Jsoup.parse(text);
+
+        if (null == doc) {
+            //TODO add error here
+            result.addError();
+            return result;
+        }
+        
+        //data to add
+        //lat/long
+        try {
+            Element mapsElem = doc.select("div#titolo_mappa").first().getElementsByTag("script").last();
+            String scriptContent = mapsElem.toString();
+            String lat = ScraperUtils.getTextBetween(scriptContent, "__g_latitudine = \"", "\";");
+            String lon = ScraperUtils.getTextBetween(scriptContent, "__g_longitudine = \"", "\";");
+            if (StringUtils.isNotEmpty(lat) && StringUtils.isNotEmpty(lon)) {
+                announce.setLat(lat);
+                announce.setLon(lon);
+                announce.setDeepProcessed(true);
+            }
+        } catch (Exception e) {
+            mLogFacility.warn(LOG_HASH, "Cannot find div.titolo_mappa");
+        }
+        
+        result.setAnnounce(announce);
+        return result;
+    }
+
+    
     // ----------------------------------------- Private Classes
 }
