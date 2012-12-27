@@ -3,26 +3,27 @@
  */
 package it.rainbowbreeze.housemanager.domain;
 
-import javax.persistence.Entity;
-
 /**
  * @author Alfredo "Rainbowbreeze" Morresi
  *
  */
-@Entity(name = "HouseAnnounce")
 public class HouseAnnounce {
 
     // ------------------------------------------ Private Fields
 
     // -------------------------------------------- Constructors
+    public HouseAnnounce() {
+        mDeepProcessed = false;
+    }
+    
 
     // --------------------------------------- Public Properties
     private String mTitle;
     public String getTitle() {
         return mTitle;
     }
-    public HouseAnnounce setTitle(String value) {
-        mTitle = value;
+    public HouseAnnounce setTitle(String newValue) {
+        mTitle = newValue;
         return this;
     }
 
@@ -30,8 +31,8 @@ public class HouseAnnounce {
     public String getDetailUrl() {
         return mDetailUrl;
     }
-    public HouseAnnounce setDetailUrl(String value) {
-        mDetailUrl = value;
+    public HouseAnnounce setDetailUrl(String newValue) {
+        mDetailUrl = newValue;
         return this;
     }
 
@@ -39,8 +40,8 @@ public class HouseAnnounce {
     public int getPrice() {
         return mPrice;
     }
-    public HouseAnnounce setPrice(int value) {
-        mPrice = value;
+    public HouseAnnounce setPrice(int newValue) {
+        mPrice = newValue;
         return this;
     }
 
@@ -48,8 +49,8 @@ public class HouseAnnounce {
     public int getArea() {
         return mArea;
     }
-    public HouseAnnounce setArea(int value) {
-        mArea = value;
+    public HouseAnnounce setArea(int newValue) {
+        mArea = newValue;
         return this;
     }
 
@@ -57,8 +58,8 @@ public class HouseAnnounce {
     public String getShortDesc() {
         return mShortDesc;
     }
-    public HouseAnnounce setShortDesc(String value) {
-        mShortDesc = value;
+    public HouseAnnounce setShortDesc(String newValue) {
+        mShortDesc = newValue;
         return this;
     }
 
@@ -66,10 +67,24 @@ public class HouseAnnounce {
     public String getImgUrl() {
         return mImgUrl;
     }
-    public HouseAnnounce setImgUrl(String value) {
-        mImgUrl = value;
+    public HouseAnnounce setImgUrl(String newValue) {
+        mImgUrl = newValue;
         return this;
     }
+    
+    
+    private boolean mDeepProcessed;
+    /**
+     * Deep analysis of the announce, not only the scraping for main page site
+     */
+    public boolean wasDeepProcessed() {
+        return mDeepProcessed;
+    }
+    public HouseAnnounce setDeepProcessed(boolean newValue) {
+        mDeepProcessed = newValue;
+        return this;
+    }
+    
 
 
     // ------------------------------------------ Public Methods

@@ -11,15 +11,16 @@ import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * Contains result of scraping action
+ * Contains result of scraping action for the main search page of the website,
+ * the ones with lot of result, not a particular announce page
  * 
  * @author Alfredo "Rainbowbreeze" Morresi
  */
-public class ScrapingResult {
+public class SearchPageScrapingResult {
     // ------------------------------------------ Private Fields
 
     // -------------------------------------------- Constructors
-    public ScrapingResult() {
+    public SearchPageScrapingResult() {
     }
 
     // --------------------------------------- Public Properties
@@ -27,7 +28,7 @@ public class ScrapingResult {
     public String getCursor() {
         return mCursor;
     }
-    public ScrapingResult setCursor(String cursor) {
+    public SearchPageScrapingResult setCursor(String cursor) {
         mCursor = cursor;
         return this;
     }
@@ -36,7 +37,7 @@ public class ScrapingResult {
     public int getTotalPages() {
         return mTotalPages;
     }
-    public ScrapingResult setTotalPages(int totalPages) {
+    public SearchPageScrapingResult setTotalPages(int totalPages) {
         this.mTotalPages = totalPages;
         return this;
     }
@@ -58,7 +59,7 @@ public class ScrapingResult {
         return !StringUtils.isEmpty(mCursor);
     }
     
-    public ScrapingResult addError() {
+    public SearchPageScrapingResult addError() {
         mConversionError++;
         return this;
     }

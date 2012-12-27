@@ -3,7 +3,10 @@
  */
 package it.rainbowbreeze.housemanager.scraper;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertTrue;
 import it.rainbowbreeze.housemanager.common.App;
 import it.rainbowbreeze.housemanager.common.MockNetworkManager;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
@@ -16,8 +19,6 @@ import java.io.IOException;
 import org.apache.commons.lang3.StringUtils;
 import org.junit.Before;
 import org.junit.Test;
-
-import com.sun.source.tree.AssertTree;
 
 /**
  * @author Alfredo "Rainbowbreeze" Morresi
@@ -51,7 +52,7 @@ public class ImmobiliareScraperTest {
         
         mNetworkManager.getUrlReplies().put(ImmobiliareScraper.URL_FIRST_QUERY, fileContent);
         
-        ScrapingResult result = mScraper.scrape();
+        SearchPageScrapingResult result = mScraper.scrape();
         assertNotNull(result);
         assertTrue(result.hasMoreResults());
         assertFalse(result.hasErrors());
@@ -66,6 +67,7 @@ public class ImmobiliareScraperTest {
             assertTrue("Title", StringUtils.isNotEmpty(announce.getTitle()));
             assertTrue("Area", announce.getArea() > 0);
             assertTrue("Price", announce.getPrice() > 0);
+            assertFalse("Deep processed", announce.wasDeepProcessed());
         }
     }
 
@@ -77,7 +79,7 @@ public class ImmobiliareScraperTest {
 
         mNetworkManager.getUrlReplies().put(ImmobiliareScraper.URL_NEXT_QUERY + cursor, fileContent);
         
-        ScrapingResult result = mScraper.scrapeNext(cursor);
+        SearchPageScrapingResult result = mScraper.scrapeNext(cursor);
         assertNotNull(result);
         assertFalse(result.hasErrors());
         assertEquals(61, result.getTotalPages());
@@ -91,6 +93,7 @@ public class ImmobiliareScraperTest {
             assertFalse("Short desc", StringUtils.isEmpty(announce.getShortDesc()));
             assertFalse("Title", StringUtils.isEmpty(announce.getTitle()));
             assertTrue("Area", announce.getArea() > 0);
+            assertFalse("Deep processed", announce.wasDeepProcessed());
             //assertTrue("Price", announce.getPrice() > 0); //trattativa riservata
         }
     }

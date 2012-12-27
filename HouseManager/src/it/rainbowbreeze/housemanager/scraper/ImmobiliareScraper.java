@@ -38,17 +38,17 @@ public class ImmobiliareScraper {
     // --------------------------------------- Public Properties
 
     // ------------------------------------------ Public Methods
-    public ScrapingResult scrape() {
+    public SearchPageScrapingResult scrape() {
         return scrapePage(URL_FIRST_QUERY);
     }
 
-    public ScrapingResult scrapeNext(String cursor) {
+    public SearchPageScrapingResult scrapeNext(String cursor) {
         return scrapePage(URL_NEXT_QUERY + cursor);
     }
-
+    
     // ----------------------------------------- Private Methods
     
-    private ScrapingResult scrapePage(String url) {
+    private SearchPageScrapingResult scrapePage(String url) {
         String text = null;
         try {
             text = mNetworkManager.getUrlContent(url);
@@ -59,7 +59,7 @@ public class ImmobiliareScraper {
         Document doc = Jsoup.parse(text);
         
         //find total pages
-        ScrapingResult result = new ScrapingResult();
+        SearchPageScrapingResult result = new SearchPageScrapingResult();
 
         if (null == doc) {
             //TODO add error here
@@ -153,9 +153,14 @@ public class ImmobiliareScraper {
         try {
             priceStr = announceElem.select("span.price").first().text();
             priceStr = priceStr.replace("€", "").replace(".", "").trim();
-            int price = Integer.parseInt(priceStr);
-            findData = true;
-            announce.setPrice(price);
+            if ("Trattative riservate".equalsIgnoreCase(priceStr)) {
+                findData = true;
+                announce.setPrice(0);
+            } else {
+                int price = Integer.parseInt(priceStr);
+                findData = true;
+                announce.setPrice(price);
+            }
         } catch (NumberFormatException e) {
             mLogFacility.warn(LOG_HASH, "Wrong conversion of price: " + priceStr);
         } catch (Exception e) {
