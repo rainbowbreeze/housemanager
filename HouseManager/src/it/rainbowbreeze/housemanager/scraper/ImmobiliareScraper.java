@@ -23,6 +23,8 @@ public class ImmobiliareScraper {
     // ------------------------------------------ Private Fields
     private static final String LOG_HASH = ImmobiliareScraper.class.getSimpleName();
 
+    private static final String DOMAIN_SITE = "Immobiliare.it";
+
     public static final String URL_FIRST_RESULT_PAGE = "http://www.immobiliare.it/Pavia/vendita_case-Pavia.html?criterio=rilevanza";
     public static final String URL_NEXT_RESULT_PAGE_BASE = "http://www.immobiliare.it";
     public static final String URL_DETAIL_ANNOUNCE_BASE = "http://www.immobiliare.it";
@@ -236,6 +238,8 @@ public class ImmobiliareScraper {
         } catch (Exception e) {
             mLogFacility.warn(LOG_HASH, "Cannot find div.wrap_img");
         }
+        
+        announce.setDomainSite(DOMAIN_SITE);
 
         return findData ? announce : null;
     }

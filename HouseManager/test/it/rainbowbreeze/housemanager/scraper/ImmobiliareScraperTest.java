@@ -66,6 +66,7 @@ public class ImmobiliareScraperTest {
             assertTrue("Title", StringUtils.isNotEmpty(announce.getTitle()));
             assertTrue("Area", announce.getArea() > 0);
             assertTrue("Price", announce.getPrice() > 0);
+            assertTrue("Domain", StringUtils.isNotEmpty(announce.getDomainSite()));
             assertFalse("Deep processed", announce.wasDeepProcessed());
         }
     }
@@ -92,6 +93,7 @@ public class ImmobiliareScraperTest {
             assertTrue("Short desc", StringUtils.isNotEmpty(announce.getShortDesc()));
             assertTrue("Title", StringUtils.isNotEmpty(announce.getTitle()));
             assertTrue("Area", announce.getArea() > 0);
+            assertTrue("Domain", StringUtils.isNotEmpty(announce.getDomainSite()));
             assertFalse("Deep processed", announce.wasDeepProcessed());
             //assertTrue("Price", announce.getPrice() > 0); //trattativa riservata
         }

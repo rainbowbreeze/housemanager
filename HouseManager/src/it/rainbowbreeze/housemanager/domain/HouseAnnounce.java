@@ -18,6 +18,20 @@ public class HouseAnnounce {
     
 
     // --------------------------------------- Public Properties
+    private String mDomainSite;
+    /**
+     * Source site of the announce
+     * @return
+     */
+    public String getDomainSite() {
+        return mDomainSite;
+    }
+    public HouseAnnounce setDomainSite(String newValue) {
+        mDomainSite = newValue;
+        return this;
+    }
+
+    
     private String mTitle;
     public String getTitle() {
         return mTitle;
