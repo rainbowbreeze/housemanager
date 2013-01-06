@@ -22,7 +22,7 @@ import org.jsoup.select.Elements;
  * @author Alfredo "Rainbowbreeze" Morresi
  *
  */
-public class ImmobiliareScraper {
+public class ImmobiliareScraper implements IHouseScraper {
     // ------------------------------------------ Private Fields
     private static final String LOG_HASH = ImmobiliareScraper.class.getSimpleName();
 
@@ -44,6 +44,22 @@ public class ImmobiliareScraper {
     // --------------------------------------- Public Properties
 
     // ------------------------------------------ Public Methods
+    public String getName() {
+        return LOG_HASH;
+    }
+    
+    /**
+     * Tasks to do before the scraping begins
+     */
+    public void initProcess() {
+    }
+    
+    /**
+     * Tasks to do after the scraping has finished
+     */
+    public void coolDown() {
+        
+    }
     
     /**
      * Scrapes the first page of a global search on selected site
@@ -296,6 +312,5 @@ public class ImmobiliareScraper {
         return result;
     }
 
-    
     // ----------------------------------------- Private Classes
 }

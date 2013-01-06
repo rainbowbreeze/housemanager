@@ -8,4 +8,10 @@ package it.rainbowbreeze.housemanager.scraper;
  *
  */
 public interface IHouseScraper {
+
+    /**
+     * Returns the agent name (unique among all agents)
+     * @return
+     */
+    String getName();
 }
