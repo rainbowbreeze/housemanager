@@ -30,7 +30,7 @@ public class HouseAnnounce {
     
 
     // --------------------------------------- Public Properties
-    @Id private long mId;
+    @Id private Long mId;
     
     
     private String mDomainSite;

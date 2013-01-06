@@ -3,8 +3,10 @@
  */
 package it.rainbowbreeze.housemanager.data;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 import it.rainbowbreeze.housemanager.common.App;
+import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
+import it.rainbowbreeze.housemanager.domain.HouseAnnounce.AnnounceType;
 
 import org.junit.After;
 import org.junit.Before;
@@ -12,6 +14,7 @@ import org.junit.Test;
 
 import com.google.appengine.tools.development.testing.LocalDatastoreServiceTestConfig;
 import com.google.appengine.tools.development.testing.LocalServiceTestHelper;
+import com.googlecode.objectify.Key;
 
 /**
  * TODO: Check https://developers.google.com/appengine/docs/java/tools/localunittesting
@@ -49,9 +52,28 @@ public class HouseAnnounceDaoTest {
         int size;
         
         mDao.deleteAll();
-        //TODO test no key in the datastore in a better way
         size = mDao.count();
         assertEquals(0, size);
+        
+        HouseAnnounce houseAnnounce1 = new HouseAnnounce()
+                .setAnnounceType(AnnounceType.RENT)
+                .setArea(45)
+                .setDeepProcessed(false)
+                .setDetailUrl("http://detailurl1")
+                .setDomainSite("tecnocasa")
+                .setImgUrl("http://imageurl1")
+                .setLat("123.123")
+                .setLon("456.456")
+                .setPrice(145000)
+                .setShortDesc("shortdesc 1")
+                .setTitle("Title 1");
+        Key<HouseAnnounce> saveResult = mDao.save(houseAnnounce1);
+        assertNotNull(saveResult);
+        
+        size = mDao.count();
+        assertEquals(1, size);
+        
+        
     }
 
     // ----------------------------------------- Private Methods

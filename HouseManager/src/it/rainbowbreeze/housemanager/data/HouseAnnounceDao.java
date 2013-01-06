@@ -80,7 +80,6 @@ public class HouseAnnounceDao {
         mLogFacility.d(LOG_HASH, "Delete all entities");
         ofy().delete()
                 .type(HouseAnnounce.class);
-        
     }
 
     // ----------------------------------------- Private Methods
