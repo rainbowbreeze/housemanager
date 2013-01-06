@@ -25,30 +25,44 @@ public class LogFacility implements ILogFacility {
     // ------------------------------------------ Public Methods
 
     /* (non-Javadoc)
+     * @see it.rainbowbreeze.housemanager.common.ILogFacility#d(java.lang.String)
+     */
+    public void d(String message) {
+        log(Level.FINE, message);
+    }
+
+    /* (non-Javadoc)
+     * @see it.rainbowbreeze.housemanager.common.ILogFacility#d(java.lang.String, java.lang.String)
+     */
+    public void d(String method, String message) {
+        log(Level.FINE, createMethodPrefix(method, message));
+    }
+    
+    /* (non-Javadoc)
      * @see it.rainbowbreeze.housemanager.common.ILogFacility#info(java.lang.String)
      */
-    public void info(String message) {
+    public void i(String message) {
         log(Level.INFO, message);
     }
 
     /* (non-Javadoc)
      * @see it.rainbowbreeze.housemanager.common.ILogFacility#info(java.lang.String, java.lang.String)
      */
-    public void info(String method, String message) {
+    public void i(String method, String message) {
         log(Level.INFO, createMethodPrefix(method, message));
     }
     
     /* (non-Javadoc)
      * @see it.rainbowbreeze.housemanager.common.ILogFacility#warn(java.lang.String)
      */
-    public void warn(String message) {
+    public void w(String message) {
         log(Level.WARNING, message);
     }
 
     /* (non-Javadoc)
      * @see it.rainbowbreeze.housemanager.common.ILogFacility#warn(java.lang.String, java.lang.String)
      */
-    public void warn(String method, String message) {
+    public void w(String method, String message) {
         log(Level.WARNING, createMethodPrefix(method, message));
     }
     

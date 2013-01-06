@@ -3,11 +3,10 @@
  */
 package it.rainbowbreeze.housemanager.data;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Map;
-
 import it.rainbowbreeze.housemanager.common.ILogFacility;
+
+import java.util.ArrayList;
+import java.util.Map;
 
 import com.google.appengine.api.datastore.Cursor;
 import com.google.appengine.api.datastore.DatastoreService;
@@ -18,13 +17,10 @@ import com.google.appengine.api.datastore.FetchOptions;
 import com.google.appengine.api.datastore.Key;
 import com.google.appengine.api.datastore.KeyFactory;
 import com.google.appengine.api.datastore.PreparedQuery;
-import com.google.appengine.api.datastore.PropertyProjection;
 import com.google.appengine.api.datastore.Query;
-import com.google.appengine.api.datastore.Query.CompositeFilterOperator;
 import com.google.appengine.api.datastore.Query.FilterOperator;
 import com.google.appengine.api.datastore.Query.SortDirection;
 import com.google.appengine.api.datastore.QueryResultList;
-import com.google.appengine.api.search.Results;
 
 /**
  * 
@@ -56,7 +52,7 @@ public abstract class AbstractEntityDao<T extends Entity> {
              Entity entity = mDs.get(key);
              return entity;
         } catch (EntityNotFoundException e) {
-            mLogFacility.info(getLogHash(), "Entity not found for the name " + name);
+            mLogFacility.d(getLogHash(), "Entity not found for the name " + name);
             return null;
         }
     }

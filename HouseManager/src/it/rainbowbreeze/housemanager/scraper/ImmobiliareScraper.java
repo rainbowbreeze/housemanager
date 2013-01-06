@@ -82,7 +82,7 @@ public class ImmobiliareScraper {
     private SearchPageScrapingResult scrapePage(String url) {
         SearchPageScrapingResult result = new SearchPageScrapingResult();
         
-        mLogFacility.info(LOG_HASH, "Scraping for result page " + url);
+        mLogFacility.d(LOG_HASH, "Scraping for result page " + url);
 
         String text = null;
         try {
@@ -135,9 +135,9 @@ public class ImmobiliareScraper {
             pageCount = doc.select("div#pageCount").first().getElementsByTag("strong").last().text().trim();
             return Integer.parseInt(pageCount);
         } catch (NumberFormatException e) {
-            mLogFacility.warn(LOG_HASH, "Wrong conversion of total pages: " + pageCount);
+            mLogFacility.w(LOG_HASH, "Wrong conversion of total pages: " + pageCount);
         } catch (Exception e) {
-            mLogFacility.warn(LOG_HASH, "Cannot find page counter element");
+            mLogFacility.w(LOG_HASH, "Cannot find page counter element");
         }
         return 0;
     }
@@ -158,7 +158,7 @@ public class ImmobiliareScraper {
                 }
             }
         } catch (Exception e) {
-            mLogFacility.warn(LOG_HASH, "Cannot find div#paginazione");
+            mLogFacility.w(LOG_HASH, "Cannot find div#paginazione");
         }
         return null;
     }
@@ -187,7 +187,7 @@ public class ImmobiliareScraper {
                 findData = true;
             }
         } catch (Exception e) {
-            mLogFacility.warn(LOG_HASH, "Cannot find div.annuncio_title");
+            mLogFacility.w(LOG_HASH, "Cannot find div.annuncio_title");
         }
         
         String priceStr = null;
@@ -203,9 +203,9 @@ public class ImmobiliareScraper {
                 announce.setPrice(price);
             }
         } catch (NumberFormatException e) {
-            mLogFacility.warn(LOG_HASH, "Wrong conversion of price: " + priceStr);
+            mLogFacility.w(LOG_HASH, "Wrong conversion of price: " + priceStr);
         } catch (Exception e) {
-            mLogFacility.warn(LOG_HASH, "Cannot find span.price");
+            mLogFacility.w(LOG_HASH, "Cannot find span.price");
         }
         
         String areaStr = null;
@@ -216,9 +216,9 @@ public class ImmobiliareScraper {
             findData = true;
             announce.setArea(area);
         } catch (NumberFormatException e) {
-            mLogFacility.warn(LOG_HASH, "Wrong conversion of area: " + areaStr);
+            mLogFacility.w(LOG_HASH, "Wrong conversion of area: " + areaStr);
         } catch (Exception e) {
-            mLogFacility.warn(LOG_HASH, "Cannot find class.align_left");
+            mLogFacility.w(LOG_HASH, "Cannot find class.align_left");
         }
         
         try {
@@ -228,7 +228,7 @@ public class ImmobiliareScraper {
                 findData = true;
             }
         } catch (Exception e) {
-            mLogFacility.warn(LOG_HASH, "Cannot find div.descrizione");
+            mLogFacility.w(LOG_HASH, "Cannot find div.descrizione");
         }
         
         try {
@@ -239,7 +239,7 @@ public class ImmobiliareScraper {
                 findData = true;
             }
         } catch (Exception e) {
-            mLogFacility.warn(LOG_HASH, "Cannot find div.wrap_img");
+            mLogFacility.w(LOG_HASH, "Cannot find div.wrap_img");
         }
         
         announce.setDomainSite(DOMAIN_SITE);
@@ -257,7 +257,7 @@ public class ImmobiliareScraper {
             return result;
         }
 
-        mLogFacility.info(LOG_HASH, "Scraping for announce " + announce.getDetailUrl());
+        mLogFacility.d(LOG_HASH, "Scraping for announce " + announce.getDetailUrl());
         String text = null;
         try {
             text = mNetworkManager.getUrlContent(announce.getDetailUrl());
@@ -289,7 +289,7 @@ public class ImmobiliareScraper {
                 announce.setDeepProcessed(true);
             }
         } catch (Exception e) {
-            mLogFacility.warn(LOG_HASH, "Cannot find div.titolo_mappa");
+            mLogFacility.w(LOG_HASH, "Cannot find div.titolo_mappa");
         }
         
         result.setAnnounce(announce);

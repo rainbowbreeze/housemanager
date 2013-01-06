@@ -3,13 +3,25 @@
  */
 package it.rainbowbreeze.housemanager.domain;
 
+import com.googlecode.objectify.annotation.Entity;
+import com.googlecode.objectify.annotation.Id;
+
 /**
  * @author Alfredo "Rainbowbreeze" Morresi
  *
  */
+
+@Entity
 public class HouseAnnounce {
 
     // ------------------------------------------ Private Fields
+
+    // ------------------------------------------ Public Fields
+    public static class Contract {
+        private Contract() {}
+        
+        public static final String ID = "id";
+    }
 
     // -------------------------------------------- Constructors
     public HouseAnnounce() {
@@ -18,6 +30,9 @@ public class HouseAnnounce {
     
 
     // --------------------------------------- Public Properties
+    @Id private long mId;
+    
+    
     private String mDomainSite;
     /**
      * Source site of the announce
@@ -31,6 +46,19 @@ public class HouseAnnounce {
         return this;
     }
 
+    public enum AnnounceType { SELL, RENT };
+    private AnnounceType mAnnounceType;
+    /**
+     * Type of the announce, if it's a sell or a rental announce
+     * @return
+     */
+    public AnnounceType getAnnounceType() {
+        return mAnnounceType;
+    }
+    public HouseAnnounce setAnnounceType(AnnounceType newValue) {
+        mAnnounceType = newValue;
+        return this;
+    }
     
     private String mTitle;
     public String getTitle() {

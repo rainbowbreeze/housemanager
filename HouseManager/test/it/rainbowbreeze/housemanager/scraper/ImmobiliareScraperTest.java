@@ -16,6 +16,7 @@ import java.io.File;
 import java.io.FileInputStream;
 
 import org.apache.commons.lang3.StringUtils;
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -37,11 +38,16 @@ public class ImmobiliareScraperTest {
 
     // ------------------------------------------ Public Methods
     @Before
-    public void init() {
+    public void setUp() {
         mNetworkManager.getUrlReplies().clear();
         mScraper = new ImmobiliareScraper(
                 App.i().getLogFacility(),
                 mNetworkManager);
+    }
+    
+    @After
+    public void tearDown() {
+        
     }
     
     @Test

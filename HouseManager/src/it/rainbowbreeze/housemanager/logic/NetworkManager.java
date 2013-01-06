@@ -32,7 +32,7 @@ public class NetworkManager {
 
     // --------------------------------------- Public Properties
     public String getUrlContent(String url) throws MalformedURLException, IOException {
-        mLogFacility.info("Get content for url: " + url);
+        mLogFacility.d("Get content for url: " + url);
         
         URL urlObj = new URL(url);
         BufferedReader reader = null;
@@ -50,10 +50,10 @@ public class NetworkManager {
             return builder.toString();
             
         } catch (MalformedURLException e) {
-            mLogFacility.warn(LOG_HASH, "Malformed url");
+            mLogFacility.w(LOG_HASH, "Malformed url");
             throw e;
         } catch (IOException e) {
-            mLogFacility.warn(LOG_HASH, "IO Error: " + e.getMessage());
+            mLogFacility.w(LOG_HASH, "IO Error: " + e.getMessage());
             throw e;
         } finally {
             if (null != reader) {

@@ -11,9 +11,12 @@ package it.rainbowbreeze.housemanager.common;
  */
 public interface ILogFacility {
 
-    void info(String message);
-    void info(String method, String message);
+    void d(String message);
+    void d(String method, String message);
 
-    void warn(String message);
-    void warn(String method, String message);
+    void i(String message);
+    void i(String method, String message);
+
+    void w(String message);
+    void w(String method, String message);
 }
