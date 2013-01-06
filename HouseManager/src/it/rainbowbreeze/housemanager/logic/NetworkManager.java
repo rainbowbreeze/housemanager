@@ -13,6 +13,9 @@ import java.net.URL;
 import it.rainbowbreeze.housemanager.common.ILogFacility;
 
 /**
+ * TODO: Check http://code.google.com/p/google-http-java-client/wiki/DeveloperGuide
+ * 
+ * 
  * @author Alfredo "Rainbowbreeze" Morresi
  *
  */

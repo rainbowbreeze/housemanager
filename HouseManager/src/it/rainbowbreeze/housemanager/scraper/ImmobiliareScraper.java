@@ -16,6 +16,9 @@ import org.jsoup.select.Elements;
 /**
  * Specialized scraper for Immobiliare.it website
  * 
+ * It uses Jsoup library to parse the HTML DOM
+ *  http://jsoup.org/cookbook/extracting-data/dom-navigation
+ * 
  * @author Alfredo "Rainbowbreeze" Morresi
  *
  */

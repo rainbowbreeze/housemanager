@@ -9,6 +9,10 @@ import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 import com.google.appengine.api.datastore.Entity;
 
 /**
+ * TODO: check what framework use
+ * http://code.google.com/p/objectify-appengine/wiki/Concepts?tm=6
+ * http://code.google.com/p/twig-persist/wiki/Comparison#Objectify_and_SimpleDS
+ * 
  * @author Alfredo "Rainbowbreeze" Morresi
  *
  */
