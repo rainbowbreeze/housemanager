@@ -72,7 +72,7 @@ public class App {
        RainbowServiceLocator.put(immobiliareScraper);
        HouseAnnounceDao houseAnnounceDao = new HouseAnnounceDao(logFacility);
        RainbowServiceLocator.put(houseAnnounceDao);
-       ScrapingAgentManager scrapingAgentManager = new ScrapingAgentManager(logFacility);
+       ScrapingAgentManager scrapingAgentManager = new ScrapingAgentManager(logFacility, networkManager);
        RainbowServiceLocator.put(scrapingAgentManager);
     }
 

@@ -3,10 +3,11 @@
     <welcome-file-list>
         <welcome-file>index.html</welcome-file>
     </welcome-file-list>
-    
+
+    <!-- Servlets -->
     <servlet>
         <servlet-name>HouseManager</servlet-name>
-        <servlet-class>it.rainbowbreeze.housemanager.HouseManagerServlet</servlet-class>
+        <servlet-class>it.rainbowbreeze.housemanager.servlet.HouseManagerServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>HouseManager</servlet-name>
@@ -14,24 +15,28 @@
     </servlet-mapping>
 
 
+    <!-- Task queues -->
     <servlet>
         <servlet-name>houseagentQueue</servlet-name>
         <servlet-class>it.rainbowbreeze.housemanager.servlet.HouseAgentQueueServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>houseagentQueue</servlet-name>
-        <url-mapping>/_ah/queue/houseagent</url-mapping>
+        <url-pattern>/admin/tasks/houseagent</url-pattern>
     </servlet-mapping>
+    
+    <!-- Restrict access for all queues -->
     <security-constraint>
         <web-resource-collection>
-            <web-resource-name>houseagentQueue</web-resource-name>
-            <url-pattern>/_ah/queue/houseagent</url-pattern>
+            <web-resource-name>taskQueues</web-resource-name>
+            <url-pattern>/admin/tasks/*</url-pattern>
         </web-resource-collection>
         <auth-constraint>
             <role-name>admin</role-name>
         </auth-constraint>
     </security-constraint>
 
+    
     <servlet>
         <servlet-name>SystemServiceServlet</servlet-name>
         <servlet-class>com.google.api.server.spi.SystemServiceServlet</servlet-class>
@@ -45,6 +50,7 @@
         <url-pattern>/_ah/spi/*</url-pattern>
     </servlet-mapping>
 
+    
     <!-- Required by objectify -->
     <filter>
         <filter-name>ObjectifyFilter</filter-name>

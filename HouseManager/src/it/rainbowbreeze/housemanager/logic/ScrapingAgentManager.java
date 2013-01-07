@@ -3,7 +3,6 @@
  */
 package it.rainbowbreeze.housemanager.logic;
 
-import it.rainbowbreeze.housemanager.common.App;
 import it.rainbowbreeze.housemanager.common.ILogFacility;
 import it.rainbowbreeze.housemanager.scraper.IHouseScraper;
 import it.rainbowbreeze.housemanager.scraper.ImmobiliareScraper;
@@ -16,8 +15,11 @@ import com.google.appengine.api.taskqueue.Queue;
 import com.google.appengine.api.taskqueue.QueueFactory;
 import com.google.appengine.api.taskqueue.TaskHandle;
 import com.google.appengine.api.taskqueue.TaskOptions;
+import com.google.appengine.api.taskqueue.TaskOptions.Method;
 
 /**
+ * http://googcloudlabs.appspot.com/codelabexercise8.html#Upload
+ * 
  * @author Alfredo "Rainbowbreeze" Morresi
  *
  */
@@ -29,13 +31,12 @@ public class ScrapingAgentManager {
     private final Map<String, IHouseScraper> mAgents;
     
     // -------------------------------------------- Constructors
-    public ScrapingAgentManager(ILogFacility logFacility) {
+    public ScrapingAgentManager(ILogFacility logFacility, NetworkManager networkManager) {
         mLogFacility = logFacility;
         
         //registers all the scraping agents
         mAgents = new HashMap<String, IHouseScraper>();
         //creates scraping agents
-        NetworkManager networkManager = App.i().getNetworkManager();
         IHouseScraper immobiliare = new ImmobiliareScraper(mLogFacility, networkManager);
         mAgents.put(immobiliare.getName(), immobiliare);
     }
@@ -54,8 +55,10 @@ public class ScrapingAgentManager {
             String taskName = agent.getName() + "-"; //no cursor
             TaskHandle taskHandle = queue.add(TaskOptions.Builder
                     .withTaskName(taskName)
+                    .url(HouseAgentQueueServlet.TASK_QUEUE_URL)
                     .param(HouseAgentQueueServlet.PARAM_AGENT_NAME, agent.getName())
-                    .param(HouseAgentQueueServlet.PARAM_CURSOR, ""));
+                    .param(HouseAgentQueueServlet.PARAM_CURSOR, "")
+                    .method(Method.POST));
             //creates a new queue for each agent
         }
         //load all the registered scraping agents

@@ -28,14 +28,16 @@ public class LogFacility implements ILogFacility {
      * @see it.rainbowbreeze.housemanager.common.ILogFacility#d(java.lang.String)
      */
     public void d(String message) {
-        log(Level.FINE, message);
+//        log(Level.FINE, message);
+        log(Level.INFO, message);
     }
 
     /* (non-Javadoc)
      * @see it.rainbowbreeze.housemanager.common.ILogFacility#d(java.lang.String, java.lang.String)
      */
     public void d(String method, String message) {
-        log(Level.FINE, createMethodPrefix(method, message));
+//        log(Level.FINE, createMethodPrefix(method, message));
+        log(Level.INFO, createMethodPrefix(method, message));
     }
     
     /* (non-Javadoc)

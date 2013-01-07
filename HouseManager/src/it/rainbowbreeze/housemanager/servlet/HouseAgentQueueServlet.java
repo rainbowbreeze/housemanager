@@ -37,16 +37,19 @@ public class HouseAgentQueueServlet extends HttpServlet {
 
     // ------------------------------------------- Public Fields
     /** Task queue for scraping tasks */
-    public static final String TASK_QUEUE_NAME = "houseagentQueue"; //same name in the queue.xml file
+    public static final String TASK_QUEUE_NAME = "houseagent"; //same name in the queue.xml
+    public static final String TASK_QUEUE_URL = "/admin/tasks/houseagent"; //same name in the web.xml
 
     public static final String PARAM_AGENT_NAME = "AgentName";
     public static final String PARAM_CURSOR = "Cursor";
+
     
     // --------------------------------------- Public Properties
 
     // -------------------------------------------------- Events
 
     // ------------------------------------------ Public Methods
+    
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
