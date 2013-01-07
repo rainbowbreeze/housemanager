@@ -48,41 +48,21 @@ public class ImmobiliareScraper implements IHouseScraper {
         return LOG_HASH;
     }
     
-    /**
-     * Tasks to do before the scraping begins
-     */
     public void initProcess() {
     }
     
-    /**
-     * Tasks to do after the scraping has finished
-     */
     public void coolDown() {
         
     }
     
-    /**
-     * Scrapes the first page of a global search on selected site
-     * @return
-     */
     public SearchPageScrapingResult scrape() {
         return scrapePage(URL_FIRST_RESULT_PAGE);
     }
 
-    /**
-     * Scrapes for page 2 - n of a global search on selected site 
-     * @param cursor
-     * @return
-     */
-    public SearchPageScrapingResult scrapeNext(String cursor) {
+    public SearchPageScrapingResult scrape(String cursor) {
         return scrapePage(URL_NEXT_RESULT_PAGE_BASE + cursor);
     }
-    
-    /**
-     * Adds information to an announce scraping his own page
-     * @param announce
-     * @return
-     */
+
     public AnnounceScrapingResult scrapeDeep(HouseAnnounce announce) {
         return scrapeAnnounce(announce);
     }

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<queue-entries>
+    <queue>
+        <name>default</name>
+        <rate>10/s</rate>
+    </queue>
+    
+    <queue>
+        <name>houseagentQueue</name>
+        <rate>10/s</rate>
+        <bucket-size>10</bucket-size>
+        <retry-parameters>
+            <task_retry_limit>10</task_retry_limit>
+            <task_age_limit>1d</task_age_limit>
+        </retry-parameters>
+    </queue>
+</queue-entries>

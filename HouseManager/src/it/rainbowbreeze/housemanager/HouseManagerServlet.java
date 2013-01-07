@@ -2,6 +2,7 @@ package it.rainbowbreeze.housemanager;
 
 import it.rainbowbreeze.housemanager.common.App;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
+import it.rainbowbreeze.housemanager.logic.ScrapingAgentManager;
 import it.rainbowbreeze.housemanager.scraper.AnnounceScrapingResult;
 import it.rainbowbreeze.housemanager.scraper.SearchPageScrapingResult;
 
@@ -26,5 +27,9 @@ public class HouseManagerServlet extends HttpServlet {
         HouseAnnounce announce = searchResult.getAnnounces().get(0);
         AnnounceScrapingResult deepResult = App.i().getImmobiliareScraper().scrapeDeep(announce);
         resp.getWriter().println("Lat: " + deepResult.getAnnounce().getLat() + " - Lon: " + deepResult.getAnnounce().getLon());
+        
+        App.i().getHouseAnnounceDao().deleteAll();
+        ScrapingAgentManager scrapintAgentManager = App.i().getScrapingAgentManager();
+        scrapintAgentManager.startAgents();
     }
 }

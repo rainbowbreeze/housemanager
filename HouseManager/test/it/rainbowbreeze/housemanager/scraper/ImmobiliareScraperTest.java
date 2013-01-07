@@ -85,7 +85,7 @@ public class ImmobiliareScraperTest {
 
         mNetworkManager.getUrlReplies().put(ImmobiliareScraper.URL_NEXT_RESULT_PAGE_BASE + cursor, fileContent);
         
-        SearchPageScrapingResult result = mScraper.scrapeNext(cursor);
+        SearchPageScrapingResult result = mScraper.scrape(cursor);
         assertNotNull(result);
         assertFalse(result.hasErrors());
         assertEquals(61, result.getTotalPages());
