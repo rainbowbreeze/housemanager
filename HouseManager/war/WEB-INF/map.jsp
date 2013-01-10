@@ -17,29 +17,35 @@
         <script type="text/javascript">
             function initialize() {
                 var mapOptions = {
+                    //centered on Pavia
                     center: new google.maps.LatLng(45.185182663283705, 9.158477783203125),
                     zoom: 8,
                     mapTypeId: google.maps.MapTypeId.ROADMAP
                 };
                 var map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
 
+                //Pavia borders
                 var southWest = new google.maps.LatLng(45.212036101115885, 9.116249084472656);
                 var northEast = new google.maps.LatLng(45.168725648565285, 9.203453063964844);
                 var bounds = new google.maps.LatLngBounds(southWest,northEast);
                 map.fitBounds(bounds);
-              
+                
                 <c:forEach var="announce" items="${announces}">
-                    var location = new google.maps.LatLng(
-                        "${announce.lat}", "${announce.lon}");
-                    var marker = new google.maps.Marker({
-                        position: location,
-                        map: map
-                    });
-                    marker.setTitle("${announce.title}");
-                    google.maps.event.addListener(marker, 'click', function() {
-                        map.setCenter(marker.getPosition());
-                    });                
-                </c:forEach>              
+                    createMarker(map, '${announce.lat}', '${announce.lon}', "${announce.title}", "${announce.detailUrl}");
+                </c:forEach>    
+            }
+            
+            function createMarker(map, lat, lng, title, detailUrl) {
+                var location = new google.maps.LatLng(lat, lng);
+                var marker = new google.maps.Marker({
+                    position: location,
+                    map: map
+                });
+                marker.setTitle(title);
+                google.maps.event.addListener(marker, 'click', function() {
+                    console.log("Latitude: " + marker.getPosition() + ", Title: " + marker.getTitle());
+                    map.setCenter(marker.getPosition());
+                });
             }
         </script>
     </head>
