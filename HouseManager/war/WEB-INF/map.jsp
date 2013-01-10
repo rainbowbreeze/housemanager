@@ -29,22 +29,31 @@
                 var northEast = new google.maps.LatLng(45.168725648565285, 9.203453063964844);
                 var bounds = new google.maps.LatLngBounds(southWest,northEast);
                 map.fitBounds(bounds);
+
+                <%--
+                //<c:forEach var="announce" items="${announces}">
+                //    createMarker(map, '${announce.lat}', '${announce.lon}', "${announce.title}", "${announce.detailUrl}");
+                //</c:forEach>
+                --%>
+                var announces = JSON.parse('${announces}');
                 
-                <c:forEach var="announce" items="${announces}">
-                    createMarker(map, '${announce.lat}', '${announce.lon}', "${announce.title}", "${announce.detailUrl}");
-                </c:forEach>    
+                for(var i=0, len=announces.length; i < len; i++) {
+                    createMarker(map, announces[i]);
+                }
             }
             
-            function createMarker(map, lat, lng, title, detailUrl) {
-                var location = new google.maps.LatLng(lat, lng);
+            //function createMarker(map, lat, lng, titleEsc, area, price, description, detailUrl) {
+            function createMarker(map, announce) {
+                if (announce.price > 100) return;
+                var location = new google.maps.LatLng(announce.lat, announce.lon);
                 var marker = new google.maps.Marker({
                     position: location,
                     map: map
                 });
                 var infoWindow = new google.maps.InfoWindow({
-                    content: title
+                    content: unescape(announce.title)
                 });
-                marker.setTitle(title);
+                marker.setTitle(unescape(announce.title));
                 google.maps.event.addListener(marker, 'click', function() {
                     infoWindow.open(map, marker);
                     //map.setCenter(marker.getPosition());

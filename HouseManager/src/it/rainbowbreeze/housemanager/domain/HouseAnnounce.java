@@ -3,6 +3,11 @@
  */
 package it.rainbowbreeze.housemanager.domain;
 
+import java.net.URI;
+import java.net.URISyntaxException;
+
+import org.apache.commons.lang3.StringUtils;
+
 import com.googlecode.objectify.annotation.Entity;
 import com.googlecode.objectify.annotation.Id;
 
@@ -21,6 +26,7 @@ public class HouseAnnounce {
         private Contract() {}
         
         public static final String ID = "id";
+        public static final String SHORT_DESC = "shortDesc";
     }
 
     // -------------------------------------------- Constructors
@@ -161,11 +167,31 @@ public class HouseAnnounce {
         return this;
     }
     
-
-
     // ------------------------------------------ Public Methods
+    /**
+     * URL encodes some fields that could contains dirty values and could creates problem to javacript
+     *   
+     * @return
+     */
+    public HouseAnnounce encode() {
+        setTitle(encodeIfNotEmpty(getTitle()));
+        setShortDesc(encodeIfNotEmpty(getShortDesc()));
+        return this;
+    }
+
 
     // ----------------------------------------- Private Methods
+    private String encodeIfNotEmpty(String value) {
+        try {
+            //a RFC2396 encoding is requested, so spaces are substituted by %20, for example
+            //I wasn't able to find a smarter way to do this
+            return StringUtils.isNotEmpty(value)
+                    ? (new URI("http", value, null)).toASCIIString().substring(5) //remove the http: part
+                    : value;
+        } catch (URISyntaxException e) {
+            return value;
+        }
+    }
 
     // ----------------------------------------- Private Classes
 }
