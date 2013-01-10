@@ -1,7 +1,7 @@
 /**
  * 
  */
-package it.rainbowbreeze.housemanager.scraper;
+package it.rainbowbreeze.housemanager.logic.agent;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
@@ -11,6 +11,9 @@ import it.rainbowbreeze.housemanager.common.App;
 import it.rainbowbreeze.housemanager.common.MockNetworkManager;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 import it.rainbowbreeze.housemanager.logic.StreamHelper;
+import it.rainbowbreeze.housemanager.logic.agent.AnnounceScrapingResult;
+import it.rainbowbreeze.housemanager.logic.agent.ImmobiliareAgent;
+import it.rainbowbreeze.housemanager.logic.agent.SearchPageAgentResult;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -24,13 +27,13 @@ import org.junit.Test;
  * @author Alfredo "Rainbowbreeze" Morresi
  *
  */
-public class ImmobiliareScraperTest {
+public class ImmobiliareAgentTest {
     // ------------------------------------------ Private Fields
     private final MockNetworkManager mNetworkManager;
-    private ImmobiliareScraper mScraper;
+    private ImmobiliareAgent mAgent;
 
     // -------------------------------------------- Constructors
-    public ImmobiliareScraperTest() {
+    public ImmobiliareAgentTest() {
         mNetworkManager = new MockNetworkManager(App.i().getLogFacility());
     }
 
@@ -40,7 +43,7 @@ public class ImmobiliareScraperTest {
     @Before
     public void setUp() {
         mNetworkManager.getUrlReplies().clear();
-        mScraper = new ImmobiliareScraper(
+        mAgent = new ImmobiliareAgent(
                 App.i().getLogFacility(),
                 mNetworkManager);
     }
@@ -55,9 +58,9 @@ public class ImmobiliareScraperTest {
         File file = new File("testresources/immobiliare_mock_search_1.txt");
         String fileContent = StreamHelper.toString(new FileInputStream(file));
         
-        mNetworkManager.getUrlReplies().put(ImmobiliareScraper.URL_FIRST_RESULT_PAGE, fileContent);
+        mNetworkManager.getUrlReplies().put(ImmobiliareAgent.URL_FIRST_RESULT_PAGE, fileContent);
         
-        SearchPageScrapingResult result = mScraper.scrape();
+        SearchPageAgentResult result = mAgent.scrape();
         assertNotNull(result);
         assertTrue(result.hasMoreResults());
         assertFalse(result.hasErrors());
@@ -78,14 +81,42 @@ public class ImmobiliareScraperTest {
     }
 
     @Test
-    public void testLastPage() throws Exception {
-        String cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=61";
+    public void testSecondPage() throws Exception {
         File file = new File("testresources/immobiliare_mock_search_2.txt");
         String fileContent = StreamHelper.toString(new FileInputStream(file));
-
-        mNetworkManager.getUrlReplies().put(ImmobiliareScraper.URL_NEXT_RESULT_PAGE_BASE + cursor, fileContent);
+        String cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=2";
         
-        SearchPageScrapingResult result = mScraper.scrape(cursor);
+        mNetworkManager.getUrlReplies().put(ImmobiliareAgent.URL_NEXT_RESULT_PAGE_BASE + cursor, fileContent);
+        
+        SearchPageAgentResult result = mAgent.scrape(cursor);
+        assertNotNull(result);
+        assertTrue(result.hasMoreResults());
+        assertFalse(result.hasErrors());
+        assertEquals(62, result.getTotalPages());
+        assertEquals(15, result.getAnnounces().size());
+        assertEquals("/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=3", result.getCursor());
+        
+        for (HouseAnnounce announce : result.getAnnounces()) {
+            assertTrue("Detail url", StringUtils.isNotEmpty(announce.getDetailUrl()));
+            assertTrue("Image url", StringUtils.isNotEmpty(announce.getImgUrl()));
+            assertTrue("Short desc", StringUtils.isNotEmpty(announce.getShortDesc()));
+            assertTrue("Title", StringUtils.isNotEmpty(announce.getTitle()));
+            assertTrue("Area", announce.getArea() > 0);
+            assertTrue("Price", announce.getPrice() > -1); //trattative riservate
+            assertTrue("Domain", StringUtils.isNotEmpty(announce.getDomainSite()));
+            assertFalse("Deep processed", announce.wasDeepProcessed());
+        }
+    }
+
+    @Test
+    public void testLastPage() throws Exception {
+        String cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=61";
+        File file = new File("testresources/immobiliare_mock_search_61.txt");
+        String fileContent = StreamHelper.toString(new FileInputStream(file));
+
+        mNetworkManager.getUrlReplies().put(ImmobiliareAgent.URL_NEXT_RESULT_PAGE_BASE + cursor, fileContent);
+        
+        SearchPageAgentResult result = mAgent.scrape(cursor);
         assertNotNull(result);
         assertFalse(result.hasErrors());
         assertEquals(61, result.getTotalPages());
@@ -115,9 +146,9 @@ public class ImmobiliareScraperTest {
         mNetworkManager.getUrlReplies().put(url, fileContent);
         
         HouseAnnounce announce = new HouseAnnounce()
-            .setDetailUrl(url);
+                .setDetailUrl(url);
         
-        AnnounceScrapingResult result = mScraper.scrapeDeep(announce);
+        AnnounceScrapingResult result = mAgent.scrapeDeep(announce);
         assertNotNull(result);
         assertFalse(result.hasErrors());
         assertNotNull(result.getAnnounce());
@@ -125,6 +156,28 @@ public class ImmobiliareScraperTest {
         assertTrue(announce.wasDeepProcessed());
         assertEquals("45.181", announce.getLat());
         assertEquals("9.16894", announce.getLon());
+    }
+    
+    @Test
+    public void testGetTaskQueueName_Announce() {
+        String url = "http://www.immobiliare.it/34534230-Vendita-Bilocale-ottimo-stato-piano-terra-Pavia.html";
+        HouseAnnounce announce = mAgent.createAnnounce()
+                .setDetailUrl(url);
+        String taskName = mAgent.getTaskQueueName(announce);
+        assertEquals("ImmobiliareIt_34534230", taskName);
+    }
+    
+    @Test
+    public void testGetTaskQueueName_Cursor() {
+        String cursor = null;
+        String taskName = mAgent.getTaskQueueName(cursor);
+        assertEquals("ImmobiliareIt-", taskName);
+        cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=2";
+        taskName = mAgent.getTaskQueueName(cursor);
+        assertEquals("ImmobiliareIt-2", taskName);
+        cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=234";
+        taskName = mAgent.getTaskQueueName(cursor);
+        assertEquals("ImmobiliareIt-234", taskName);
     }
     
     // ----------------------------------------- Private Methods

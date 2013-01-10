@@ -1,7 +1,9 @@
 /**
  * 
  */
-package it.rainbowbreeze.housemanager.scraper;
+package it.rainbowbreeze.housemanager.logic.agent;
+
+import it.rainbowbreeze.housemanager.logic.agent.ScraperUtils;
 
 import org.apache.commons.lang3.StringUtils;
 import org.junit.Test;

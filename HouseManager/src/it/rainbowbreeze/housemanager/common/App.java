@@ -7,9 +7,9 @@ package it.rainbowbreeze.housemanager.common;
 import static it.rainbowbreeze.housemanager.common.RainbowContractHelper.checkNotNull;
 import it.rainbowbreeze.housemanager.data.HouseAnnounceDao;
 import it.rainbowbreeze.housemanager.logic.NetworkManager;
-import it.rainbowbreeze.housemanager.logic.ScrapingAgentManager;
-import it.rainbowbreeze.housemanager.scraper.IHouseScraper;
-import it.rainbowbreeze.housemanager.scraper.ImmobiliareScraper;
+import it.rainbowbreeze.housemanager.logic.HouseAgentsManager;
+import it.rainbowbreeze.housemanager.logic.agent.IHouseAgent;
+import it.rainbowbreeze.housemanager.logic.agent.ImmobiliareAgent;
 
 /**
  * Basic class for dependency injection and global bag of values
@@ -42,13 +42,13 @@ public class App {
         return checkNotNull(RainbowServiceLocator.get(HouseAnnounceDao.class), HouseAnnounceDao.class);
     }
     
-    public ScrapingAgentManager getScrapingAgentManager() {
-        return checkNotNull(RainbowServiceLocator.get(ScrapingAgentManager.class), ScrapingAgentManager.class);
+    public HouseAgentsManager getHouseAgentsManager() {
+        return checkNotNull(RainbowServiceLocator.get(HouseAgentsManager.class), HouseAgentsManager.class);
     }
 
     /** TODO remove */
-    public IHouseScraper getImmobiliareScraper() {
-        return checkNotNull(RainbowServiceLocator.get(ImmobiliareScraper.class), ImmobiliareScraper.class);
+    public IHouseAgent getImmobiliareScraper() {
+        return checkNotNull(RainbowServiceLocator.get(ImmobiliareAgent.class), ImmobiliareAgent.class);
     }
     
     
@@ -68,12 +68,12 @@ public class App {
        NetworkManager networkManager = new NetworkManager(logFacility);
        RainbowServiceLocator.put(networkManager);
        
-       IHouseScraper immobiliareScraper = new ImmobiliareScraper(logFacility, networkManager);
+       IHouseAgent immobiliareScraper = new ImmobiliareAgent(logFacility, networkManager);
        RainbowServiceLocator.put(immobiliareScraper);
        HouseAnnounceDao houseAnnounceDao = new HouseAnnounceDao(logFacility);
        RainbowServiceLocator.put(houseAnnounceDao);
-       ScrapingAgentManager scrapingAgentManager = new ScrapingAgentManager(logFacility, networkManager);
-       RainbowServiceLocator.put(scrapingAgentManager);
+       HouseAgentsManager houseAgentsManager = new HouseAgentsManager(logFacility, networkManager);
+       RainbowServiceLocator.put(houseAgentsManager);
     }
 
 }

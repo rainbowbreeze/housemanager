@@ -1,7 +1,9 @@
 /**
  * 
  */
-package it.rainbowbreeze.housemanager.scraper;
+package it.rainbowbreeze.housemanager.logic.agent;
+
+import java.util.UUID;
 
 import it.rainbowbreeze.housemanager.common.ILogFacility;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
@@ -22,11 +24,11 @@ import org.jsoup.select.Elements;
  * @author Alfredo "Rainbowbreeze" Morresi
  *
  */
-public class ImmobiliareScraper implements IHouseScraper {
+public class ImmobiliareAgent implements IHouseAgent {
     // ------------------------------------------ Private Fields
-    private static final String LOG_HASH = ImmobiliareScraper.class.getSimpleName();
+    private static final String LOG_HASH = ImmobiliareAgent.class.getSimpleName();
 
-    private static final String DOMAIN_SITE = "Immobiliare.it";
+    private static final String DOMAIN_SITE = "ImmobiliareIt";
 
     public static final String URL_FIRST_RESULT_PAGE = "http://www.immobiliare.it/Pavia/vendita_case-Pavia.html?criterio=rilevanza";
     public static final String URL_NEXT_RESULT_PAGE_BASE = "http://www.immobiliare.it";
@@ -36,7 +38,7 @@ public class ImmobiliareScraper implements IHouseScraper {
     private final NetworkManager mNetworkManager;
 
     // -------------------------------------------- Constructors
-    public ImmobiliareScraper(ILogFacility logFacility, NetworkManager networkManager) {
+    public ImmobiliareAgent(ILogFacility logFacility, NetworkManager networkManager) {
         mLogFacility = logFacility;
         mNetworkManager = networkManager;
     }
@@ -45,7 +47,7 @@ public class ImmobiliareScraper implements IHouseScraper {
 
     // ------------------------------------------ Public Methods
     public String getName() {
-        return LOG_HASH;
+        return DOMAIN_SITE;
     }
     
     public void initProcess() {
@@ -55,11 +57,11 @@ public class ImmobiliareScraper implements IHouseScraper {
         
     }
     
-    public SearchPageScrapingResult scrape() {
+    public SearchPageAgentResult scrape() {
         return scrapePage(URL_FIRST_RESULT_PAGE);
     }
 
-    public SearchPageScrapingResult scrape(String cursor) {
+    public SearchPageAgentResult scrape(String cursor) {
         return scrapePage(URL_NEXT_RESULT_PAGE_BASE + cursor);
     }
 
@@ -67,6 +69,43 @@ public class ImmobiliareScraper implements IHouseScraper {
         return scrapeAnnounce(announce);
     }
     
+    public String getUniqueKey(HouseAnnounce announce) {
+        if (null == announce) {
+            return null;
+        }
+        return announce.getDomainSite() + "-" + announce.getDetailUrl();
+    }
+
+    public String getTaskQueueName(HouseAnnounce announce) {
+        if (null == announce) {
+            return null;
+        }
+        String numericCode = ScraperUtils.getTextBetween(announce.getDetailUrl(), URL_DETAIL_ANNOUNCE_BASE + "/", "-");
+        return announce.getDomainSite() + "_" + numericCode;
+    }
+    
+    public String getTaskQueueName(String cursor) {
+        StringBuilder sb = new StringBuilder();
+        sb.append(getName()).append("-");
+        if (StringUtils.isNotEmpty(cursor)) {
+            //search for last =
+            int pos = cursor.lastIndexOf("=");
+            if (pos > -1) {
+                //get only the final number
+                sb.append(cursor.substring(pos+1));
+            } else {
+                //appends a random UUID
+                sb.append(UUID.randomUUID().toString());
+            }
+        }
+        return sb.toString();
+    }
+    
+    @Override
+    public HouseAnnounce createAnnounce() {
+        return new HouseAnnounce()
+                .setDomainSite(DOMAIN_SITE);
+    }
 
     // ----------------------------------------- Private Methods
     
@@ -75,8 +114,8 @@ public class ImmobiliareScraper implements IHouseScraper {
      * @param url
      * @return
      */
-    private SearchPageScrapingResult scrapePage(String url) {
-        SearchPageScrapingResult result = new SearchPageScrapingResult();
+    private SearchPageAgentResult scrapePage(String url) {
+        SearchPageAgentResult result = new SearchPageAgentResult();
         
         mLogFacility.d(LOG_HASH, "Scraping for result page " + url);
 
@@ -167,7 +206,7 @@ public class ImmobiliareScraper implements IHouseScraper {
      * @return
      */
     private HouseAnnounce parseAnnounceInSearchResult(Element announceElem) {
-        HouseAnnounce announce = new HouseAnnounce();
+        HouseAnnounce announce = createAnnounce();
         boolean findData = false;
 
         try {
@@ -238,7 +277,7 @@ public class ImmobiliareScraper implements IHouseScraper {
             mLogFacility.w(LOG_HASH, "Cannot find div.wrap_img");
         }
         
-        announce.setDomainSite(DOMAIN_SITE);
+        announce.setId(getUniqueKey(announce));
 
         return findData ? announce : null;
     }

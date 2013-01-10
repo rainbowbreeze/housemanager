@@ -25,128 +25,139 @@ public class HouseAnnounce {
 
     // -------------------------------------------- Constructors
     public HouseAnnounce() {
-        mDeepProcessed = false;
+        deepProcessed = false;
     }
     
 
     // --------------------------------------- Public Properties
-    @Id private Long mId;
+    @Id private String id;
+    /**
+     * Id of the announce
+     * @return
+     */
+    public String getId() {
+        return id;
+    }
+    public HouseAnnounce setId(String newValue) {
+        id = newValue;
+        return this;
+    }
     
     
-    private String mDomainSite;
+    private String domainSite;
     /**
      * Source site of the announce
      * @return
      */
     public String getDomainSite() {
-        return mDomainSite;
+        return domainSite;
     }
     public HouseAnnounce setDomainSite(String newValue) {
-        mDomainSite = newValue;
+        domainSite = newValue;
         return this;
     }
 
     public enum AnnounceType { SELL, RENT };
-    private AnnounceType mAnnounceType;
+    private AnnounceType announceType;
     /**
      * Type of the announce, if it's a sell or a rental announce
      * @return
      */
     public AnnounceType getAnnounceType() {
-        return mAnnounceType;
+        return announceType;
     }
     public HouseAnnounce setAnnounceType(AnnounceType newValue) {
-        mAnnounceType = newValue;
+        announceType = newValue;
         return this;
     }
     
-    private String mTitle;
+    private String title;
     public String getTitle() {
-        return mTitle;
+        return title;
     }
     public HouseAnnounce setTitle(String newValue) {
-        mTitle = newValue;
+        title = newValue;
         return this;
     }
 
-    private String mDetailUrl;
+    private String detailUrl;
     public String getDetailUrl() {
-        return mDetailUrl;
+        return detailUrl;
     }
     public HouseAnnounce setDetailUrl(String newValue) {
-        mDetailUrl = newValue;
+        detailUrl = newValue;
         return this;
     }
 
-    private int mPrice;
+    private int price;
     public int getPrice() {
-        return mPrice;
+        return price;
     }
     public HouseAnnounce setPrice(int newValue) {
-        mPrice = newValue;
+        price = newValue;
         return this;
     }
 
-    private int mArea;
+    private int area;
     public int getArea() {
-        return mArea;
+        return area;
     }
     public HouseAnnounce setArea(int newValue) {
-        mArea = newValue;
+        area = newValue;
         return this;
     }
 
-    private String mShortDesc;
+    private String shortDesc;
     public String getShortDesc() {
-        return mShortDesc;
+        return shortDesc;
     }
     public HouseAnnounce setShortDesc(String newValue) {
-        mShortDesc = newValue;
+        shortDesc = newValue;
         return this;
     }
 
-    private String mImgUrl;
+    private String imgUrl;
     public String getImgUrl() {
-        return mImgUrl;
+        return imgUrl;
     }
     public HouseAnnounce setImgUrl(String newValue) {
-        mImgUrl = newValue;
+        imgUrl = newValue;
         return this;
     }
     
     
-    private boolean mDeepProcessed;
+    private boolean deepProcessed;
     /**
      * Deep analysis of the announce, not only the scraping for main page site
      */
     public boolean wasDeepProcessed() {
-        return mDeepProcessed;
+        return deepProcessed;
     }
     public HouseAnnounce setDeepProcessed(boolean newValue) {
-        mDeepProcessed = newValue;
+        deepProcessed = newValue;
         return this;
     }
     
-    private String mLat;
+    private String lat;
     /**
      * Latitude
      */
     public String getLat() {
-        return mLat;
+        return lat;
     }
     public HouseAnnounce setLat(String newValue) {
-        mLat = newValue;
+        lat = newValue;
         return this;
     }
-    private String mLon;
+    private String lon;
     /**
      * Longitude
      */
     public String getLon() {
-        return mLon;
+        return lon;
     }
     public HouseAnnounce setLon(String newValue) {
-        mLon = newValue;
+        lon = newValue;
         return this;
     }
     

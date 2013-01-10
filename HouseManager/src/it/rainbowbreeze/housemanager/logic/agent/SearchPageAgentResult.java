@@ -1,7 +1,7 @@
 /**
  * 
  */
-package it.rainbowbreeze.housemanager.scraper;
+package it.rainbowbreeze.housemanager.logic.agent;
 
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 
@@ -16,11 +16,11 @@ import org.apache.commons.lang3.StringUtils;
  * 
  * @author Alfredo "Rainbowbreeze" Morresi
  */
-public class SearchPageScrapingResult {
+public class SearchPageAgentResult {
     // ------------------------------------------ Private Fields
 
     // -------------------------------------------- Constructors
-    public SearchPageScrapingResult() {
+    public SearchPageAgentResult() {
     }
 
     // --------------------------------------- Public Properties
@@ -28,7 +28,7 @@ public class SearchPageScrapingResult {
     public String getCursor() {
         return mCursor;
     }
-    public SearchPageScrapingResult setCursor(String cursor) {
+    public SearchPageAgentResult setCursor(String cursor) {
         mCursor = cursor;
         return this;
     }
@@ -37,7 +37,7 @@ public class SearchPageScrapingResult {
     public int getTotalPages() {
         return mTotalPages;
     }
-    public SearchPageScrapingResult setTotalPages(int totalPages) {
+    public SearchPageAgentResult setTotalPages(int totalPages) {
         this.mTotalPages = totalPages;
         return this;
     }
@@ -58,7 +58,7 @@ public class SearchPageScrapingResult {
         return !StringUtils.isEmpty(mCursor);
     }
     
-    public SearchPageScrapingResult addError() {
+    public SearchPageAgentResult addError() {
         mConversionError++;
         return this;
     }

@@ -17,12 +17,20 @@
 
     <!-- Task queues -->
     <servlet>
-        <servlet-name>houseagentQueue</servlet-name>
-        <servlet-class>it.rainbowbreeze.housemanager.servlet.HouseAgentQueueServlet</servlet-class>
+        <servlet-name>houseagentfullQueue</servlet-name>
+        <servlet-class>it.rainbowbreeze.housemanager.servlet.HouseAgentFullQueueServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>houseagentQueue</servlet-name>
-        <url-pattern>/admin/tasks/houseagent</url-pattern>
+        <servlet-name>houseagentfullQueue</servlet-name>
+        <url-pattern>/admin/tasks/houseagentfull</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>houseagentsingleQueue</servlet-name>
+        <servlet-class>it.rainbowbreeze.housemanager.servlet.HouseAgentSingleQueueServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>houseagentsingleQueue</servlet-name>
+        <url-pattern>/admin/tasks/houseagentsingle</url-pattern>
     </servlet-mapping>
     
     <!-- Restrict access for all queues -->

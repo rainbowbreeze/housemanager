@@ -17,7 +17,7 @@ import com.googlecode.objectify.ObjectifyService;
 /**
  * DAO using Objectify
  * 
- * TODO: check what framework use
+ * Frameworks to use
  * http://code.google.com/p/objectify-appengine/wiki/Concepts?tm=6
  * http://code.google.com/p/twig-persist/wiki/Comparison#Objectify_and_SimpleDS
  * 
@@ -42,12 +42,10 @@ public class HouseAnnounceDao {
     // --------------------------------------- Public Properties
 
     // ------------------------------------------ Public Methods
-    public HouseAnnounce get(long id) {
+    public HouseAnnounce get(String id) {
         mLogFacility.d(LOG_HASH, "Load entity " + id);
         HouseAnnounce result = ofy().load()
-                .type(HouseAnnounce.class)
-                .filterKey("=", id)
-                .first()
+                .key(Key.create(HouseAnnounce.class, id))
                 .get();
         return result;
     }

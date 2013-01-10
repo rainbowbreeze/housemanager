@@ -1,7 +1,7 @@
 /**
  * 
  */
-package it.rainbowbreeze.housemanager.scraper;
+package it.rainbowbreeze.housemanager.logic.agent;
 
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 

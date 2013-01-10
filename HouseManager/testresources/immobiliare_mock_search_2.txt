@@ -1,19 +1,19 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html lang="it" xmlns="http://www.w3.org/1999/xhtml" xml:lang="it">
 		<head>
-            <script type="text/javascript" charset="utf-8" src="/includes/gaid.js?v=2012122102"></script>				
+            <script type="text/javascript" charset="utf-8" src="/includes/gaid.js?v=2013010901"></script>				
 				<link rel="icon" href="http://www.immobiliare.it/favicon.ico" type="image/x-icon" />
 				<link rel="shortcut icon" href="http://www.immobiliare.it/favicon.ico" type="image/x-icon" />
-																	<link rel="alternate" type="application/rss+xml" title="Immobiliare.it" href="http://www.immobiliare.it/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=61&mode=rss" />
+																	<link rel="alternate" type="application/rss+xml" title="Immobiliare.it" href="http://www.immobiliare.it/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=2&mode=rss" />
 														<!-- foglio di stile sezione PRO -->
 												                                				<!---->
-				<link href="http://www.immobiliare.it/includes/main.css?v=2012122102" rel="stylesheet" type="text/css" />
-				<link href="http://www.immobiliare.it/includes/mutui_it.css?v=2012122102" rel="stylesheet" type="text/css"/>
+				<link href="http://www.immobiliare.it/includes/main.css?v=2013010901" rel="stylesheet" type="text/css" />
+				<link href="http://www.immobiliare.it/includes/mutui_it.css?v=2013010901" rel="stylesheet" type="text/css"/>
 												
-				<link href="http://www.immobiliare.it/buttons/buttons.css?v=2012122102" rel="stylesheet" type="text/css" />
-				<link href="http://www.immobiliare.it/includes/immobiliare_menu.css?v=2012122102" rel="stylesheet" type="text/css" />	
-				<title>Case in vendita Pavia, cerca casa in vendita a Pavia, Pag. 61 - Immobiliare.it</title>
-										<link type="text/css" rel="stylesheet" media ="print" href="/includes/ricerca_print.css?v=2012122102" />
+				<link href="http://www.immobiliare.it/buttons/buttons.css?v=2013010901" rel="stylesheet" type="text/css" />
+				<link href="http://www.immobiliare.it/includes/immobiliare_menu.css?v=2013010901" rel="stylesheet" type="text/css" />	
+				<title>Vendita case Pavia, vendesi casa a Pavia - Immobiliare.it</title>
+										<link type="text/css" rel="stylesheet" media ="print" href="/includes/ricerca_print.css?v=2013010901" />
 														<meta name="Description" content="Vendita case a Pavia. Acquistare casa a Pavia &amp;egrave; semplice grazie agli annunci immobiliari di Immobiliare.it" />
 						              <meta name="keywords" content="Pavia, vendita case, annunci immobiliari, acquistare casa, immobiliare.it." />
 						            								<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -24,7 +24,7 @@
 								<script type="text/javascript" charset="utf-8" src="http://ua.ekbl.net/m.js?r"></script>
 								
 				<script type="text/javascript" charset="utf-8">
-					var __gvs_EXTERNAL_LIBRARY_VERSION = "?v=2012122102";
+					var __gvs_EXTERNAL_LIBRARY_VERSION = "?v=2013010901";
 				</script>
 
 				<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
@@ -33,29 +33,29 @@
 								<script type="text/javascript" charset="utf-8">				    
 					var jq = jQuery.noConflict();
 				</script>
-				<script type="text/javascript"  src="http://www.immobiliare.it/includes/jscript.js?v=2012122102"></script>
+				<script type="text/javascript"  src="http://www.immobiliare.it/includes/jscript.js?v=2013010901"></script>
 				
 								
 				
 										<script type="text/javascript" src="http://www.immobiliare.it/includes/jquery/jquery.jcarousel.min.js"></script>
-						<link rel="stylesheet" type="text/css" href="http://www.immobiliare.it/includes/skin-tango.css?v=2012122102" />
-						<link rel="stylesheet" type="text/css" href="http://www.immobiliare.it/includes/slide_sito_web.css?v=2012122102" />
+						<link rel="stylesheet" type="text/css" href="http://www.immobiliare.it/includes/skin-tango.css?v=2013010901" />
+						<link rel="stylesheet" type="text/css" href="http://www.immobiliare.it/includes/slide_sito_web.css?v=2013010901" />
 								
 								<script type="text/javascript">google_map_key = 'AIzaSyBv8V_85Jtn9-VMbtMtqpiXHGmekuFAPfQ';</script>
-				<script type="text/javascript" src="http://www.immobiliare.it/includes/webStorage/webStorage.js?v=2012122102"></script>
-				<script type="text/javascript" src="http://www.immobiliare.it/includes/Im_GMap/static_GMap.js?v=2012122102"></script>
-				<script type="text/javascript"  src="http://www.immobiliare.it/includes/googleMapsExtensions.js?v=2012122102"></script>
-				<script type="text/javascript"  src="http://www.immobiliare.it/includes/functions.js?v=2012122102"></script>
-				<script type="text/javascript"  src="http://www.immobiliare.it/includes/jslib.js?v=2012122102"></script>
-				<script type="text/javascript"  src="http://www.immobiliare.it/includes/overlayBox/boxOverlay.js?v=2012122102"></script>				
+				<script type="text/javascript" src="http://www.immobiliare.it/includes/webStorage/webStorage.js?v=2013010901"></script>
+				<script type="text/javascript" src="http://www.immobiliare.it/includes/Im_GMap/static_GMap.js?v=2013010901"></script>
+				<script type="text/javascript"  src="http://www.immobiliare.it/includes/googleMapsExtensions.js?v=2013010901"></script>
+				<script type="text/javascript"  src="http://www.immobiliare.it/includes/functions.js?v=2013010901"></script>
+				<script type="text/javascript"  src="http://www.immobiliare.it/includes/jslib.js?v=2013010901"></script>
+				<script type="text/javascript"  src="http://www.immobiliare.it/includes/overlayBox/boxOverlay.js?v=2013010901"></script>				
 				<script type="text/javascript" >var EdenWayIsInitialized = false;</script>
-				<script type="text/javascript" src="http://www.immobiliare.it/includes/popBox/popBox.js?v=2012122102"></script>
-				<script type="text/javascript" src="http://www.immobiliare.it/xajax/geografia.js?v=2012122102"></script>
-				<script type="text/javascript" src="http://www.immobiliare.it/includes/index.js?v=2012122102"></script>
-     			<script type="text/javascript" src="http://www.immobiliare.it/includes/tabs.js?v=2012122102"></script>
+				<script type="text/javascript" src="http://www.immobiliare.it/includes/popBox/popBox.js?v=2013010901"></script>
+				<script type="text/javascript" src="http://www.immobiliare.it/xajax/geografia.js?v=2013010901"></script>
+				<script type="text/javascript" src="http://www.immobiliare.it/includes/index.js?v=2013010901"></script>
+     			<script type="text/javascript" src="http://www.immobiliare.it/includes/tabs.js?v=2013010901"></script>
 				<script type="text/javascript">var maxCategoria=5;</script>
-				<script src="http://www.immobiliare.it/buttons/buttons.js?v=2012122102" type="text/javascript"></script>
-				<script type="text/javascript" src="http://www.immobiliare.it/includes/immobiliare_tooltip.js?v=2012122102"></script>
+				<script src="http://www.immobiliare.it/buttons/buttons.js?v=2013010901" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.immobiliare.it/includes/immobiliare_tooltip.js?v=2013010901"></script>
 				    
                 <script type="text/javascript">  
                     var VHOST_URL_HOST = 'http://www.immobiliare.it/';
@@ -72,7 +72,7 @@
 
                 
 								<!--[if lt IE 7]>
-						<link href="http://www.immobiliare.it/includes/ie6_patch.css?v=2012122102" rel="stylesheet" type="text/css" />
+						<link href="http://www.immobiliare.it/includes/ie6_patch.css?v=2013010901" rel="stylesheet" type="text/css" />
 						<script type="text/javascript">
 								_isIe6 = true;
 						</script>
@@ -349,7 +349,7 @@
     <div id="header" class="sfondo_bianco">
         <div id="allButNoToolbar">
                             <div id="logo" class="align_left">
-                    <a href="http://www.immobiliare.it/"><img src='http://www.immobiliare.it/img2/logo_natale_nuovo.gif' alt="Immobiliare.it" /></a>
+                    <a href="http://www.immobiliare.it/"><img src='http://www.immobiliare.it/img2/logo.gif' alt="Immobiliare.it" /></a>
                 </div>
                         
                             <div id="banner_top_container" style="z-index:-1;margin-top:5px;">
@@ -492,16 +492,16 @@
 																		<script type="text/javascript"> 
 							resetCookies();
 						</script>
-						<script type="text/javascript" src="/includes/mappa_header_footer.js?v=2012122102"></script>
-<script type="text/javascript" src="/includes/trova_immobili.js?v=2012122102"></script>
-<script src="http://www.immobiliare.it/includes/Coordinate.js?v=2012122102" type="text/javascript"></script>
-<script src="http://www.immobiliare.it/includes/Im_Geometry.js?v=2012122102" type="text/javascript"></script>
-<script src="http://www.immobiliare.it/includes/Ws_geotools.js?v=2012122102" type="text/javascript"></script>
-<script src="http://www.immobiliare.it/includes/GestoreVisibilitaAgenzia.js?v=2012122102" type="text/javascript"></script>
-<link href="http://www.immobiliare.it/includes/adsgoogle.css?v=2012122102" rel="stylesheet" type="text/css"></link>
-<script type="text/javascript" src="http://www.immobiliare.it/includes/adsgoogle.js?v=2012122102"></script>
-<script src="/includes/dettagli_common.js?v=2012122102" type="text/javascript"></script>
-<script src="http://www.immobiliare.it/includes/facebookAction.js?v=2012122102" type="text/javascript"></script>
+						<script type="text/javascript" src="/includes/mappa_header_footer.js?v=2013010901"></script>
+<script type="text/javascript" src="/includes/trova_immobili.js?v=2013010901"></script>
+<script src="http://www.immobiliare.it/includes/Coordinate.js?v=2013010901" type="text/javascript"></script>
+<script src="http://www.immobiliare.it/includes/Im_Geometry.js?v=2013010901" type="text/javascript"></script>
+<script src="http://www.immobiliare.it/includes/Ws_geotools.js?v=2013010901" type="text/javascript"></script>
+<script src="http://www.immobiliare.it/includes/GestoreVisibilitaAgenzia.js?v=2013010901" type="text/javascript"></script>
+<link href="http://www.immobiliare.it/includes/adsgoogle.css?v=2013010901" rel="stylesheet" type="text/css"></link>
+<script type="text/javascript" src="http://www.immobiliare.it/includes/adsgoogle.js?v=2013010901"></script>
+<script src="/includes/dettagli_common.js?v=2013010901" type="text/javascript"></script>
+<script src="http://www.immobiliare.it/includes/facebookAction.js?v=2013010901" type="text/javascript"></script>
 
 
 <script type="text/javascript">
@@ -523,7 +523,7 @@ var autosaveAds = false;
 		<div id="link_utente">
 			    <div id="links-header">
 							         
-<script type="text/javascript" src="/includes/mappa_header_footer.js?v=2012122102"></script>
+<script type="text/javascript" src="/includes/mappa_header_footer.js?v=2013010901"></script>
 <script type="text/javascript">
 <!--
   var lang_domain_it='';
@@ -579,7 +579,7 @@ var autosaveAds = false;
 <script type="text/javascript" charset="UTF-8">
 /* <![CDATA[ */
 try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
-xajax.config.requestURI = "http://www.immobiliare.it/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=61";
+xajax.config.requestURI = "http://www.immobiliare.it/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=2";
 xajax.config.statusMessages = false;
 xajax.config.waitCursor = true;
 xajax.config.version = "xajax 0.5";
@@ -588,7 +588,7 @@ xajax.config.defaultMode = "asynchronous";
 xajax.config.defaultMethod = "POST";
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.immobiliare.it/xajax/xajax_js/xajax_core.js?v=2012122102" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.immobiliare.it/xajax/xajax_js/xajax_core.js?v=2013010901" charset="UTF-8"></script>
 <script type="text/javascript" charset="UTF-8">
 /* <![CDATA[ */
 window.setTimeout(
@@ -622,7 +622,7 @@ xajax_getAjaxResetAreaMappa = function() { return xajax.request( { xjxfun: 'getA
 		<div id="intestazione_e_vetrina">
 			<div class="intestazione">
 				<div class="clear"></div>
-							    <div style="float:left;height:20px;line-height:20px;padding: 3px 0">Case a Pavia - 906 Annunci immobiliari di Immobiliare.it</div>
+							    <div style="float:left;height:20px;line-height:20px;padding: 3px 0">Case a Pavia - 920 Annunci immobiliari di Immobiliare.it</div>
 				<div id="rss_ricerca">
 					<div class="caselle_comandi_underlined">
 			<div style="float:left;line-height:20px;">
@@ -653,7 +653,7 @@ xajax_getAjaxResetAreaMappa = function() { return xajax.request( { xjxfun: 'getA
 				</form>
             		</div>	
 			<div style="float:left;line-height:20px;">
-		<a rel="nofollow" href="http://www.immobiliare.it/trovakasa_rss.php?url=Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=61&mode=rss" title="Imposta e ricevi annunci tramite RSS" onclick="document.getElementById('mode').value='rss';document.getElementById('form_raffina_nc').submit();return false;">
+		<a rel="nofollow" href="http://www.immobiliare.it/trovakasa_rss.php?url=Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=2&mode=rss" title="Imposta e ricevi annunci tramite RSS" onclick="document.getElementById('mode').value='rss';document.getElementById('form_raffina_nc').submit();return false;">
 			<div class="link_rss"></div>
 			RSS</a> &nbsp;<strong>|</strong>&nbsp;
 	</div>
@@ -689,8 +689,8 @@ xajax_getAjaxResetAreaMappa = function() { return xajax.request( { xjxfun: 'getA
         </tr>
     </table>
 </div>	<div class="box_search_left" style="background-color:#f7f7f7;">
-		<script type="text/javascript" src="/xajax/geografia.js?v=2012122102"></script>
-<script type="text/javascript" src="/includes/createGMapsIframe.js?v=2012122102"></script>
+		<script type="text/javascript" src="/xajax/geografia.js?v=2013010901"></script>
+<script type="text/javascript" src="/includes/createGMapsIframe.js?v=2013010901"></script>
 <script type="text/javascript">
 	var version_map = '?v=10';
 	var __g_latitudine = '45.1859';
@@ -1314,7 +1314,7 @@ xajax_getAjaxResetAreaMappa = function() { return xajax.request( { xjxfun: 'getA
 	</div>
 </div>			
 			
-<script type="text/javascript" src="http://www.immobiliare.it/includes/box_mappa.js?v=2012122102"></script>
+<script type="text/javascript" src="http://www.immobiliare.it/includes/box_mappa.js?v=2013010901"></script>
 				
             <div style="margin:1px 0px;display:none;background-color: #FFFFFF" id="bookmarksCenter"><style type="text/css">
     
@@ -1345,13 +1345,13 @@ xajax_getAjaxResetAreaMappa = function() { return xajax.request( { xjxfun: 'getA
                 <script type="text/javascript">
 /* <![CDATA[ */
 	function _el(s,t){t?window.location.href=s:window.open(s)};function _dwel(s){document.write(s)}
-	_dwel('<a onclick="_el(\'htt'+'p://www'+'.fac'+'ebo'+'ok.com'+'/sha'+'re.php'+'?u=htt'+'p%3A%2F%2Fw'+'ww.imm'+'obi'+'lia'+'re.it%2FP'+'avi'+'a%2Fv'+'end'+'ita'+'_cas'+'e-Pav'+'ia.htm'+'l%3Fc'+'rit'+'eri'+'o%3Dr'+'ile'+'van'+'za%26p'+'ag%3D6'+'1&t=Cas'+'e+in+ven'+'dit'+'a+Pav'+'ia%2C+cer'+'ca+cas'+'a+in+ven'+'dit'+'a+a+Pav'+'ia%2C+Pag'+'.+61+-+Imm'+'obi'+'lia'+'re.it\',0)" rel="nofollow"><div><img src="http://www.immobiliare.it/img2/icone/f-condividi.png" /></div></a>');
+	_dwel('<a onclick="_el(\'htt'+'p://www'+'.fac'+'ebo'+'ok.com'+'/sha'+'re.php'+'?u=htt'+'p%3A%2F%2Fw'+'ww.imm'+'obi'+'lia'+'re.it%2FP'+'avi'+'a%2Fv'+'end'+'ita'+'_cas'+'e-Pav'+'ia.htm'+'l%3Fc'+'rit'+'eri'+'o%3Dr'+'ile'+'van'+'za%26p'+'ag%3D2'+'&t=Ven'+'dit'+'a+cas'+'e+Pav'+'ia%2C+ven'+'des'+'i+cas'+'a+a+Pav'+'ia+-+Imm'+'obi'+'lia'+'re.it\',0)" rel="nofollow"><div><img src="http://www.immobiliare.it/img2/icone/f-condividi.png" /></div></a>');
 /* ]]> */
 </script>
             </div>
             <div class="img_condivisione_bottom">
                 <div id="custom-tweet-button">
-				  <a onclick='popup("https://twitter.com/intent/tweet?original_referer=http%253A%252F%252Fwww.immobiliare.it%252FPavia%252Fvendita_case-Pavia.html%253Fcriterio%253Drilevanza%2526pag%253D61&source=tweetbutton&text=Ho%20cercato%20Immobili%20in%20Vendita%20a%20Pavia%20su%20%23Immobiliare.it%20&url=http%3A%2F%2Fwww.immobiliare.it%2FPavia%2Fvendita_case-Pavia.html%3Fcriterio%3Drilevanza%26pag%3D61&via=immobiliare_it","MyImmobiliare","640","480");'  target="_blank">
+				  <a onclick='popup("https://twitter.com/intent/tweet?original_referer=http%253A%252F%252Fwww.immobiliare.it%252FPavia%252Fvendita_case-Pavia.html%253Fcriterio%253Drilevanza%2526pag%253D2&source=tweetbutton&text=Ho%20cercato%20Immobili%20in%20Vendita%20a%20Pavia%20su%20%23Immobiliare.it%20&url=http%3A%2F%2Fwww.immobiliare.it%2FPavia%2Fvendita_case-Pavia.html%3Fcriterio%3Drilevanza%26pag%3D2&via=immobiliare_it","MyImmobiliare","640","480");'  target="_blank">
 					<img src="http://www.immobiliare.it/img2/icone/t-condividi.png"/>
 				  </a>
 				</div>
@@ -1484,7 +1484,7 @@ type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/g
 
 
 <script type="text/javascript">
-bakekaHtml = "<div onclick=\"window.open('htt'+'p://ads'+'.imm'+'obi'+'lia'+'re.it/www'+'/del'+'ive'+'ry/ck.php'+'?max'+'par'+'ams'+'=2__ban'+'ner'+'id=116'+'9__zon'+'eid'+'=98__cb=672'+'7__des'+'t=htt'+'p://pav'+'ia.bak'+'eca'+'.it?utm'+'_sou'+'rce'+'=imm'+'obi'+'lia'+'re.it&utm'+'_med'+'ium'+'=ban'+'ner'+'&utm'+'_cam'+'pai'+'gn=imm'+'pav'+'ia');\" id=\"divMonster_left\" ><\/div>";
+bakekaHtml = "<div onclick=\"window.open('htt'+'p://ads'+'.imm'+'obi'+'lia'+'re.it/www'+'/del'+'ive'+'ry/ck.php'+'?max'+'par'+'ams'+'=2__ban'+'ner'+'id=116'+'9__zon'+'eid'+'=98__cb=837'+'4__des'+'t=htt'+'p://pav'+'ia.bak'+'eca'+'.it?utm'+'_sou'+'rce'+'=imm'+'obi'+'lia'+'re.it&utm'+'_med'+'ium'+'=ban'+'ner'+'&utm'+'_cam'+'pai'+'gn=imm'+'pav'+'ia');\" id=\"divMonster_left\" ><\/div>";
 var _side = "left";
 
 try{
@@ -1505,7 +1505,7 @@ try{
 	<div class="box_title">
 		<strong >La tua ricerca</strong>
 	</div>
-	<span style="color:#666667;">Case in vendita Pavia, cerca casa in vendita a Pavia</span>
+	<span style="color:#666667;">Vendita case Pavia, vendesi casa a Pavia</span>
 				<div class="box_title">
 			<strong class="filter_title">Cerca per tipologia</strong>
 			<a class="toggler" id="toggleTipologiaFilter" onclick="toggleFilter('toggleTipologiaFilter','TipologiaFilter');">nascondi</a>
@@ -1826,32 +1826,35 @@ f_apri=function(idZona){
     <div id="risultati">
 	<div id="Lista">
 		
-	<script type="text/javascript" src="http://www.immobiliare.it/includes/photoPlus/photoplus.js?v=2012122102"></script>
-<script type="text/javascript" src="http://www.immobiliare.it/includes/tools_annuncio.js?v=2012122102"></script>
-<script type="text/javascript" src="http://www.immobiliare.it/includes/view_lista_annunci.js?v=2012122102"></script>
+	<script type="text/javascript" src="http://www.immobiliare.it/includes/photoPlus/photoplus.js?v=2013010901"></script>
+<script type="text/javascript" src="http://www.immobiliare.it/includes/tools_annuncio.js?v=2013010901"></script>
+<script type="text/javascript" src="http://www.immobiliare.it/includes/view_lista_annunci.js?v=2013010901"></script>
 
 <div class="ricerca_annuncio">
 
 
-					       			<a id="#36608662" class="scrollDist"></a>
-<div id="wrapper_riga_36608662" class="wrapper_riga_annuncio">
-<div class="box_centrali_bianchi first riga_annuncio" id="36608662" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('36608662',event);">
+					       			<a id="#34875494" class="scrollDist"></a>
+<div id="wrapper_riga_34875494" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi first riga_annuncio" id="34875494" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('34875494',event);">
 
 	
-		<div class="contenuto_box  ">
+		<div class="contenuto_box  fotoPlus">
 	
 	<div class="annuncio_title_cont">
+					<div class="evidenza_annuncio" style="cursor:pointer" onmouseover="showToolTip(this,event,'Annuncio Top');"></div>
 						<div class="annuncio_title">
-							<strong><a href="http://www.immobiliare.it/36608662-Vendita-Appartamento-300-mq-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_36608662">Appartamento 300 mq, Pavia</a></strong>
+							<strong><a href="http://www.immobiliare.it/34875494-Vendita-Monolocale-via-vidari-8-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_34875494">Monolocale via vidari 8, Pavia</a></strong>
 					</div>
 		<div class="clear"></div>
 	</div>
 	
-	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(36608662)">	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(34875494)">	
 		<div class="thumb_box">
-									
+							<div class="video_annuncio" style="margin-left:27px;"></div>
+															<div onmouseover="showPhotoplus(34875494,'A',this)" class="fotoPlus_annuncio" id="fotoPlus_annuncio_34875494"><div class="numImages" id="numImages_34875494">4</div></div>
+										
 			<div class="wrap_img">
-					<img src="http://www.immobiliare.it/img2/information.gif" alt="Foto - Appartamento 300 mq, Pavia" id="36608662_thumb"/>
+					<img src="http://media.immobiliare.it/image/267945658/listing.jpg" alt="Foto - Monolocale via vidari 8, Pavia" id="34875494_thumb"/>
 			</div>
 		</div>
 			</div>
@@ -1865,32 +1868,32 @@ f_apri=function(idZona){
 				<span style="font-style:italic;">
 									</span>
 			</div>
-			<div class="descrizione" id="descrizione_36608662">
-																	Pavia centro storico vendesi porzione di fabbricato composto da 3 appartamenti di circa 90 mq piu mansarda,info esclusivamente in sede immobile non soggetto all obbligo di certificazione energetica
+			<div class="descrizione" id="descrizione_34875494">
+																	Nel cuore del centro storico, via Vidari 2° piamo, proponiamo un luminosissimo monolocale, finemente ristrutturato, mai abitato, costituito da ingresso, locale notte/giorno e bagno con finestra....
 			</div><div class="clear"></div>
-			<span class="desc_toggler" id="toggle_descrizione_36608662" onclick="toggle_remaining_desc('36608662')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_36608662"/></span>
+			<span class="desc_toggler" id="toggle_descrizione_34875494" onclick="toggle_remaining_desc('34875494')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_34875494"/></span>
 			
 						<div class="descMargin"></div>
 			<div class="clear"></div>
 		</div>
 							<div class="align_right">
 																	<div class="annuncio_new_tools_wrapper">
-													<div class="annuncio_new_tools" id="annuncio_new_tools_36608662">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_34875494">
 							<div class="clear"></div>
 															<span class="title" style="margin-bottom:6px;">
-																											<a class="link_salva" id="salva_36608662" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('36608662',false);return false;" style="color:#6F6F6F;padding-left:15px;">
-											<strong id="link_salvaAd_36608662">Salva Annuncio</strong>
+																											<a class="link_salva" id="salva_34875494" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('34875494',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_34875494">Salva Annuncio</strong>
 										</a>
 																									</span>
 								<div class="clear"></div>
 																															
 																						<div class="clear"></div>
-																<span class="title"><a href="http://www.immobiliare.it/36608662-Vendita-Appartamento-300-mq-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 36608662 Appartamento in Vendita a Pavia"  onclick="show_contattaBox('36608662','34362', 'immobiliare campari'); return false;"><span class="link_contatta"  id="link_contattaAd_36608662">Invia Email</span></a></span>
+																<span class="title"><a href="http://www.immobiliare.it/34875494-Vendita-Monolocale-via-vidari-8-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile V201206 Appartamento in Vendita a Pavia"  onclick="show_contattaBox('34875494','119510', 'pq immobilare'); return false;"><span class="link_contatta"  id="link_contattaAd_34875494">Invia Email</span></a></span>
 								
 																							<div class="clear"></div>
 									<div class="datiTelefoniciRA">
-									  										<span id="telAgenzia1_36608662" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">3478930891</span>
-										<div  id="telAgenzia1_MT_36608662" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(36608662,'#telAgenzia1',34362,'tel1',event)">Mostra Telefono</div>
+									  										<span id="telAgenzia1_34875494" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">038227378</span>
+										<div  id="telAgenzia1_MT_34875494" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(34875494,'#telAgenzia1',119510,'tel1',event)">Mostra Telefono</div>
 				  
 									  									</div>
 																
@@ -1898,17 +1901,18 @@ f_apri=function(idZona){
 											</div>
 					<div class="clear"></div>
 																		<div class="agenzia_logo in_annuncio">
-																									<img src="http://media.immobiliare.it/imagenoresize/231766753.jpg" alt="immobiliare campari" />
+																									<img src="http://media.immobiliare.it/imagenoresize/263935137.jpg" alt="pq immobilare" />
 																							</div>
 															</div>
 						<div class="bottom">
 				<div class="align_left">
 											<span class="price">
-															Trattative riservate
+																									&euro; 120.000
+								    
 													</span>
 										
-					<span class="sep">&nbsp;|</span>&nbsp;300&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
-															più di 5&nbsp;locali				</div>
+					<span class="sep">&nbsp;|</span>&nbsp;35&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															1&nbsp;locale				</div>
 						<div class="clear"></div>
 			</div>
 			<div class="clear"></div>
@@ -1920,11 +1924,11 @@ f_apri=function(idZona){
 </div>
 <script type="text/javascript">
 	aInfoAnnuncio = new Array();
-	aInfoAnnuncio['idAnnuncio'] = "36608662";
-	aInfoAnnuncio['url'] = "http://www.immobiliare.it/36608662-Vendita-Appartamento-300-mq-Pavia.html";
-	aInfoAnnuncio['flagIndirizzo'] = "0";
-	aInfoAnnuncio['latitudine'] = "0";
-	aInfoAnnuncio['longitudine'] = "0";
+	aInfoAnnuncio['idAnnuncio'] = "34875494";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/34875494-Vendita-Monolocale-via-vidari-8-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.183";
+	aInfoAnnuncio['longitudine'] = "9.14982";
 	__cVarCategory = "Residenziale";
 	setListAnnuncioEvents(aInfoAnnuncio);
 	
@@ -1933,11 +1937,11 @@ f_apri=function(idZona){
 			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
 		oInfoAnnuncio = new Array();
 		 
-			oInfoAnnuncio['idAnnuncio'] = "36608662";
+			oInfoAnnuncio['idAnnuncio'] = "34875494";
 							oInfoAnnuncio['evidenza'] = "";
-							oInfoAnnuncio['primopiano'] = "";
+							oInfoAnnuncio['primopiano']= "<div class=\"icona_primopiano\" onmouseover=\"showToolTip(this,event,'Annuncio Top');\"></div>";
 				
-					oInfoAnnuncio['numImages'] = "";
+					oInfoAnnuncio['numImages'] = "4";
 				var sTipologia = "";
 		
 							sTipologia = "Appartamento";
@@ -1949,15 +1953,16 @@ f_apri=function(idZona){
 					oInfoAnnuncio['zona'] = "";
 			
 					oInfoAnnuncio['contratto'] = "Vendita"; 
-							oInfoAnnuncio['superficie'] = "300&nbsp;m&sup2;";
-							oInfoAnnuncio['locali'] = "pi&ugrave;&nbsp;di&nbsp;5";
-							oInfoAnnuncio['prezzo'] = "Trattative riservate";
-				sGalleryThumb = '<a href="http://www.immobiliare.it/36608662-Vendita-Appartamento-300-mq-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://www.immobiliare.it/img2/information.gif" alt="Appartamento Vendita Pavia "/></a>';
+							oInfoAnnuncio['superficie'] = "35&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "1";
+				 
+			oInfoAnnuncio['prezzo'] = "€ 120.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/34875494-Vendita-Monolocale-via-vidari-8-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/267945658/slideshow.jpg" alt="Appartamento Vendita Pavia "/></a>';
 	
-		sLinkDettaglio = '<a href="http://www.immobiliare.it/36608662-Vendita-Appartamento-300-mq-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/34875494-Vendita-Monolocale-via-vidari-8-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
 		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
 		oInfoAnnuncio['nomecategoria'] = "Residenziale";
-		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/36608662-Vendita-Appartamento-300-mq-Pavia.html';
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/34875494-Vendita-Monolocale-via-vidari-8-Pavia.html';
 		oInfoAnnuncio['image'] = sGalleryThumb;
 					if (typeof oListaInfoAnnuncio != "undefined")
 				oListaInfoAnnuncio.push(oInfoAnnuncio);
@@ -1967,25 +1972,28 @@ f_apri=function(idZona){
          
 		 
      
-		       			<a id="#31041130" class="scrollDist"></a>
-<div id="wrapper_riga_31041130" class="wrapper_riga_annuncio">
-<div class="box_centrali_bianchi riga_annuncio" id="31041130" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('31041130',event);">
+		       			<a id="#29125730" class="scrollDist"></a>
+<div id="wrapper_riga_29125730" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi riga_annuncio" id="29125730" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('29125730',event);">
 
 	
-		<div class="contenuto_box  ">
+		<div class="contenuto_box  fotoPlus">
 	
 	<div class="annuncio_title_cont">
+					<div class="evidenza_annuncio" style="cursor:pointer" onmouseover="showToolTip(this,event,'Annuncio Top');"></div>
 						<div class="annuncio_title">
-							<strong><a href="http://www.immobiliare.it/31041130-Vendita-Attico-Mansarda-ottimo-stato-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_31041130">Attico / Mansarda, ottimo stato, Pavia</a></strong>
+							<strong><a href="http://www.immobiliare.it/29125730-Villa-via-Bona-Di-Savoia-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_29125730">Villa via Bona Di Savoia, Pavia</a></strong>
 					</div>
 		<div class="clear"></div>
 	</div>
 	
-	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(31041130)">	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(29125730)">	
 		<div class="thumb_box">
-									
+							<div class="video_annuncio" style="margin-left:27px;"></div>
+															<div onmouseover="showPhotoplus(29125730,'A',this)" class="fotoPlus_annuncio" id="fotoPlus_annuncio_29125730"><div class="numImages" id="numImages_29125730">10</div></div>
+										
 			<div class="wrap_img">
-					<img src="http://www.immobiliare.it/img2/information.gif" alt="Foto - Attico / Mansarda, ottimo stato, Pavia" id="31041130_thumb"/>
+					<img src="http://media.immobiliare.it/image/223667613/listing.jpg" alt="Foto - Villa via Bona Di Savoia, Pavia" id="29125730_thumb"/>
 			</div>
 		</div>
 			</div>
@@ -1993,39 +2001,38 @@ f_apri=function(idZona){
 		
 		<div class="box_testo_riga_annuncio">
 							<div class="titolo_annuncio"> 
-					Attico / Mansarda in Vendita
+					Villa in Vendita
 				</div>
 						<div class="luogo" >
 				<span style="font-style:italic;">
-											Centro città
 									</span>
 			</div>
-			<div class="descrizione" id="descrizione_31041130">
-																	Pavia zona minerva bomboniera introvabile attico di tre locali composto da cucina soggiorno camera cameretta bagno e terrazzo da vedere soluzione unica
+			<div class="descrizione" id="descrizione_29125730">
+																	PAVIA – VIA BONA DI SAVOIA (CITTA’ GIARDINO) – per chi sogna una bella villa ma non ama gli odori di campagna – per chi è stufo delle solite case monotone…stiamo preparando ad arte una...
 			</div><div class="clear"></div>
-			<span class="desc_toggler" id="toggle_descrizione_31041130" onclick="toggle_remaining_desc('31041130')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_31041130"/></span>
+			<span class="desc_toggler" id="toggle_descrizione_29125730" onclick="toggle_remaining_desc('29125730')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_29125730"/></span>
 			
 						<div class="descMargin"></div>
 			<div class="clear"></div>
 		</div>
 							<div class="align_right">
 																	<div class="annuncio_new_tools_wrapper">
-													<div class="annuncio_new_tools" id="annuncio_new_tools_31041130">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_29125730">
 							<div class="clear"></div>
 															<span class="title" style="margin-bottom:6px;">
-																											<a class="link_salva" id="salva_31041130" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('31041130',false);return false;" style="color:#6F6F6F;padding-left:15px;">
-											<strong id="link_salvaAd_31041130">Salva Annuncio</strong>
+																											<a class="link_salva" id="salva_29125730" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('29125730',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_29125730">Salva Annuncio</strong>
 										</a>
 																									</span>
 								<div class="clear"></div>
 																															
 																						<div class="clear"></div>
-																<span class="title"><a href="http://www.immobiliare.it/31041130-Vendita-Attico-Mansarda-ottimo-stato-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 31041130 Attico / Mansarda in Vendita a Pavia"  onclick="show_contattaBox('31041130','34362', 'immobiliare campari'); return false;"><span class="link_contatta"  id="link_contattaAd_31041130">Invia Email</span></a></span>
+																<span class="title"><a href="http://www.immobiliare.it/29125730-Villa-via-Bona-Di-Savoia-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 29125730 Villa in Vendita a Pavia"  onclick="show_contattaBox('29125730','108237', 'Immobiliare il Mattone'); return false;"><span class="link_contatta"  id="link_contattaAd_29125730">Invia Email</span></a></span>
 								
 																							<div class="clear"></div>
 									<div class="datiTelefoniciRA">
-									  										<span id="telAgenzia1_31041130" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">3478930891</span>
-										<div  id="telAgenzia1_MT_31041130" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(31041130,'#telAgenzia1',34362,'tel1',event)">Mostra Telefono</div>
+									  										<span id="telAgenzia1_29125730" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">3386690525</span>
+										<div  id="telAgenzia1_MT_29125730" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(29125730,'#telAgenzia1',108237,'tel1',event)">Mostra Telefono</div>
 				  
 									  									</div>
 																
@@ -2033,17 +2040,18 @@ f_apri=function(idZona){
 											</div>
 					<div class="clear"></div>
 																		<div class="agenzia_logo in_annuncio">
-																									<img src="http://media.immobiliare.it/imagenoresize/231766753.jpg" alt="immobiliare campari" />
+																									<img src="http://media.immobiliare.it/imagenoresize/239962230.jpg" alt="Immobiliare il Mattone" />
 																							</div>
 															</div>
 						<div class="bottom">
 				<div class="align_left">
 											<span class="price">
-															Trattative riservate
+																									300.001 - 500.000 &euro;
+								    
 													</span>
 										
-					<span class="sep">&nbsp;|</span>&nbsp;90&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
-															3&nbsp;locali				</div>
+					<span class="sep">&nbsp;|</span>&nbsp;115&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															4&nbsp;locali				</div>
 						<div class="clear"></div>
 			</div>
 			<div class="clear"></div>
@@ -2055,11 +2063,11 @@ f_apri=function(idZona){
 </div>
 <script type="text/javascript">
 	aInfoAnnuncio = new Array();
-	aInfoAnnuncio['idAnnuncio'] = "31041130";
-	aInfoAnnuncio['url'] = "http://www.immobiliare.it/31041130-Vendita-Attico-Mansarda-ottimo-stato-Pavia.html";
-	aInfoAnnuncio['flagIndirizzo'] = "0";
-	aInfoAnnuncio['latitudine'] = "45.1859";
-	aInfoAnnuncio['longitudine'] = "9.15656";
+	aInfoAnnuncio['idAnnuncio'] = "29125730";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/29125730-Villa-via-Bona-Di-Savoia-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.1947";
+	aInfoAnnuncio['longitudine'] = "9.16259";
 	__cVarCategory = "Residenziale";
 	setListAnnuncioEvents(aInfoAnnuncio);
 	
@@ -2067,15 +2075,14 @@ f_apri=function(idZona){
 	
 			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
 		oInfoAnnuncio = new Array();
-		 
-			oInfoAnnuncio['idAnnuncio'] = "31041130";
+					oInfoAnnuncio['idAnnuncio'] = "";
 							oInfoAnnuncio['evidenza'] = "";
-							oInfoAnnuncio['primopiano'] = "";
+							oInfoAnnuncio['primopiano']= "<div class=\"icona_primopiano\" onmouseover=\"showToolTip(this,event,'Annuncio Top');\"></div>";
 				
-					oInfoAnnuncio['numImages'] = "";
+					oInfoAnnuncio['numImages'] = "10";
 				var sTipologia = "";
 		
-							sTipologia = "Attico / Mansarda";
+							sTipologia = "Villa";
 			
 		oInfoAnnuncio['tipologia'] = sTipologia;
 	
@@ -2084,15 +2091,15 @@ f_apri=function(idZona){
 					oInfoAnnuncio['zona'] = "";
 			
 					oInfoAnnuncio['contratto'] = "Vendita"; 
-							oInfoAnnuncio['superficie'] = "90&nbsp;m&sup2;";
-							oInfoAnnuncio['locali'] = "3";
-							oInfoAnnuncio['prezzo'] = "Trattative riservate";
-				sGalleryThumb = '<a href="http://www.immobiliare.it/31041130-Vendita-Attico-Mansarda-ottimo-stato-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://www.immobiliare.it/img2/information.gif" alt="Attico / Mansarda Vendita Pavia "/></a>';
+							oInfoAnnuncio['superficie'] = "115&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "4";
+							oInfoAnnuncio['prezzo'] = "";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/29125730-Villa-via-Bona-Di-Savoia-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/223667613/slideshow.jpg" alt="Villa Vendita Pavia "/></a>';
 	
-		sLinkDettaglio = '<a href="http://www.immobiliare.it/31041130-Vendita-Attico-Mansarda-ottimo-stato-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/29125730-Villa-via-Bona-Di-Savoia-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
 		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
 		oInfoAnnuncio['nomecategoria'] = "Residenziale";
-		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/31041130-Vendita-Attico-Mansarda-ottimo-stato-Pavia.html';
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/29125730-Villa-via-Bona-Di-Savoia-Pavia.html';
 		oInfoAnnuncio['image'] = sGalleryThumb;
 					if (typeof oListaInfoAnnuncio != "undefined")
 				oListaInfoAnnuncio.push(oInfoAnnuncio);
@@ -2104,64 +2111,67 @@ f_apri=function(idZona){
 		 
 		 
      
-		       			<a id="#37366250" class="scrollDist"></a>
-<div id="wrapper_riga_37366250" class="wrapper_riga_annuncio">
-<div class="box_centrali_bianchi riga_annuncio" id="37366250" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('37366250',event);">
+		       			<a id="#25986326" class="scrollDist"></a>
+<div id="wrapper_riga_25986326" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi riga_annuncio" id="25986326" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('25986326',event);">
 
 	
 		<div class="contenuto_box  fotoPlus">
 	
 	<div class="annuncio_title_cont">
+					<div class="evidenza_annuncio" style="cursor:pointer" onmouseover="showToolTip(this,event,'Annuncio Top');"></div>
 						<div class="annuncio_title">
-							<strong><a href="http://www.immobiliare.it/37366250-Vendita-Attico-Mansarda-200-mq-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_37366250">Attico / Mansarda 200 mq, Pavia</a></strong>
+							<strong><a href="http://www.immobiliare.it/25986326-appartamenti-in-vendita-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_25986326">Appartamento in Vendita</a>, Pavia</strong>
 					</div>
 		<div class="clear"></div>
 	</div>
 	
-	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(37366250)">	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(25986326)">	
 		<div class="thumb_box">
-									
+							<div class="video_annuncio" style="margin-left:27px;"></div>
+															<div onmouseover="showPhotoplus(25986326,'A',this)" class="fotoPlus_annuncio" id="fotoPlus_annuncio_25986326"><div class="numImages" id="numImages_25986326">6</div></div>
+										
 			<div class="wrap_img">
-					<img src="http://www.immobiliare.it/img2/information.gif" alt="Foto - Attico / Mansarda 200 mq, Pavia" id="37366250_thumb"/>
+					<img src="http://media.immobiliare.it/image/201345469/listing.jpg" alt="Appartamento Vendita Pavia " id="25986326_thumb"/>
 			</div>
 		</div>
 			</div>
 	<div class="align_right_contenuto_box">		
 		
 		<div class="box_testo_riga_annuncio">
-							<div class="titolo_annuncio"> 
-					Attico / Mansarda in Vendita
-				</div>
 						<div class="luogo" >
 				<span style="font-style:italic;">
+											Mirabello
 									</span>
 			</div>
-			<div class="descrizione" id="descrizione_37366250">
-																	Pavia centro storico ad piazza duomo appartamento di circa 200 mq disposto su due livelli piano terzo ingresso bagno/lavanderia due camere piano quarto soggiorno cucina due camere due bagni e...
+			<div class="descrizione" id="descrizione_25986326">
+																	OTTIMO BILOCALE COMPLETAMENTE RISTRUTTURATO A NUOVO COMPOSTO DA:
+ingresso , soggiorno con angolo cottura, bagno e camera da letto.
+POSTO AUTO IN CORTILE E pozione di sottotetto uso cantina.
 			</div><div class="clear"></div>
-			<span class="desc_toggler" id="toggle_descrizione_37366250" onclick="toggle_remaining_desc('37366250')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_37366250"/></span>
+			<span class="desc_toggler" id="toggle_descrizione_25986326" onclick="toggle_remaining_desc('25986326')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_25986326"/></span>
 			
 						<div class="descMargin"></div>
 			<div class="clear"></div>
 		</div>
 							<div class="align_right">
 																	<div class="annuncio_new_tools_wrapper">
-													<div class="annuncio_new_tools" id="annuncio_new_tools_37366250">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_25986326">
 							<div class="clear"></div>
 															<span class="title" style="margin-bottom:6px;">
-																											<a class="link_salva" id="salva_37366250" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('37366250',false);return false;" style="color:#6F6F6F;padding-left:15px;">
-											<strong id="link_salvaAd_37366250">Salva Annuncio</strong>
+																											<a class="link_salva" id="salva_25986326" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('25986326',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_25986326">Salva Annuncio</strong>
 										</a>
 																									</span>
 								<div class="clear"></div>
 																															
 																						<div class="clear"></div>
-																<span class="title"><a href="http://www.immobiliare.it/37366250-Vendita-Attico-Mansarda-200-mq-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 37366250 Attico / Mansarda in Vendita a Pavia"  onclick="show_contattaBox('37366250','34362', 'immobiliare campari'); return false;"><span class="link_contatta"  id="link_contattaAd_37366250">Invia Email</span></a></span>
+																<span class="title"><a href="http://www.immobiliare.it/25986326-appartamenti-in-vendita-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 25986326 Appartamento in Vendita a Pavia"  onclick="show_contattaBox('25986326','78885', 'EOLIKA'); return false;"><span class="link_contatta"  id="link_contattaAd_25986326">Invia Email</span></a></span>
 								
 																							<div class="clear"></div>
 									<div class="datiTelefoniciRA">
-									  										<span id="telAgenzia1_37366250" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">3478930891</span>
-										<div  id="telAgenzia1_MT_37366250" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(37366250,'#telAgenzia1',34362,'tel1',event)">Mostra Telefono</div>
+									  										<span id="telAgenzia1_25986326" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">3387102835</span>
+										<div  id="telAgenzia1_MT_25986326" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(25986326,'#telAgenzia1',78885,'tel1',event)">Mostra Telefono</div>
 				  
 									  									</div>
 																
@@ -2169,17 +2179,18 @@ f_apri=function(idZona){
 											</div>
 					<div class="clear"></div>
 																		<div class="agenzia_logo in_annuncio">
-																									<img src="http://media.immobiliare.it/imagenoresize/231766753.jpg" alt="immobiliare campari" />
+																									<img src="http://media.immobiliare.it/imagenoresize/205019109.jpg" alt="EOLIKA" />
 																							</div>
 															</div>
 						<div class="bottom">
 				<div class="align_left">
 											<span class="price">
-															Trattative riservate
+																									&euro; 105.000
+								    
 													</span>
 										
-					<span class="sep">&nbsp;|</span>&nbsp;200&nbsp;m&sup2; 					
-									</div>
+					<span class="sep">&nbsp;|</span>&nbsp;55&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															2&nbsp;locali				</div>
 						<div class="clear"></div>
 			</div>
 			<div class="clear"></div>
@@ -2191,11 +2202,11 @@ f_apri=function(idZona){
 </div>
 <script type="text/javascript">
 	aInfoAnnuncio = new Array();
-	aInfoAnnuncio['idAnnuncio'] = "37366250";
-	aInfoAnnuncio['url'] = "http://www.immobiliare.it/37366250-Vendita-Attico-Mansarda-200-mq-Pavia.html";
-	aInfoAnnuncio['flagIndirizzo'] = "0";
-	aInfoAnnuncio['latitudine'] = "45.1847";
-	aInfoAnnuncio['longitudine'] = "9.15821";
+	aInfoAnnuncio['idAnnuncio'] = "25986326";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/25986326-appartamenti-in-vendita-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.1859";
+	aInfoAnnuncio['longitudine'] = "9.15656";
 	__cVarCategory = "Residenziale";
 	setListAnnuncioEvents(aInfoAnnuncio);
 	
@@ -2204,14 +2215,14 @@ f_apri=function(idZona){
 			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
 		oInfoAnnuncio = new Array();
 		 
-			oInfoAnnuncio['idAnnuncio'] = "37366250";
+			oInfoAnnuncio['idAnnuncio'] = "25986326";
 							oInfoAnnuncio['evidenza'] = "";
-							oInfoAnnuncio['primopiano'] = "";
+							oInfoAnnuncio['primopiano']= "<div class=\"icona_primopiano\" onmouseover=\"showToolTip(this,event,'Annuncio Top');\"></div>";
 				
-					oInfoAnnuncio['numImages'] = "";
+					oInfoAnnuncio['numImages'] = "6";
 				var sTipologia = "";
 		
-							sTipologia = "Attico / Mansarda";
+							sTipologia = "Appartamento";
 			
 		oInfoAnnuncio['tipologia'] = sTipologia;
 	
@@ -2220,15 +2231,16 @@ f_apri=function(idZona){
 					oInfoAnnuncio['zona'] = "";
 			
 					oInfoAnnuncio['contratto'] = "Vendita"; 
-							oInfoAnnuncio['superficie'] = "200&nbsp;m&sup2;";
-							oInfoAnnuncio['locali'] = "";
-							oInfoAnnuncio['prezzo'] = "Trattative riservate";
-				sGalleryThumb = '<a href="http://www.immobiliare.it/37366250-Vendita-Attico-Mansarda-200-mq-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://www.immobiliare.it/img2/information.gif" alt="Attico / Mansarda Vendita Pavia "/></a>';
+							oInfoAnnuncio['superficie'] = "55&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "2";
+				 
+			oInfoAnnuncio['prezzo'] = "€ 105.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/25986326-appartamenti-in-vendita-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/201345469/slideshow.jpg" alt="Appartamento Vendita Pavia "/></a>';
 	
-		sLinkDettaglio = '<a href="http://www.immobiliare.it/37366250-Vendita-Attico-Mansarda-200-mq-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/25986326-appartamenti-in-vendita-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
 		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
 		oInfoAnnuncio['nomecategoria'] = "Residenziale";
-		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/37366250-Vendita-Attico-Mansarda-200-mq-Pavia.html';
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/25986326-appartamenti-in-vendita-Pavia.html';
 		oInfoAnnuncio['image'] = sGalleryThumb;
 					if (typeof oListaInfoAnnuncio != "undefined")
 				oListaInfoAnnuncio.push(oInfoAnnuncio);
@@ -2246,25 +2258,1442 @@ f_apri=function(idZona){
 		 
 		 
      
-					       			<a id="#36501174" class="scrollDist"></a>
-<div id="wrapper_riga_36501174" class="wrapper_riga_annuncio">
-<div class="box_centrali_bianchi first riga_annuncio" id="36501174" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('36501174',event);">
+					       			<a id="#31843206" class="scrollDist"></a>
+<div id="wrapper_riga_31843206" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi first riga_annuncio" id="31843206" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('31843206',event);">
+
+	
+		<div class="contenuto_box  fotoPlus">
+	
+	<div class="annuncio_title_cont">
+					<div class="evidenza_annuncio" style="cursor:pointer" onmouseover="showToolTip(this,event,'Annuncio Top');"></div>
+						<div class="annuncio_title">
+							<strong><a href="http://www.immobiliare.it/31843206-Vendita-Appartamento-Ad-viale-Liberta-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_31843206">Appartamento Ad viale Liberta, Pavia</a></strong>
+					</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(31843206)">	
+		<div class="thumb_box">
+							<div class="video_annuncio" style="margin-left:27px;"></div>
+															<div onmouseover="showPhotoplus(31843206,'A',this)" class="fotoPlus_annuncio" id="fotoPlus_annuncio_31843206"><div class="numImages" id="numImages_31843206">10</div></div>
+										
+			<div class="wrap_img">
+					<img src="http://media.immobiliare.it/image/256859814/listing.jpg" alt="Foto - Appartamento Ad viale Liberta, Pavia" id="31843206_thumb"/>
+			</div>
+		</div>
+			</div>
+	<div class="align_right_contenuto_box">		
+		
+		<div class="box_testo_riga_annuncio">
+							<div class="titolo_annuncio"> 
+					Appartamento in Vendita
+				</div>
+						<div class="luogo" >
+				<span style="font-style:italic;">
+									</span>
+			</div>
+			<div class="descrizione" id="descrizione_31843206">
+																	ADIACENZE VIALE LIBERTA' (PV): ultimo piano ampio attico superaccessoriato: ingresso, salone, tinello, cucina abitabile, studio, 3 camere, 3 bagni, studio, terrazzi, cantina, ampio box. Finiture di...
+			</div><div class="clear"></div>
+			<span class="desc_toggler" id="toggle_descrizione_31843206" onclick="toggle_remaining_desc('31843206')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_31843206"/></span>
+			
+						<div class="descMargin"></div>
+			<div class="clear"></div>
+		</div>
+							<div class="align_right">
+																	<div class="annuncio_new_tools_wrapper">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_31843206">
+							<div class="clear"></div>
+															<span class="title" style="margin-bottom:6px;">
+																											<a class="link_salva" id="salva_31843206" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('31843206',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_31843206">Salva Annuncio</strong>
+										</a>
+																									</span>
+								<div class="clear"></div>
+																															
+																						<div class="clear"></div>
+																<span class="title"><a href="http://www.immobiliare.it/31843206-Vendita-Appartamento-Ad-viale-Liberta-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile V220 Appartamento in Vendita a Pavia"  onclick="show_contattaBox('31843206','48178', 'Immobiliare Domina S.A.S.'); return false;"><span class="link_contatta"  id="link_contattaAd_31843206">Invia Email</span></a></span>
+								
+																							<div class="clear"></div>
+									<div class="datiTelefoniciRA">
+									  										<span id="telAgenzia1_31843206" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">038225595</span>
+										<div  id="telAgenzia1_MT_31843206" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(31843206,'#telAgenzia1',48178,'tel1',event)">Mostra Telefono</div>
+				  
+									  									</div>
+																
+						</div>
+											</div>
+					<div class="clear"></div>
+																		<div class="agenzia_logo in_annuncio">
+																									<img src="http://media.immobiliare.it/imagenoresize/188908805.jpg" alt="Immobiliare Domina S.A.S." />
+																							</div>
+															</div>
+						<div class="bottom">
+				<div class="align_left">
+											<span class="price">
+															Trattative riservate
+													</span>
+										
+					<span class="sep">&nbsp;|</span>&nbsp;230&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															5&nbsp;locali				</div>
+						<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+	 	</div>
+				<div class="clear"></div>
+	</div>
+    <div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+	aInfoAnnuncio = new Array();
+	aInfoAnnuncio['idAnnuncio'] = "31843206";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/31843206-Vendita-Appartamento-Ad-viale-Liberta-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.1848";
+	aInfoAnnuncio['longitudine'] = "9.14683";
+	__cVarCategory = "Residenziale";
+	setListAnnuncioEvents(aInfoAnnuncio);
+	
+	
+	
+			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
+		oInfoAnnuncio = new Array();
+		 
+			oInfoAnnuncio['idAnnuncio'] = "31843206";
+							oInfoAnnuncio['evidenza'] = "";
+							oInfoAnnuncio['primopiano']= "<div class=\"icona_primopiano\" onmouseover=\"showToolTip(this,event,'Annuncio Top');\"></div>";
+				
+					oInfoAnnuncio['numImages'] = "10";
+				var sTipologia = "";
+		
+							sTipologia = "Appartamento";
+			
+		oInfoAnnuncio['tipologia'] = sTipologia;
+	
+					oInfoAnnuncio['comune'] = "Pavia";
+			
+					oInfoAnnuncio['zona'] = "";
+			
+					oInfoAnnuncio['contratto'] = "Vendita"; 
+							oInfoAnnuncio['superficie'] = "230&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "5";
+							oInfoAnnuncio['prezzo'] = "Trattative riservate";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/31843206-Vendita-Appartamento-Ad-viale-Liberta-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/256859814/slideshow.jpg" alt="Appartamento Vendita Pavia "/></a>';
+	
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/31843206-Vendita-Appartamento-Ad-viale-Liberta-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
+		oInfoAnnuncio['nomecategoria'] = "Residenziale";
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/31843206-Vendita-Appartamento-Ad-viale-Liberta-Pavia.html';
+		oInfoAnnuncio['image'] = sGalleryThumb;
+					if (typeof oListaInfoAnnuncio != "undefined")
+				oListaInfoAnnuncio.push(oInfoAnnuncio);
+				-->
+</script>				   	      	
+	 
+		       			<a id="#38898269" class="scrollDist"></a>
+<div id="wrapper_riga_38898269" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi riga_annuncio" id="38898269" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('38898269',event);">
+
+	
+		<div class="contenuto_box evidenza fotoPlus">
+	
+	<div class="annuncio_title_cont">
+					<div class="evidenza_annuncio" style="cursor:pointer" onmouseover="showToolTip(this,event,'Annuncio Top');"></div>
+						<div class="annuncio_title">
+							<strong><a href="http://www.immobiliare.it/38898269-Vendita-Trilocale-via-Umberto-Olevano-96-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_38898269">Trilocale via Umberto Olevano 96, Pavia</a></strong>
+					</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(38898269)">	
+		<div class="thumb_box">
+															<div onmouseover="showPhotoplus(38898269,'A',this)" class="fotoPlus_annuncio" id="fotoPlus_annuncio_38898269"><div class="numImages" id="numImages_38898269">10</div></div>
+										
+			<div class="wrap_img">
+					<img src="http://media.immobiliare.it/image/304123081/listing.jpg" alt="Foto - Trilocale via Umberto Olevano 96, Pavia" id="38898269_thumb"/>
+			</div>
+		</div>
+					<div class="clear"></div>
+			<div class="wrap_mini_thumbs">
+				<div class="left">
+										<div class="wrap_border" onmouseover="showThumb('38898269_thumb','http://media.immobiliare.it/image/304123086/listing.jpg')">
+						<img  src="http://media.immobiliare.it/image/304123086/photoplus.jpg" alt="Appartamento Vendita Pavia "/>
+					</div>
+									</div>
+				<div class="right">
+										<div class="wrap_border" onmouseover="showThumb('38898269_thumb','http://media.immobiliare.it/image/304123146/listing.jpg')">
+					<img src="http://media.immobiliare.it/image/304123146/photoplus.jpg" alt="Appartamento Vendita Pavia " />
+					</div>
+									</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			</div>
+	<div class="align_right_contenuto_box">		
+		
+		<div class="box_testo_riga_annuncio">
+							<div class="titolo_annuncio"> 
+					Appartamento in Vendita
+				</div>
+						<div class="luogo" >
+				<span style="font-style:italic;">
+									</span>
+			</div>
+			<div class="descrizione" id="descrizione_38898269">
+																	Trilocale al secondo piano ristrutturato composto da cucina abitabile, camera matrimoniale, camera singola e servizi. Riscaldamento autonomo in palazzina a due piani con cortile interno in fase conclusiva di restauro. Ottimo investimento ed ideale per studenti. Massima resa in 55m^2 di spazio con ...
+			</div><div class="clear"></div>
+			<span class="desc_toggler" id="toggle_descrizione_38898269" onclick="toggle_remaining_desc('38898269')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_38898269"/></span>
+			
+						<div class="descMargin"></div>
+			<div class="clear"></div>
+		</div>
+							<div class="align_right">
+																	<div class="annuncio_new_tools_wrapper">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_38898269">
+							<div class="clear"></div>
+															<span class="title" style="margin-bottom:6px;">
+																											<a class="link_salva" id="salva_38898269" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('38898269',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_38898269">Salva Annuncio</strong>
+										</a>
+																									</span>
+								<div class="clear"></div>
+																															
+																						<div class="clear"></div>
+																<span class="title"><a href="http://www.immobiliare.it/38898269-Vendita-Trilocale-via-Umberto-Olevano-96-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 38898269 Appartamento in Vendita a Pavia"  onclick="show_contattaBox('38898269','', ''); return false;"><span class="link_contatta"  id="link_contattaAd_38898269">Invia Email</span></a></span>
+								
+																						
+						</div>
+											</div>
+					<div class="clear"></div>
+																		<div class="agenzia_logo in_annuncio">
+																							</div>
+															</div>
+						<div class="bottom">
+				<div class="align_left">
+											<span class="price">
+																									&euro; 125.000
+								    
+													</span>
+										
+					<span class="sep">&nbsp;|</span>&nbsp;55&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															3&nbsp;locali				</div>
+						<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+	 	</div>
+				<div class="clear"></div>
+	</div>
+    <div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+	aInfoAnnuncio = new Array();
+	aInfoAnnuncio['idAnnuncio'] = "38898269";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/38898269-Vendita-Trilocale-via-Umberto-Olevano-96-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.2008";
+	aInfoAnnuncio['longitudine'] = "9.1597";
+	__cVarCategory = "Residenziale";
+	setListAnnuncioEvents(aInfoAnnuncio);
+	
+	
+	
+			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
+		oInfoAnnuncio = new Array();
+		 
+			oInfoAnnuncio['idAnnuncio'] = "38898269";
+							oInfoAnnuncio['evidenza'] = "";
+							oInfoAnnuncio['primopiano']= "<div class=\"icona_primopiano\" onmouseover=\"showToolTip(this,event,'Annuncio Top');\"></div>";
+				
+					oInfoAnnuncio['numImages'] = "10";
+				var sTipologia = "";
+		
+							sTipologia = "Appartamento";
+			
+		oInfoAnnuncio['tipologia'] = sTipologia;
+	
+					oInfoAnnuncio['comune'] = "Pavia";
+			
+					oInfoAnnuncio['zona'] = "";
+			
+					oInfoAnnuncio['contratto'] = "Vendita"; 
+							oInfoAnnuncio['superficie'] = "55&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "3";
+				 
+			oInfoAnnuncio['prezzo'] = "€ 125.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/38898269-Vendita-Trilocale-via-Umberto-Olevano-96-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/304123081/slideshow.jpg" alt="Appartamento Vendita Pavia "/></a>';
+	
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/38898269-Vendita-Trilocale-via-Umberto-Olevano-96-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
+		oInfoAnnuncio['nomecategoria'] = "Residenziale";
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/38898269-Vendita-Trilocale-via-Umberto-Olevano-96-Pavia.html';
+		oInfoAnnuncio['image'] = sGalleryThumb;
+					if (typeof oListaInfoAnnuncio != "undefined")
+				oListaInfoAnnuncio.push(oInfoAnnuncio);
+				-->
+</script>				   	      	
+	 
+		       			<a id="#39165706" class="scrollDist"></a>
+<div id="wrapper_riga_39165706" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi riga_annuncio" id="39165706" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('39165706',event);">
+
+	
+		<div class="contenuto_box evidenza fotoPlus">
+	
+	<div class="annuncio_title_cont">
+					<div class="evidenza_annuncio" style="cursor:pointer" onmouseover="showToolTip(this,event,'Annuncio Top');"></div>
+							<div class="new_annuncio" onmouseover="showToolTip(this,event,'Nuovo Annuncio');"></div>
+				<div class="annuncio_title">
+							<strong><a href="http://www.immobiliare.it/39165706-Vendita-Trilocale-Strada-Paiola-93-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_39165706">Trilocale Strada Paiola 93, Pavia</a></strong>
+					</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(39165706)">	
+		<div class="thumb_box">
+															<div onmouseover="showPhotoplus(39165706,'A',this)" class="fotoPlus_annuncio" id="fotoPlus_annuncio_39165706"><div class="numImages" id="numImages_39165706">9</div></div>
+										
+			<div class="wrap_img">
+					<img src="http://media.immobiliare.it/image/307250116/listing.jpg" alt="Foto - Trilocale Strada Paiola 93, Pavia" id="39165706_thumb"/>
+			</div>
+		</div>
+					<div class="clear"></div>
+			<div class="wrap_mini_thumbs">
+				<div class="left">
+										<div class="wrap_border" onmouseover="showThumb('39165706_thumb','http://media.immobiliare.it/image/307250056/listing.jpg')">
+						<img  src="http://media.immobiliare.it/image/307250056/photoplus.jpg" alt="Appartamento Vendita Pavia "/>
+					</div>
+									</div>
+				<div class="right">
+										<div class="wrap_border" onmouseover="showThumb('39165706_thumb','http://media.immobiliare.it/image/307250176/listing.jpg')">
+					<img src="http://media.immobiliare.it/image/307250176/photoplus.jpg" alt="Appartamento Vendita Pavia " />
+					</div>
+									</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			</div>
+	<div class="align_right_contenuto_box">		
+		
+		<div class="box_testo_riga_annuncio">
+							<div class="titolo_annuncio"> 
+					Appartamento in Vendita
+				</div>
+						<div class="luogo" >
+				<span style="font-style:italic;">
+									</span>
+			</div>
+			<div class="descrizione" id="descrizione_39165706">
+																	APPARTAMENTI DI PREGIO IN ZONA RESIDENZIALE A PRADO A SOLI 2 KM DA TANGENZIALE EST DI PAVIA CLASSE ENERGETICA A. 
+L'appartamento è di nuova costruzione ed è personalizzabile su misura dal cliente per quanto riguarda pavimentazione e rivestimenti con un ottima scelta da capitolato. Predisposizione ar...
+			</div><div class="clear"></div>
+			<span class="desc_toggler" id="toggle_descrizione_39165706" onclick="toggle_remaining_desc('39165706')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_39165706"/></span>
+			
+						<div class="descMargin"></div>
+			<div class="clear"></div>
+		</div>
+							<div class="align_right">
+																	<div class="annuncio_new_tools_wrapper">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_39165706">
+							<div class="clear"></div>
+															<span class="title" style="margin-bottom:6px;">
+																											<a class="link_salva" id="salva_39165706" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('39165706',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_39165706">Salva Annuncio</strong>
+										</a>
+																									</span>
+								<div class="clear"></div>
+																															
+																						<div class="clear"></div>
+																<span class="title"><a href="http://www.immobiliare.it/39165706-Vendita-Trilocale-Strada-Paiola-93-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 39165706 Appartamento in Vendita a Pavia"  onclick="show_contattaBox('39165706','', ''); return false;"><span class="link_contatta"  id="link_contattaAd_39165706">Invia Email</span></a></span>
+								
+																						
+						</div>
+											</div>
+					<div class="clear"></div>
+																		<div class="agenzia_logo in_annuncio">
+																							</div>
+															</div>
+						<div class="bottom">
+				<div class="align_left">
+											<span class="price">
+																									&euro; 145.000
+								    
+													</span>
+										
+					<span class="sep">&nbsp;|</span>&nbsp;100&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															3&nbsp;locali				</div>
+						<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+	 	</div>
+				<div class="clear"></div>
+	</div>
+    <div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+	aInfoAnnuncio = new Array();
+	aInfoAnnuncio['idAnnuncio'] = "39165706";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/39165706-Vendita-Trilocale-Strada-Paiola-93-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.203";
+	aInfoAnnuncio['longitudine'] = "9.21444";
+	__cVarCategory = "Residenziale";
+	setListAnnuncioEvents(aInfoAnnuncio);
+	
+	
+	
+			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
+		oInfoAnnuncio = new Array();
+		 
+			oInfoAnnuncio['idAnnuncio'] = "39165706";
+							oInfoAnnuncio['evidenza']= "<div class=\"icona_evidenza\" onmouseover=\"showToolTip(this,event,'Annuncio in Evidenza');\"></div>";
+							oInfoAnnuncio['primopiano']= "<div class=\"icona_primopiano\" onmouseover=\"showToolTip(this,event,'Annuncio Top');\"></div>";
+				
+					oInfoAnnuncio['numImages'] = "9";
+				var sTipologia = "";
+		
+							sTipologia = "Appartamento";
+			
+		oInfoAnnuncio['tipologia'] = sTipologia;
+	
+					oInfoAnnuncio['comune'] = "Pavia";
+			
+					oInfoAnnuncio['zona'] = "";
+			
+					oInfoAnnuncio['contratto'] = "Vendita"; 
+							oInfoAnnuncio['superficie'] = "100&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "3";
+				 
+			oInfoAnnuncio['prezzo'] = "€ 145.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/39165706-Vendita-Trilocale-Strada-Paiola-93-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/307250116/slideshow.jpg" alt="Appartamento Vendita Pavia "/></a>';
+	
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/39165706-Vendita-Trilocale-Strada-Paiola-93-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
+		oInfoAnnuncio['nomecategoria'] = "Residenziale";
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/39165706-Vendita-Trilocale-Strada-Paiola-93-Pavia.html';
+		oInfoAnnuncio['image'] = sGalleryThumb;
+					if (typeof oListaInfoAnnuncio != "undefined")
+				oListaInfoAnnuncio.push(oInfoAnnuncio);
+				-->
+</script>				   	      	
+	 
+		       		<div style="margin:0 0 0 2px">
+						
+				<div class="dfpPosition" style="display:block;">
+					<div id="div-gpt-ad-1327403663813-17" style="margin:10px auto;width:665px;height:94px;overflow:hidden"></div>
+				</div>
+		</div>		
+   	   	   			<a id="#33415894" class="scrollDist"></a>
+<div id="wrapper_riga_33415894" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi first riga_annuncio" id="33415894" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('33415894',event);">
+
+	
+		<div class="contenuto_box  ">
+	
+	<div class="annuncio_title_cont">
+					<div class="evidenza_annuncio" style="cursor:pointer" onmouseover="showToolTip(this,event,'Annuncio Top');"></div>
+						<div class="annuncio_title">
+							<strong><a href="http://www.immobiliare.it/33415894-Vendita-Quadrilocale-buono-stato-primo-piano-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_33415894">Quadrilocale buono stato, primo piano, Pavia</a></strong>
+					</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(33415894)">	
+		<div class="thumb_box">
+							<div class="video_annuncio" style="margin-left:82px;"></div>
+															<div class="numfoto_annuncio"><div class="numImages">10</div></div>
+										
+			<div class="wrap_img">
+					<img src="http://media.immobiliare.it/image/255274317/listing.jpg" alt="Foto - Quadrilocale buono stato, primo piano, Pavia" id="33415894_thumb"/>
+			</div>
+		</div>
+			</div>
+	<div class="align_right_contenuto_box">		
+		
+		<div class="box_testo_riga_annuncio">
+							<div class="titolo_annuncio"> 
+					Appartamento in Vendita
+				</div>
+						<div class="luogo" >
+				<span style="font-style:italic;">
+									</span>
+			</div>
+			<div class="descrizione" id="descrizione_33415894">
+																	Splendido appartamento di mq 120 con tripla esposizione di recentissima costruzione affacciato sul parco della Vernavola in zona riservata e tranquilla a pochi minuti dal centro: soggiorno con...
+			</div><div class="clear"></div>
+			<span class="desc_toggler" id="toggle_descrizione_33415894" onclick="toggle_remaining_desc('33415894')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_33415894"/></span>
+			
+						<div class="descMargin"></div>
+			<div class="clear"></div>
+		</div>
+							<div class="align_right">
+																	<div class="annuncio_new_tools_wrapper">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_33415894">
+							<div class="clear"></div>
+															<span class="title" style="margin-bottom:6px;">
+																											<a class="link_salva" id="salva_33415894" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('33415894',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_33415894">Salva Annuncio</strong>
+										</a>
+																									</span>
+								<div class="clear"></div>
+																															
+																						<div class="clear"></div>
+																<span class="title"><a href="http://www.immobiliare.it/33415894-Vendita-Quadrilocale-buono-stato-primo-piano-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 33415894 Appartamento in Vendita a Pavia"  onclick="show_contattaBox('33415894','119437', 'PRESTIGE IMMOBILIARE SAS'); return false;"><span class="link_contatta"  id="link_contattaAd_33415894">Invia Email</span></a></span>
+								
+																						
+						</div>
+											</div>
+					<div class="clear"></div>
+																		<div class="agenzia_logo in_annuncio">
+																									<img src="http://media.immobiliare.it/imagenoresize/193302225.jpg" alt="PRESTIGE IMMOBILIARE SAS" />
+																							</div>
+															</div>
+						<div class="bottom">
+				<div class="align_left">
+											<span class="price">
+																									&euro; 335.000
+								    
+													</span>
+										
+					<span class="sep">&nbsp;|</span>&nbsp;120&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															4&nbsp;locali				</div>
+						<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+	 	</div>
+				<div class="clear"></div>
+	</div>
+    <div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+	aInfoAnnuncio = new Array();
+	aInfoAnnuncio['idAnnuncio'] = "33415894";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/33415894-Vendita-Quadrilocale-buono-stato-primo-piano-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "0";
+	aInfoAnnuncio['latitudine'] = "45.1859";
+	aInfoAnnuncio['longitudine'] = "9.15656";
+	__cVarCategory = "Residenziale";
+	setListAnnuncioEvents(aInfoAnnuncio);
+	
+	
+	
+			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
+		oInfoAnnuncio = new Array();
+		 
+			oInfoAnnuncio['idAnnuncio'] = "33415894";
+							oInfoAnnuncio['evidenza'] = "";
+							oInfoAnnuncio['primopiano']= "<div class=\"icona_primopiano\" onmouseover=\"showToolTip(this,event,'Annuncio Top');\"></div>";
+				
+					oInfoAnnuncio['numImages'] = "10";
+				var sTipologia = "";
+		
+							sTipologia = "Appartamento";
+			
+		oInfoAnnuncio['tipologia'] = sTipologia;
+	
+					oInfoAnnuncio['comune'] = "Pavia";
+			
+					oInfoAnnuncio['zona'] = "";
+			
+					oInfoAnnuncio['contratto'] = "Vendita"; 
+							oInfoAnnuncio['superficie'] = "120&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "4";
+				 
+			oInfoAnnuncio['prezzo'] = "€ 335.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/33415894-Vendita-Quadrilocale-buono-stato-primo-piano-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/255274317/slideshow.jpg" alt="Appartamento Vendita Pavia "/></a>';
+	
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/33415894-Vendita-Quadrilocale-buono-stato-primo-piano-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
+		oInfoAnnuncio['nomecategoria'] = "Residenziale";
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/33415894-Vendita-Quadrilocale-buono-stato-primo-piano-Pavia.html';
+		oInfoAnnuncio['image'] = sGalleryThumb;
+					if (typeof oListaInfoAnnuncio != "undefined")
+				oListaInfoAnnuncio.push(oInfoAnnuncio);
+				-->
+</script>				   	      	
+	 
+		       			<a id="#33987434" class="scrollDist"></a>
+<div id="wrapper_riga_33987434" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi riga_annuncio" id="33987434" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('33987434',event);">
+
+	
+		<div class="contenuto_box  fotoPlus">
+	
+	<div class="annuncio_title_cont">
+					<div class="evidenza_annuncio" style="cursor:pointer" onmouseover="showToolTip(this,event,'Annuncio Top');"></div>
+						<div class="annuncio_title">
+							<strong><a href="http://www.immobiliare.it/33987434-Vendita-Attico-Mansarda-tre-piani-ottimo-stato-230-mq-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_33987434">Attico / Mansarda tre piani, ottimo stato, 230 mq, Pavia</a></strong>
+					</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(33987434)">	
+		<div class="thumb_box">
+							<div class="video_annuncio" style="margin-left:27px;"></div>
+															<div onmouseover="showPhotoplus(33987434,'A',this)" class="fotoPlus_annuncio" id="fotoPlus_annuncio_33987434"><div class="numImages" id="numImages_33987434">10</div></div>
+										
+			<div class="wrap_img">
+					<img src="http://media.immobiliare.it/image/259987101/listing.jpg" alt="Foto - Attico / Mansarda tre piani, ottimo stato, 230 mq, Pavia" id="33987434_thumb"/>
+			</div>
+		</div>
+			</div>
+	<div class="align_right_contenuto_box">		
+		
+		<div class="box_testo_riga_annuncio">
+							<div class="titolo_annuncio"> 
+					Attico / Mansarda in Vendita
+				</div>
+						<div class="luogo" >
+				<span style="font-style:italic;">
+									</span>
+			</div>
+			<div class="descrizione" id="descrizione_33987434">
+																	Appartamento di prestigio in vendita su 2 livelli di 200 mq. ca. posto al 2°piano e attico con terrazzo affacciato sul centro storico di Pavia. Composizione P.2°: salone, studio, cucina...
+			</div><div class="clear"></div>
+			<span class="desc_toggler" id="toggle_descrizione_33987434" onclick="toggle_remaining_desc('33987434')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_33987434"/></span>
+			
+						<div class="descMargin"></div>
+			<div class="clear"></div>
+		</div>
+							<div class="align_right">
+																	<div class="annuncio_new_tools_wrapper">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_33987434">
+							<div class="clear"></div>
+															<span class="title" style="margin-bottom:6px;">
+																											<a class="link_salva" id="salva_33987434" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('33987434',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_33987434">Salva Annuncio</strong>
+										</a>
+																									</span>
+								<div class="clear"></div>
+																															
+																						<div class="clear"></div>
+																<span class="title"><a href="http://www.immobiliare.it/33987434-Vendita-Attico-Mansarda-tre-piani-ottimo-stato-230-mq-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile A100 Attico / Mansarda in Vendita a Pavia"  onclick="show_contattaBox('33987434','113685', 'La Ca&amp;#039; servizi immobiliari'); return false;"><span class="link_contatta"  id="link_contattaAd_33987434">Invia Email</span></a></span>
+								
+																							<div class="clear"></div>
+									<div class="datiTelefoniciRA">
+									  										<span id="telAgenzia1_33987434" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">0382302734</span>
+										<div  id="telAgenzia1_MT_33987434" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(33987434,'#telAgenzia1',113685,'tel1',event)">Mostra Telefono</div>
+				  
+									  									</div>
+																
+						</div>
+											</div>
+					<div class="clear"></div>
+																		<div class="agenzia_logo in_annuncio">
+																									<img src="http://media.immobiliare.it/imagenoresize/187104646.jpg" alt="La Ca&#039; servizi immobiliari" />
+																							</div>
+															</div>
+						<div class="bottom">
+				<div class="align_left">
+											<span class="price">
+																									&euro; 810.000
+								    
+													</span>
+										
+					<span class="sep">&nbsp;|</span>&nbsp;230&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															più di 5&nbsp;locali				</div>
+						<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+	 	</div>
+				<div class="clear"></div>
+	</div>
+    <div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+	aInfoAnnuncio = new Array();
+	aInfoAnnuncio['idAnnuncio'] = "33987434";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/33987434-Vendita-Attico-Mansarda-tre-piani-ottimo-stato-230-mq-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "2";
+	aInfoAnnuncio['latitudine'] = "45.1875";
+	aInfoAnnuncio['longitudine'] = "9.15729";
+	__cVarCategory = "Residenziale";
+	setListAnnuncioEvents(aInfoAnnuncio);
+	
+	
+	
+			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
+		oInfoAnnuncio = new Array();
+		 
+			oInfoAnnuncio['idAnnuncio'] = "33987434";
+							oInfoAnnuncio['evidenza'] = "";
+							oInfoAnnuncio['primopiano']= "<div class=\"icona_primopiano\" onmouseover=\"showToolTip(this,event,'Annuncio Top');\"></div>";
+				
+					oInfoAnnuncio['numImages'] = "10";
+				var sTipologia = "";
+		
+							sTipologia = "Attico / Mansarda";
+			
+		oInfoAnnuncio['tipologia'] = sTipologia;
+	
+					oInfoAnnuncio['comune'] = "Pavia";
+			
+					oInfoAnnuncio['zona'] = "";
+			
+					oInfoAnnuncio['contratto'] = "Vendita"; 
+							oInfoAnnuncio['superficie'] = "230&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "pi&ugrave;&nbsp;di&nbsp;5";
+				 
+			oInfoAnnuncio['prezzo'] = "€ 810.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/33987434-Vendita-Attico-Mansarda-tre-piani-ottimo-stato-230-mq-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/259987101/slideshow.jpg" alt="Attico / Mansarda Vendita Pavia "/></a>';
+	
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/33987434-Vendita-Attico-Mansarda-tre-piani-ottimo-stato-230-mq-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
+		oInfoAnnuncio['nomecategoria'] = "Residenziale";
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/33987434-Vendita-Attico-Mansarda-tre-piani-ottimo-stato-230-mq-Pavia.html';
+		oInfoAnnuncio['image'] = sGalleryThumb;
+					if (typeof oListaInfoAnnuncio != "undefined")
+				oListaInfoAnnuncio.push(oInfoAnnuncio);
+				-->
+</script>				   	      	
+	 
+		       			<a id="#38678321" class="scrollDist"></a>
+<div id="wrapper_riga_38678321" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi riga_annuncio" id="38678321" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('38678321',event);">
+
+	
+		<div class="contenuto_box evidenza fotoPlus">
+	
+	<div class="annuncio_title_cont">
+					<div class="evidenza_annuncio" style="cursor:pointer" onmouseover="showToolTip(this,event,'Annuncio Top');"></div>
+						<div class="annuncio_title">
+							<strong><a href="http://www.immobiliare.it/38678321-Vendita-Villa-buono-stato-450-mq-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_38678321">Villa, buono stato, 450 mq, Pavia</a></strong>
+					</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(38678321)">	
+		<div class="thumb_box">
+															<div onmouseover="showPhotoplus(38678321,'A',this)" class="fotoPlus_annuncio" id="fotoPlus_annuncio_38678321"><div class="numImages" id="numImages_38678321">4</div></div>
+										
+			<div class="wrap_img">
+					<img src="http://media.immobiliare.it/image/301960709/listing.jpg" alt="Foto - Villa, buono stato, 450 mq, Pavia" id="38678321_thumb"/>
+			</div>
+		</div>
+					<div class="clear"></div>
+			<div class="wrap_mini_thumbs">
+				<div class="left">
+										<div class="wrap_border" onmouseover="showThumb('38678321_thumb','http://media.immobiliare.it/image/301960730/listing.jpg')">
+						<img  src="http://media.immobiliare.it/image/301960730/photoplus.jpg" alt="Villa Vendita Pavia "/>
+					</div>
+									</div>
+				<div class="right">
+										<div class="wrap_border" onmouseover="showThumb('38678321_thumb','http://media.immobiliare.it/image/301960757/listing.jpg')">
+					<img src="http://media.immobiliare.it/image/301960757/photoplus.jpg" alt="Villa Vendita Pavia " />
+					</div>
+									</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			</div>
+	<div class="align_right_contenuto_box">		
+		
+		<div class="box_testo_riga_annuncio">
+							<div class="titolo_annuncio"> 
+					Villa in Vendita
+				</div>
+						<div class="luogo" >
+				<span style="font-style:italic;">
+											Centro città
+									</span>
+			</div>
+			<div class="descrizione" id="descrizione_38678321">
+																	localita dorno (pv )splendida villa signorile a 20min da milano 20 min da pavia .la villa si compone da 2 unita abitative di circa 200mq l una. salone triplo con camino 3 camere 2 bagn 1 cucina abitable al pian terreno. al primo piano troviamo appartamento identico piano sotto con salone triplo co...
+			</div><div class="clear"></div>
+			<span class="desc_toggler" id="toggle_descrizione_38678321" onclick="toggle_remaining_desc('38678321')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_38678321"/></span>
+			
+						<div class="descMargin"></div>
+			<div class="clear"></div>
+		</div>
+							<div class="align_right">
+																	<div class="annuncio_new_tools_wrapper">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_38678321">
+							<div class="clear"></div>
+															<span class="title" style="margin-bottom:6px;">
+																											<a class="link_salva" id="salva_38678321" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('38678321',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_38678321">Salva Annuncio</strong>
+										</a>
+																									</span>
+								<div class="clear"></div>
+																															
+																						<div class="clear"></div>
+																<span class="title"><a href="http://www.immobiliare.it/38678321-Vendita-Villa-buono-stato-450-mq-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 38678321 Villa in Vendita a Pavia"  onclick="show_contattaBox('38678321','', ''); return false;"><span class="link_contatta"  id="link_contattaAd_38678321">Invia Email</span></a></span>
+								
+																						
+						</div>
+											</div>
+					<div class="clear"></div>
+																		<div class="agenzia_logo in_annuncio">
+																							</div>
+															</div>
+						<div class="bottom">
+				<div class="align_left">
+											<span class="price">
+																									&euro; 700.000
+								    
+													</span>
+										
+					<span class="sep">&nbsp;|</span>&nbsp;450&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															più di 5&nbsp;locali				</div>
+						<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+	 	</div>
+				<div class="clear"></div>
+	</div>
+    <div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+	aInfoAnnuncio = new Array();
+	aInfoAnnuncio['idAnnuncio'] = "38678321";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/38678321-Vendita-Villa-buono-stato-450-mq-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.1859";
+	aInfoAnnuncio['longitudine'] = "9.15659";
+	__cVarCategory = "Residenziale";
+	setListAnnuncioEvents(aInfoAnnuncio);
+	
+	
+	
+			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
+		oInfoAnnuncio = new Array();
+		 
+			oInfoAnnuncio['idAnnuncio'] = "38678321";
+							oInfoAnnuncio['evidenza'] = "";
+							oInfoAnnuncio['primopiano']= "<div class=\"icona_primopiano\" onmouseover=\"showToolTip(this,event,'Annuncio Top');\"></div>";
+				
+					oInfoAnnuncio['numImages'] = "4";
+				var sTipologia = "";
+		
+							sTipologia = "Villa";
+			
+		oInfoAnnuncio['tipologia'] = sTipologia;
+	
+					oInfoAnnuncio['comune'] = "Pavia";
+			
+					oInfoAnnuncio['zona'] = "";
+			
+					oInfoAnnuncio['contratto'] = "Vendita"; 
+							oInfoAnnuncio['superficie'] = "450&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "pi&ugrave;&nbsp;di&nbsp;5";
+				 
+			oInfoAnnuncio['prezzo'] = "€ 700.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/38678321-Vendita-Villa-buono-stato-450-mq-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/301960709/slideshow.jpg" alt="Villa Vendita Pavia "/></a>';
+	
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/38678321-Vendita-Villa-buono-stato-450-mq-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
+		oInfoAnnuncio['nomecategoria'] = "Residenziale";
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/38678321-Vendita-Villa-buono-stato-450-mq-Pavia.html';
+		oInfoAnnuncio['image'] = sGalleryThumb;
+					if (typeof oListaInfoAnnuncio != "undefined")
+				oListaInfoAnnuncio.push(oInfoAnnuncio);
+				-->
+</script>						 
+<div class="mail_alert_box">
+	<form method="post" action="/trovakasa.php" onsubmit="startMailAlertProcess(this);return false" method="POST">
+		<input type="hidden" name="getForm" value="1" />
+		<input type="hidden" name="source" value="L-AN" id="TI_source"/>
+		<input type="hidden" value="1" name="trova_immobili" />
+   <input type="hidden" value="IT" name="fkNazione"/>		
+   <input type="hidden" value="lom" name="regione"/>		
+ 
+   <input type="hidden" value="PV" name="provincia" />
+   <input type="hidden" value="8303" name="comune" id="TI_comune" />
+   <input type="hidden" value="1" name="categoria" id="categoria" />
+ 
+   <input type="hidden" value="1" name="contratto"  />
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<input type="hidden" id="zoneTI_ids" name="zona"  value=""/>
+<input type="hidden" name="isCheckRequest" value="0" id="isCheckRequest"/>
+<input type="hidden" name="formType" />		<div class="mail_alert_box2">
+			<div class="mail_alert_email">
+				<input type="text" name="email" value="inserisci la tua email" startvalue="inserisci la tua email" onclick="if (this.value=='inserisci la tua email') this.value=''" onblur="this.value = this.value.trim();if (this.value=='') this.value='inserisci la tua email'" />
+							</div>
+			<div class="bottoneAttMailAlertContainer">
+				<input type="submit" class="bottoneAttivaServizio" onclick="this.blur();" value=""/>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</form>
+</div>
+ 			   	      	
+	 
+					       			<a id="#38565862" class="scrollDist"></a>
+<div id="wrapper_riga_38565862" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi first riga_annuncio" id="38565862" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('38565862',event);">
 
 	
 		<div class="contenuto_box  ">
 	
 	<div class="annuncio_title_cont">
 						<div class="annuncio_title">
-							<strong><a href="http://www.immobiliare.it/36501174-Vendita-Trilocale-90-mq-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_36501174">Trilocale 90 mq, Pavia</a></strong>
+							<strong><a href="http://www.immobiliare.it/38565862-Vendita-Bilocale-via-bernardino-da-feltre-29-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_38565862">Bilocale via bernardino da feltre 29, Pavia</a></strong>
 					</div>
 		<div class="clear"></div>
 	</div>
 	
-	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(36501174)">	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(38565862)">	
 		<div class="thumb_box">
-									
+							<div class="video_annuncio" style="margin-left:82px;"></div>
+															<div class="numfoto_annuncio"><div class="numImages">10</div></div>
+										
 			<div class="wrap_img">
-					<img src="http://www.immobiliare.it/img2/information.gif" alt="Foto - Trilocale 90 mq, Pavia" id="36501174_thumb"/>
+					<img src="http://media.immobiliare.it/image/301127449/listing.jpg" alt="Foto - Bilocale via bernardino da feltre 29, Pavia" id="38565862_thumb"/>
+			</div>
+		</div>
+			</div>
+	<div class="align_right_contenuto_box">		
+		
+		<div class="box_testo_riga_annuncio">
+							<div class="titolo_annuncio"> 
+					Appartamento in Vendita
+				</div>
+						<div class="luogo" >
+				<span style="font-style:italic;">
+									</span>
+			</div>
+			<div class="descrizione" id="descrizione_38565862">
+																	VIA BERNARDINO DA FELTRE: centro storico in contesto di ringhiera appartamento al primo piano composto da: ingresso, soggiorno con cucina a vista, camera con soppalco, bagno.
+BUONE CONDIZIONI!!!...
+			</div><div class="clear"></div>
+			<span class="desc_toggler" id="toggle_descrizione_38565862" onclick="toggle_remaining_desc('38565862')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_38565862"/></span>
+			
+						<div class="descMargin"></div>
+			<div class="clear"></div>
+		</div>
+							<div class="align_right">
+																	<div class="annuncio_new_tools_wrapper">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_38565862">
+							<div class="clear"></div>
+															<span class="title" style="margin-bottom:6px;">
+																											<a class="link_salva" id="salva_38565862" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('38565862',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_38565862">Salva Annuncio</strong>
+										</a>
+																									</span>
+								<div class="clear"></div>
+																															
+																						<div class="clear"></div>
+																<span class="title"><a href="http://www.immobiliare.it/38565862-Vendita-Bilocale-via-bernardino-da-feltre-29-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 1039R Appartamento in Vendita a Pavia"  onclick="show_contattaBox('38565862','25798', 'Studio Immobiliare Cantoni'); return false;"><span class="link_contatta"  id="link_contattaAd_38565862">Invia Email</span></a></span>
+								
+																							<div class="clear"></div>
+									<div class="datiTelefoniciRA">
+									  										<span id="telAgenzia1_38565862" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">038220341</span>
+										<div  id="telAgenzia1_MT_38565862" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(38565862,'#telAgenzia1',25798,'tel1',event)">Mostra Telefono</div>
+				  
+									  									</div>
+																
+						</div>
+											</div>
+					<div class="clear"></div>
+																		<div class="agenzia_logo in_annuncio">
+																									<img src="http://media.immobiliare.it/imagenoresize/7677565.jpg" alt="Studio Immobiliare Cantoni" />
+																							</div>
+															</div>
+						<div class="bottom">
+				<div class="align_left">
+											<span class="price">
+																									&euro; 145.000
+								    
+													</span>
+										
+					<span class="sep">&nbsp;|</span>&nbsp;50&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															2&nbsp;locali				</div>
+						<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+	 	</div>
+				<div class="clear"></div>
+	</div>
+    <div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+	aInfoAnnuncio = new Array();
+	aInfoAnnuncio['idAnnuncio'] = "38565862";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/38565862-Vendita-Bilocale-via-bernardino-da-feltre-29-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.185";
+	aInfoAnnuncio['longitudine'] = "9.14824";
+	__cVarCategory = "Residenziale";
+	setListAnnuncioEvents(aInfoAnnuncio);
+	
+	
+	
+			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
+		oInfoAnnuncio = new Array();
+		 
+			oInfoAnnuncio['idAnnuncio'] = "38565862";
+							oInfoAnnuncio['evidenza'] = "";
+							oInfoAnnuncio['primopiano'] = "";
+				
+					oInfoAnnuncio['numImages'] = "10";
+				var sTipologia = "";
+		
+							sTipologia = "Appartamento";
+			
+		oInfoAnnuncio['tipologia'] = sTipologia;
+	
+					oInfoAnnuncio['comune'] = "Pavia";
+			
+					oInfoAnnuncio['zona'] = "";
+			
+					oInfoAnnuncio['contratto'] = "Vendita"; 
+							oInfoAnnuncio['superficie'] = "50&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "2";
+				 
+			oInfoAnnuncio['prezzo'] = "€ 145.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/38565862-Vendita-Bilocale-via-bernardino-da-feltre-29-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/301127449/slideshow.jpg" alt="Appartamento Vendita Pavia "/></a>';
+	
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/38565862-Vendita-Bilocale-via-bernardino-da-feltre-29-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
+		oInfoAnnuncio['nomecategoria'] = "Residenziale";
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/38565862-Vendita-Bilocale-via-bernardino-da-feltre-29-Pavia.html';
+		oInfoAnnuncio['image'] = sGalleryThumb;
+					if (typeof oListaInfoAnnuncio != "undefined")
+				oListaInfoAnnuncio.push(oInfoAnnuncio);
+				-->
+</script>				   	      	
+	 
+		       			<a id="#38109918" class="scrollDist"></a>
+<div id="wrapper_riga_38109918" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi riga_annuncio" id="38109918" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('38109918',event);">
+
+	
+		<div class="contenuto_box  ">
+	
+	<div class="annuncio_title_cont">
+						<div class="annuncio_title">
+							<strong><a href="http://www.immobiliare.it/38109918-Vendita-Trilocale-corso-manzoni-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_38109918">Trilocale corso manzoni, Pavia</a></strong>
+					</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(38109918)">	
+		<div class="thumb_box">
+							<div class="video_annuncio" style="margin-left:82px;"></div>
+															<div class="numfoto_annuncio"><div class="numImages">10</div></div>
+										
+			<div class="wrap_img">
+					<img src="http://media.immobiliare.it/image/297302918/listing.jpg" alt="Foto - Trilocale corso manzoni, Pavia" id="38109918_thumb"/>
+			</div>
+		</div>
+			</div>
+	<div class="align_right_contenuto_box">		
+		
+		<div class="box_testo_riga_annuncio">
+							<div class="titolo_annuncio"> 
+					Appartamento in Vendita
+				</div>
+						<div class="luogo" >
+				<span style="font-style:italic;">
+									</span>
+			</div>
+			<div class="descrizione" id="descrizione_38109918">
+																	Pavia Corso Manzoni: ampio tre locali in gradevole palazzina servito da ascensore, composto da ingresso, soggiorno, cucinotto e sala da pranzo, due ampie camere matrimoniali, ampio bagno,...
+			</div><div class="clear"></div>
+			<span class="desc_toggler" id="toggle_descrizione_38109918" onclick="toggle_remaining_desc('38109918')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_38109918"/></span>
+			
+						<div class="descMargin"></div>
+			<div class="clear"></div>
+		</div>
+							<div class="align_right">
+																	<div class="annuncio_new_tools_wrapper">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_38109918">
+							<div class="clear"></div>
+															<span class="title" style="margin-bottom:6px;">
+																											<a class="link_salva" id="salva_38109918" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('38109918',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_38109918">Salva Annuncio</strong>
+										</a>
+																									</span>
+								<div class="clear"></div>
+																															
+																						<div class="clear"></div>
+																<span class="title"><a href="http://www.immobiliare.it/38109918-Vendita-Trilocale-corso-manzoni-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 1038P Appartamento in Vendita a Pavia"  onclick="show_contattaBox('38109918','25798', 'Studio Immobiliare Cantoni'); return false;"><span class="link_contatta"  id="link_contattaAd_38109918">Invia Email</span></a></span>
+								
+																							<div class="clear"></div>
+									<div class="datiTelefoniciRA">
+									  										<span id="telAgenzia1_38109918" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">038220341</span>
+										<div  id="telAgenzia1_MT_38109918" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(38109918,'#telAgenzia1',25798,'tel1',event)">Mostra Telefono</div>
+				  
+									  									</div>
+																
+						</div>
+											</div>
+					<div class="clear"></div>
+																		<div class="agenzia_logo in_annuncio">
+																									<img src="http://media.immobiliare.it/imagenoresize/7677565.jpg" alt="Studio Immobiliare Cantoni" />
+																							</div>
+															</div>
+						<div class="bottom">
+				<div class="align_left">
+											<span class="price">
+																									&euro; 360.000
+								    
+													</span>
+										
+					<span class="sep">&nbsp;|</span>&nbsp;120&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															3&nbsp;locali				</div>
+						<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+	 	</div>
+				<div class="clear"></div>
+	</div>
+    <div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+	aInfoAnnuncio = new Array();
+	aInfoAnnuncio['idAnnuncio'] = "38109918";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/38109918-Vendita-Trilocale-corso-manzoni-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.1873";
+	aInfoAnnuncio['longitudine'] = "9.14581";
+	__cVarCategory = "Residenziale";
+	setListAnnuncioEvents(aInfoAnnuncio);
+	
+	
+	
+			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
+		oInfoAnnuncio = new Array();
+		 
+			oInfoAnnuncio['idAnnuncio'] = "38109918";
+							oInfoAnnuncio['evidenza'] = "";
+							oInfoAnnuncio['primopiano'] = "";
+				
+					oInfoAnnuncio['numImages'] = "10";
+				var sTipologia = "";
+		
+							sTipologia = "Appartamento";
+			
+		oInfoAnnuncio['tipologia'] = sTipologia;
+	
+					oInfoAnnuncio['comune'] = "Pavia";
+			
+					oInfoAnnuncio['zona'] = "";
+			
+					oInfoAnnuncio['contratto'] = "Vendita"; 
+							oInfoAnnuncio['superficie'] = "120&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "3";
+				 
+			oInfoAnnuncio['prezzo'] = "€ 360.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/38109918-Vendita-Trilocale-corso-manzoni-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/297302918/slideshow.jpg" alt="Appartamento Vendita Pavia "/></a>';
+	
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/38109918-Vendita-Trilocale-corso-manzoni-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
+		oInfoAnnuncio['nomecategoria'] = "Residenziale";
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/38109918-Vendita-Trilocale-corso-manzoni-Pavia.html';
+		oInfoAnnuncio['image'] = sGalleryThumb;
+					if (typeof oListaInfoAnnuncio != "undefined")
+				oListaInfoAnnuncio.push(oInfoAnnuncio);
+				-->
+</script>				   	      	
+	 
+		       			<a id="#38027214" class="scrollDist"></a>
+<div id="wrapper_riga_38027214" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi riga_annuncio" id="38027214" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('38027214',event);">
+
+	
+		<div class="contenuto_box  ">
+	
+	<div class="annuncio_title_cont">
+						<div class="annuncio_title">
+							<strong><a href="http://www.immobiliare.it/38027214-Vendita-Trilocale-via-damiano-chiesa-14-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_38027214">Trilocale via damiano chiesa 14, Pavia</a></strong>
+					</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(38027214)">	
+		<div class="thumb_box">
+							<div class="video_annuncio" style="margin-left:82px;"></div>
+															<div class="numfoto_annuncio"><div class="numImages">10</div></div>
+										
+			<div class="wrap_img">
+					<img src="http://media.immobiliare.it/image/296879789/listing.jpg" alt="Foto - Trilocale via damiano chiesa 14, Pavia" id="38027214_thumb"/>
+			</div>
+		</div>
+			</div>
+	<div class="align_right_contenuto_box">		
+		
+		<div class="box_testo_riga_annuncio">
+							<div class="titolo_annuncio"> 
+					Appartamento in Vendita
+				</div>
+						<div class="luogo" >
+				<span style="font-style:italic;">
+									</span>
+			</div>
+			<div class="descrizione" id="descrizione_38027214">
+																	VIA DAMIANO CHIESA: nelle immediate vicinanze della stazione e del centro storico bellissa mansarda composta da: ingresso, soggiorno con cucina a vista, due camere, doppi servizi, terrazzo, balcone...
+			</div><div class="clear"></div>
+			<span class="desc_toggler" id="toggle_descrizione_38027214" onclick="toggle_remaining_desc('38027214')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_38027214"/></span>
+			
+						<div class="descMargin"></div>
+			<div class="clear"></div>
+		</div>
+							<div class="align_right">
+																	<div class="annuncio_new_tools_wrapper">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_38027214">
+							<div class="clear"></div>
+															<span class="title" style="margin-bottom:6px;">
+																											<a class="link_salva" id="salva_38027214" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('38027214',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_38027214">Salva Annuncio</strong>
+										</a>
+																									</span>
+								<div class="clear"></div>
+																															
+																						<div class="clear"></div>
+																<span class="title"><a href="http://www.immobiliare.it/38027214-Vendita-Trilocale-via-damiano-chiesa-14-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 3033R Appartamento in Vendita a Pavia"  onclick="show_contattaBox('38027214','25798', 'Studio Immobiliare Cantoni'); return false;"><span class="link_contatta"  id="link_contattaAd_38027214">Invia Email</span></a></span>
+								
+																							<div class="clear"></div>
+									<div class="datiTelefoniciRA">
+									  										<span id="telAgenzia1_38027214" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">038220341</span>
+										<div  id="telAgenzia1_MT_38027214" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(38027214,'#telAgenzia1',25798,'tel1',event)">Mostra Telefono</div>
+				  
+									  									</div>
+																
+						</div>
+											</div>
+					<div class="clear"></div>
+																		<div class="agenzia_logo in_annuncio">
+																									<img src="http://media.immobiliare.it/imagenoresize/7677565.jpg" alt="Studio Immobiliare Cantoni" />
+																							</div>
+															</div>
+						<div class="bottom">
+				<div class="align_left">
+											<span class="price">
+																									&euro; 300.000
+								    
+													</span>
+										
+					<span class="sep">&nbsp;|</span>&nbsp;120&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															3&nbsp;locali				</div>
+						<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+	 	</div>
+				<div class="clear"></div>
+	</div>
+    <div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+	aInfoAnnuncio = new Array();
+	aInfoAnnuncio['idAnnuncio'] = "38027214";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/38027214-Vendita-Trilocale-via-damiano-chiesa-14-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.1921";
+	aInfoAnnuncio['longitudine'] = "9.15128";
+	__cVarCategory = "Residenziale";
+	setListAnnuncioEvents(aInfoAnnuncio);
+	
+	
+	
+			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
+		oInfoAnnuncio = new Array();
+		 
+			oInfoAnnuncio['idAnnuncio'] = "38027214";
+							oInfoAnnuncio['evidenza'] = "";
+							oInfoAnnuncio['primopiano'] = "";
+				
+					oInfoAnnuncio['numImages'] = "10";
+				var sTipologia = "";
+		
+							sTipologia = "Appartamento";
+			
+		oInfoAnnuncio['tipologia'] = sTipologia;
+	
+					oInfoAnnuncio['comune'] = "Pavia";
+			
+					oInfoAnnuncio['zona'] = "";
+			
+					oInfoAnnuncio['contratto'] = "Vendita"; 
+							oInfoAnnuncio['superficie'] = "120&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "3";
+				 
+			oInfoAnnuncio['prezzo'] = "€ 300.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/38027214-Vendita-Trilocale-via-damiano-chiesa-14-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/296879789/slideshow.jpg" alt="Appartamento Vendita Pavia "/></a>';
+	
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/38027214-Vendita-Trilocale-via-damiano-chiesa-14-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
+		oInfoAnnuncio['nomecategoria'] = "Residenziale";
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/38027214-Vendita-Trilocale-via-damiano-chiesa-14-Pavia.html';
+		oInfoAnnuncio['image'] = sGalleryThumb;
+					if (typeof oListaInfoAnnuncio != "undefined")
+				oListaInfoAnnuncio.push(oInfoAnnuncio);
+				-->
+</script>				   	      	
+	 
+		       			<a id="#37078130" class="scrollDist"></a>
+<div id="wrapper_riga_37078130" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi riga_annuncio" id="37078130" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('37078130',event);">
+
+	
+		<div class="contenuto_box  ">
+	
+	<div class="annuncio_title_cont">
+						<div class="annuncio_title">
+							<strong><a href="http://www.immobiliare.it/37078130-Vendita-Trilocale-via-breventano-20-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_37078130">Trilocale via breventano 20, Pavia</a></strong>
+					</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(37078130)">	
+		<div class="thumb_box">
+							<div class="video_annuncio" style="margin-left:82px;"></div>
+															<div class="numfoto_annuncio"><div class="numImages">10</div></div>
+										
+			<div class="wrap_img">
+					<img src="http://media.immobiliare.it/image/288201413/listing.jpg" alt="Foto - Trilocale via breventano 20, Pavia" id="37078130_thumb"/>
+			</div>
+		</div>
+			</div>
+	<div class="align_right_contenuto_box">		
+		
+		<div class="box_testo_riga_annuncio">
+							<div class="titolo_annuncio"> 
+					Appartamento in Vendita
+				</div>
+						<div class="luogo" >
+				<span style="font-style:italic;">
+									</span>
+			</div>
+			<div class="descrizione" id="descrizione_37078130">
+																	Pavia Via Breventano: in gradevole e recente contesto condominiale, appartamento al terzo ed ultimo piano servito da ascensore composto da : ingresso, ampio soggiorno, cucina abitabile, due camere,...
+			</div><div class="clear"></div>
+			<span class="desc_toggler" id="toggle_descrizione_37078130" onclick="toggle_remaining_desc('37078130')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_37078130"/></span>
+			
+						<div class="descMargin"></div>
+			<div class="clear"></div>
+		</div>
+							<div class="align_right">
+																	<div class="annuncio_new_tools_wrapper">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_37078130">
+							<div class="clear"></div>
+															<span class="title" style="margin-bottom:6px;">
+																											<a class="link_salva" id="salva_37078130" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('37078130',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_37078130">Salva Annuncio</strong>
+										</a>
+																									</span>
+								<div class="clear"></div>
+																															
+																						<div class="clear"></div>
+																<span class="title"><a href="http://www.immobiliare.it/37078130-Vendita-Trilocale-via-breventano-20-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 1034P Appartamento in Vendita a Pavia"  onclick="show_contattaBox('37078130','25798', 'Studio Immobiliare Cantoni'); return false;"><span class="link_contatta"  id="link_contattaAd_37078130">Invia Email</span></a></span>
+								
+																							<div class="clear"></div>
+									<div class="datiTelefoniciRA">
+									  										<span id="telAgenzia1_37078130" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">038220341</span>
+										<div  id="telAgenzia1_MT_37078130" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(37078130,'#telAgenzia1',25798,'tel1',event)">Mostra Telefono</div>
+				  
+									  									</div>
+																
+						</div>
+											</div>
+					<div class="clear"></div>
+																		<div class="agenzia_logo in_annuncio">
+																									<img src="http://media.immobiliare.it/imagenoresize/7677565.jpg" alt="Studio Immobiliare Cantoni" />
+																							</div>
+															</div>
+						<div class="bottom">
+				<div class="align_left">
+											<span class="price">
+																									&euro; 438.000
+								    
+													</span>
+										
+					<span class="sep">&nbsp;|</span>&nbsp;130&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															3&nbsp;locali				</div>
+						<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+	 	</div>
+				<div class="clear"></div>
+	</div>
+    <div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+	aInfoAnnuncio = new Array();
+	aInfoAnnuncio['idAnnuncio'] = "37078130";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/37078130-Vendita-Trilocale-via-breventano-20-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.1928";
+	aInfoAnnuncio['longitudine'] = "9.16228";
+	__cVarCategory = "Residenziale";
+	setListAnnuncioEvents(aInfoAnnuncio);
+	
+	
+	
+			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
+		oInfoAnnuncio = new Array();
+		 
+			oInfoAnnuncio['idAnnuncio'] = "37078130";
+							oInfoAnnuncio['evidenza'] = "";
+							oInfoAnnuncio['primopiano'] = "";
+				
+					oInfoAnnuncio['numImages'] = "10";
+				var sTipologia = "";
+		
+							sTipologia = "Appartamento";
+			
+		oInfoAnnuncio['tipologia'] = sTipologia;
+	
+					oInfoAnnuncio['comune'] = "Pavia";
+			
+					oInfoAnnuncio['zona'] = "";
+			
+					oInfoAnnuncio['contratto'] = "Vendita"; 
+							oInfoAnnuncio['superficie'] = "130&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "3";
+				 
+			oInfoAnnuncio['prezzo'] = "€ 438.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/37078130-Vendita-Trilocale-via-breventano-20-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/288201413/slideshow.jpg" alt="Appartamento Vendita Pavia "/></a>';
+	
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/37078130-Vendita-Trilocale-via-breventano-20-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
+		oInfoAnnuncio['nomecategoria'] = "Residenziale";
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/37078130-Vendita-Trilocale-via-breventano-20-Pavia.html';
+		oInfoAnnuncio['image'] = sGalleryThumb;
+					if (typeof oListaInfoAnnuncio != "undefined")
+				oListaInfoAnnuncio.push(oInfoAnnuncio);
+				-->
+</script>				   	      	
+	 
+		       			<a id="#36936786" class="scrollDist"></a>
+<div id="wrapper_riga_36936786" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi riga_annuncio" id="36936786" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('36936786',event);">
+
+	
+		<div class="contenuto_box  ">
+	
+	<div class="annuncio_title_cont">
+						<div class="annuncio_title">
+							<strong><a href="http://www.immobiliare.it/36936786-Vendita-Bilocale-via-scopoli-6-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_36936786">Bilocale via scopoli 6, Pavia</a></strong>
+					</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(36936786)">	
+		<div class="thumb_box">
+							<div class="video_annuncio" style="margin-left:82px;"></div>
+															<div class="numfoto_annuncio"><div class="numImages">10</div></div>
+										
+			<div class="wrap_img">
+					<img src="http://media.immobiliare.it/image/286957082/listing.jpg" alt="Foto - Bilocale via scopoli 6, Pavia" id="36936786_thumb"/>
 			</div>
 		</div>
 			</div>
@@ -2279,32 +3708,32 @@ f_apri=function(idZona){
 											Centro città
 									</span>
 			</div>
-			<div class="descrizione" id="descrizione_36501174">
-																	Pavia in pieno centro storico in palazzina in fase di completa ristrutturazione in ogni sua parte proponiamo ampi tre locali con balconi info in sede
+			<div class="descrizione" id="descrizione_36936786">
+																	VIA SCOPOLI: centro storico nelle immediate vicinanza del municipio in contesto d' epoca bellissimo appartamento di recente ristrutturazione composta da. ingresso, soggiorno con cucina a vista,...
 			</div><div class="clear"></div>
-			<span class="desc_toggler" id="toggle_descrizione_36501174" onclick="toggle_remaining_desc('36501174')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_36501174"/></span>
+			<span class="desc_toggler" id="toggle_descrizione_36936786" onclick="toggle_remaining_desc('36936786')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_36936786"/></span>
 			
 						<div class="descMargin"></div>
 			<div class="clear"></div>
 		</div>
 							<div class="align_right">
 																	<div class="annuncio_new_tools_wrapper">
-													<div class="annuncio_new_tools" id="annuncio_new_tools_36501174">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_36936786">
 							<div class="clear"></div>
 															<span class="title" style="margin-bottom:6px;">
-																											<a class="link_salva" id="salva_36501174" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('36501174',false);return false;" style="color:#6F6F6F;padding-left:15px;">
-											<strong id="link_salvaAd_36501174">Salva Annuncio</strong>
+																											<a class="link_salva" id="salva_36936786" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('36936786',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_36936786">Salva Annuncio</strong>
 										</a>
 																									</span>
 								<div class="clear"></div>
 																															
 																						<div class="clear"></div>
-																<span class="title"><a href="http://www.immobiliare.it/36501174-Vendita-Trilocale-90-mq-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 36501174 Appartamento in Vendita a Pavia"  onclick="show_contattaBox('36501174','34362', 'immobiliare campari'); return false;"><span class="link_contatta"  id="link_contattaAd_36501174">Invia Email</span></a></span>
+																<span class="title"><a href="http://www.immobiliare.it/36936786-Vendita-Bilocale-via-scopoli-6-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 1067R Appartamento in Vendita a Pavia"  onclick="show_contattaBox('36936786','25798', 'Studio Immobiliare Cantoni'); return false;"><span class="link_contatta"  id="link_contattaAd_36936786">Invia Email</span></a></span>
 								
 																							<div class="clear"></div>
 									<div class="datiTelefoniciRA">
-									  										<span id="telAgenzia1_36501174" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">3478930891</span>
-										<div  id="telAgenzia1_MT_36501174" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(36501174,'#telAgenzia1',34362,'tel1',event)">Mostra Telefono</div>
+									  										<span id="telAgenzia1_36936786" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">038220341</span>
+										<div  id="telAgenzia1_MT_36936786" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(36936786,'#telAgenzia1',25798,'tel1',event)">Mostra Telefono</div>
 				  
 									  									</div>
 																
@@ -2312,16 +3741,152 @@ f_apri=function(idZona){
 											</div>
 					<div class="clear"></div>
 																		<div class="agenzia_logo in_annuncio">
-																									<img src="http://media.immobiliare.it/imagenoresize/231766753.jpg" alt="immobiliare campari" />
+																									<img src="http://media.immobiliare.it/imagenoresize/7677565.jpg" alt="Studio Immobiliare Cantoni" />
 																							</div>
 															</div>
 						<div class="bottom">
 				<div class="align_left">
 											<span class="price">
-															Trattative riservate
+																									&euro; 145.000
+								    
 													</span>
 										
-					<span class="sep">&nbsp;|</span>&nbsp;90&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+					<span class="sep">&nbsp;|</span>&nbsp;55&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
+															2&nbsp;locali				</div>
+						<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+	 	</div>
+				<div class="clear"></div>
+	</div>
+    <div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+	aInfoAnnuncio = new Array();
+	aInfoAnnuncio['idAnnuncio'] = "36936786";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/36936786-Vendita-Bilocale-via-scopoli-6-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.1847";
+	aInfoAnnuncio['longitudine'] = "9.16095";
+	__cVarCategory = "Residenziale";
+	setListAnnuncioEvents(aInfoAnnuncio);
+	
+	
+	
+			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
+		oInfoAnnuncio = new Array();
+		 
+			oInfoAnnuncio['idAnnuncio'] = "36936786";
+							oInfoAnnuncio['evidenza'] = "";
+							oInfoAnnuncio['primopiano'] = "";
+				
+					oInfoAnnuncio['numImages'] = "10";
+				var sTipologia = "";
+		
+							sTipologia = "Appartamento";
+			
+		oInfoAnnuncio['tipologia'] = sTipologia;
+	
+					oInfoAnnuncio['comune'] = "Pavia";
+			
+					oInfoAnnuncio['zona'] = "";
+			
+					oInfoAnnuncio['contratto'] = "Vendita"; 
+							oInfoAnnuncio['superficie'] = "55&nbsp;m&sup2;";
+							oInfoAnnuncio['locali'] = "2";
+				 
+			oInfoAnnuncio['prezzo'] = "€ 145.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/36936786-Vendita-Bilocale-via-scopoli-6-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/286957082/slideshow.jpg" alt="Appartamento Vendita Pavia "/></a>';
+	
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/36936786-Vendita-Bilocale-via-scopoli-6-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
+		oInfoAnnuncio['nomecategoria'] = "Residenziale";
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/36936786-Vendita-Bilocale-via-scopoli-6-Pavia.html';
+		oInfoAnnuncio['image'] = sGalleryThumb;
+					if (typeof oListaInfoAnnuncio != "undefined")
+				oListaInfoAnnuncio.push(oInfoAnnuncio);
+				-->
+</script>				   	      	
+	 
+		       			<a id="#34933542" class="scrollDist"></a>
+<div id="wrapper_riga_34933542" class="wrapper_riga_annuncio">
+<div class="box_centrali_bianchi riga_annuncio" id="34933542" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('34933542',event);">
+
+	
+		<div class="contenuto_box  ">
+	
+	<div class="annuncio_title_cont">
+						<div class="annuncio_title">
+							<strong><a href="http://www.immobiliare.it/34933542-Vendita-Trilocale-via-del-teatro-444-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_34933542">Trilocale via del teatro 444, Pavia</a></strong>
+					</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(34933542)">	
+		<div class="thumb_box">
+							<div class="video_annuncio" style="margin-left:82px;"></div>
+															<div class="numfoto_annuncio"><div class="numImages">10</div></div>
+										
+			<div class="wrap_img">
+					<img src="http://media.immobiliare.it/image/297819381/listing.jpg" alt="Foto - Trilocale via del teatro 444, Pavia" id="34933542_thumb"/>
+			</div>
+		</div>
+			</div>
+	<div class="align_right_contenuto_box">		
+		
+		<div class="box_testo_riga_annuncio">
+							<div class="titolo_annuncio"> 
+					Appartamento in Vendita
+				</div>
+						<div class="luogo" >
+				<span style="font-style:italic;">
+									</span>
+			</div>
+			<div class="descrizione" id="descrizione_34933542">
+																	Nel cuore del centro storico in bellissima palazzina d' epoca completamente ristrutturata proponiamo bellissimo appartamento composto da: ingresso, disimpegno, cucina abitabile, soggiorno con...
+			</div><div class="clear"></div>
+			<span class="desc_toggler" id="toggle_descrizione_34933542" onclick="toggle_remaining_desc('34933542')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_34933542"/></span>
+			
+						<div class="descMargin"></div>
+			<div class="clear"></div>
+		</div>
+							<div class="align_right">
+																	<div class="annuncio_new_tools_wrapper">
+													<div class="annuncio_new_tools" id="annuncio_new_tools_34933542">
+							<div class="clear"></div>
+															<span class="title" style="margin-bottom:6px;">
+																											<a class="link_salva" id="salva_34933542" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('34933542',false);return false;" style="color:#6F6F6F;padding-left:15px;">
+											<strong id="link_salvaAd_34933542">Salva Annuncio</strong>
+										</a>
+																									</span>
+								<div class="clear"></div>
+																															
+																						<div class="clear"></div>
+																<span class="title"><a href="http://www.immobiliare.it/34933542-Vendita-Trilocale-via-del-teatro-444-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 1055R Appartamento in Vendita a Pavia"  onclick="show_contattaBox('34933542','25798', 'Studio Immobiliare Cantoni'); return false;"><span class="link_contatta"  id="link_contattaAd_34933542">Invia Email</span></a></span>
+								
+																							<div class="clear"></div>
+									<div class="datiTelefoniciRA">
+									  										<span id="telAgenzia1_34933542" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">038220341</span>
+										<div  id="telAgenzia1_MT_34933542" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(34933542,'#telAgenzia1',25798,'tel1',event)">Mostra Telefono</div>
+				  
+									  									</div>
+																
+						</div>
+											</div>
+					<div class="clear"></div>
+																		<div class="agenzia_logo in_annuncio">
+																									<img src="http://media.immobiliare.it/imagenoresize/7677565.jpg" alt="Studio Immobiliare Cantoni" />
+																							</div>
+															</div>
+						<div class="bottom">
+				<div class="align_left">
+											<span class="price">
+																									&euro; 410.000
+								    
+													</span>
+										
+					<span class="sep">&nbsp;|</span>&nbsp;95&nbsp;m&sup2; <span class="sep">&nbsp;|</span>					
 															3&nbsp;locali				</div>
 						<div class="clear"></div>
 			</div>
@@ -2334,11 +3899,11 @@ f_apri=function(idZona){
 </div>
 <script type="text/javascript">
 	aInfoAnnuncio = new Array();
-	aInfoAnnuncio['idAnnuncio'] = "36501174";
-	aInfoAnnuncio['url'] = "http://www.immobiliare.it/36501174-Vendita-Trilocale-90-mq-Pavia.html";
-	aInfoAnnuncio['flagIndirizzo'] = "0";
-	aInfoAnnuncio['latitudine'] = "0";
-	aInfoAnnuncio['longitudine'] = "0";
+	aInfoAnnuncio['idAnnuncio'] = "34933542";
+	aInfoAnnuncio['url'] = "http://www.immobiliare.it/34933542-Vendita-Trilocale-via-del-teatro-444-Pavia.html";
+	aInfoAnnuncio['flagIndirizzo'] = "1";
+	aInfoAnnuncio['latitudine'] = "45.1884";
+	aInfoAnnuncio['longitudine'] = "9.1563";
 	__cVarCategory = "Residenziale";
 	setListAnnuncioEvents(aInfoAnnuncio);
 	
@@ -2347,11 +3912,11 @@ f_apri=function(idZona){
 			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
 		oInfoAnnuncio = new Array();
 		 
-			oInfoAnnuncio['idAnnuncio'] = "36501174";
+			oInfoAnnuncio['idAnnuncio'] = "34933542";
 							oInfoAnnuncio['evidenza'] = "";
 							oInfoAnnuncio['primopiano'] = "";
 				
-					oInfoAnnuncio['numImages'] = "";
+					oInfoAnnuncio['numImages'] = "10";
 				var sTipologia = "";
 		
 							sTipologia = "Appartamento";
@@ -2363,276 +3928,16 @@ f_apri=function(idZona){
 					oInfoAnnuncio['zona'] = "";
 			
 					oInfoAnnuncio['contratto'] = "Vendita"; 
-							oInfoAnnuncio['superficie'] = "90&nbsp;m&sup2;";
+							oInfoAnnuncio['superficie'] = "95&nbsp;m&sup2;";
 							oInfoAnnuncio['locali'] = "3";
-							oInfoAnnuncio['prezzo'] = "Trattative riservate";
-				sGalleryThumb = '<a href="http://www.immobiliare.it/36501174-Vendita-Trilocale-90-mq-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://www.immobiliare.it/img2/information.gif" alt="Appartamento Vendita Pavia "/></a>';
+				 
+			oInfoAnnuncio['prezzo'] = "€ 410.000";
+				sGalleryThumb = '<a href="http://www.immobiliare.it/34933542-Vendita-Trilocale-via-del-teatro-444-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://media.immobiliare.it/image/297819381/slideshow.jpg" alt="Appartamento Vendita Pavia "/></a>';
 	
-		sLinkDettaglio = '<a href="http://www.immobiliare.it/36501174-Vendita-Trilocale-90-mq-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
+		sLinkDettaglio = '<a href="http://www.immobiliare.it/34933542-Vendita-Trilocale-via-del-teatro-444-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
 		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
 		oInfoAnnuncio['nomecategoria'] = "Residenziale";
-		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/36501174-Vendita-Trilocale-90-mq-Pavia.html';
-		oInfoAnnuncio['image'] = sGalleryThumb;
-					if (typeof oListaInfoAnnuncio != "undefined")
-				oListaInfoAnnuncio.push(oInfoAnnuncio);
-				-->
-</script>				   	      	
-	 
-		       			<a id="#37372050" class="scrollDist"></a>
-<div id="wrapper_riga_37372050" class="wrapper_riga_annuncio">
-<div class="box_centrali_bianchi riga_annuncio" id="37372050" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('37372050',event);">
-
-	
-		<div class="contenuto_box  fotoPlus">
-	
-	<div class="annuncio_title_cont">
-						<div class="annuncio_title">
-							<strong><a href="http://www.immobiliare.it/37372050-Vendita-Appartamento-ultimo-piano-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_37372050">Appartamento ultimo piano, Pavia</a></strong>
-					</div>
-		<div class="clear"></div>
-	</div>
-	
-	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(37372050)">	
-		<div class="thumb_box">
-									
-			<div class="wrap_img">
-					<img src="http://www.immobiliare.it/img2/information.gif" alt="Foto - Appartamento ultimo piano, Pavia" id="37372050_thumb"/>
-			</div>
-		</div>
-			</div>
-	<div class="align_right_contenuto_box">		
-		
-		<div class="box_testo_riga_annuncio">
-							<div class="titolo_annuncio"> 
-					Appartamento in Vendita
-				</div>
-						<div class="luogo" >
-				<span style="font-style:italic;">
-									</span>
-			</div>
-			<div class="descrizione" id="descrizione_37372050">
-																	Pavia viale cesare battisti proponiamo immobile posto al ultimo piano di 230 mq in fase di completa ristrutturazione possibilità di frazionamento e di personalizzazione
-			</div><div class="clear"></div>
-			<span class="desc_toggler" id="toggle_descrizione_37372050" onclick="toggle_remaining_desc('37372050')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_37372050"/></span>
-			
-						<div class="descMargin"></div>
-			<div class="clear"></div>
-		</div>
-							<div class="align_right">
-																	<div class="annuncio_new_tools_wrapper">
-													<div class="annuncio_new_tools" id="annuncio_new_tools_37372050">
-							<div class="clear"></div>
-															<span class="title" style="margin-bottom:6px;">
-																											<a class="link_salva" id="salva_37372050" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('37372050',false);return false;" style="color:#6F6F6F;padding-left:15px;">
-											<strong id="link_salvaAd_37372050">Salva Annuncio</strong>
-										</a>
-																									</span>
-								<div class="clear"></div>
-																															
-																						<div class="clear"></div>
-																<span class="title"><a href="http://www.immobiliare.it/37372050-Vendita-Appartamento-ultimo-piano-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 37372050 Appartamento in Vendita a Pavia"  onclick="show_contattaBox('37372050','34362', 'immobiliare campari'); return false;"><span class="link_contatta"  id="link_contattaAd_37372050">Invia Email</span></a></span>
-								
-																							<div class="clear"></div>
-									<div class="datiTelefoniciRA">
-									  										<span id="telAgenzia1_37372050" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">3478930891</span>
-										<div  id="telAgenzia1_MT_37372050" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(37372050,'#telAgenzia1',34362,'tel1',event)">Mostra Telefono</div>
-				  
-									  									</div>
-																
-						</div>
-											</div>
-					<div class="clear"></div>
-																		<div class="agenzia_logo in_annuncio">
-																									<img src="http://media.immobiliare.it/imagenoresize/231766753.jpg" alt="immobiliare campari" />
-																							</div>
-															</div>
-						<div class="bottom">
-				<div class="align_left">
-											<span class="price">
-															Trattative riservate
-													</span>
-										
-					<span class="sep">&nbsp;|</span>&nbsp;230&nbsp;m&sup2; 					
-									</div>
-						<div class="clear"></div>
-			</div>
-			<div class="clear"></div>
-	 	</div>
-				<div class="clear"></div>
-	</div>
-    <div class="clear"></div>
-</div>
-</div>
-<script type="text/javascript">
-	aInfoAnnuncio = new Array();
-	aInfoAnnuncio['idAnnuncio'] = "37372050";
-	aInfoAnnuncio['url'] = "http://www.immobiliare.it/37372050-Vendita-Appartamento-ultimo-piano-Pavia.html";
-	aInfoAnnuncio['flagIndirizzo'] = "0";
-	aInfoAnnuncio['latitudine'] = "45.1847";
-	aInfoAnnuncio['longitudine'] = "9.15821";
-	__cVarCategory = "Residenziale";
-	setListAnnuncioEvents(aInfoAnnuncio);
-	
-	
-	
-			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
-		oInfoAnnuncio = new Array();
-		 
-			oInfoAnnuncio['idAnnuncio'] = "37372050";
-							oInfoAnnuncio['evidenza'] = "";
-							oInfoAnnuncio['primopiano'] = "";
-				
-					oInfoAnnuncio['numImages'] = "";
-				var sTipologia = "";
-		
-							sTipologia = "Appartamento";
-			
-		oInfoAnnuncio['tipologia'] = sTipologia;
-	
-					oInfoAnnuncio['comune'] = "Pavia";
-			
-					oInfoAnnuncio['zona'] = "";
-			
-					oInfoAnnuncio['contratto'] = "Vendita"; 
-							oInfoAnnuncio['superficie'] = "230&nbsp;m&sup2;";
-							oInfoAnnuncio['locali'] = "";
-							oInfoAnnuncio['prezzo'] = "Trattative riservate";
-				sGalleryThumb = '<a href="http://www.immobiliare.it/37372050-Vendita-Appartamento-ultimo-piano-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://www.immobiliare.it/img2/information.gif" alt="Appartamento Vendita Pavia "/></a>';
-	
-		sLinkDettaglio = '<a href="http://www.immobiliare.it/37372050-Vendita-Appartamento-ultimo-piano-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
-		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
-		oInfoAnnuncio['nomecategoria'] = "Residenziale";
-		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/37372050-Vendita-Appartamento-ultimo-piano-Pavia.html';
-		oInfoAnnuncio['image'] = sGalleryThumb;
-					if (typeof oListaInfoAnnuncio != "undefined")
-				oListaInfoAnnuncio.push(oInfoAnnuncio);
-				-->
-</script>				   	      	
-	 
-		       			<a id="#36501170" class="scrollDist"></a>
-<div id="wrapper_riga_36501170" class="wrapper_riga_annuncio">
-<div class="box_centrali_bianchi riga_annuncio" id="36501170" onclick="trackClickEvent('dettaglio_annuncio_lista','Residenziale');clickAnnuncio('36501170',event);">
-
-	
-		<div class="contenuto_box  ">
-	
-	<div class="annuncio_title_cont">
-						<div class="annuncio_title">
-							<strong><a href="http://www.immobiliare.it/36501170-Vendita-Appartamento-90-mq-Pavia.html" onclick="getScrollPosition('annunci_residenziali');" id="link_ad_36501170">Appartamento 90 mq, Pavia</a></strong>
-					</div>
-		<div class="clear"></div>
-	</div>
-	
-	<div class="annuncio_thumbs" onmouseout="hidePhotoplus(36501170)">	
-		<div class="thumb_box">
-									
-			<div class="wrap_img">
-					<img src="http://www.immobiliare.it/img2/information.gif" alt="Foto - Appartamento 90 mq, Pavia" id="36501170_thumb"/>
-			</div>
-		</div>
-			</div>
-	<div class="align_right_contenuto_box">		
-		
-		<div class="box_testo_riga_annuncio">
-							<div class="titolo_annuncio"> 
-					Appartamento in Vendita
-				</div>
-						<div class="luogo" >
-				<span style="font-style:italic;">
-									</span>
-			</div>
-			<div class="descrizione" id="descrizione_36501170">
-																	blablabla
-			</div><div class="clear"></div>
-			<span class="desc_toggler" id="toggle_descrizione_36501170" onclick="toggle_remaining_desc('36501170')" style="display:none;cursor:pointer"><img src="/img2/icone/plus.png" alt="[+]" title="leggi di più" id="toggle_descrizione_img_36501170"/></span>
-			
-						<div class="descMargin"></div>
-			<div class="clear"></div>
-		</div>
-							<div class="align_right">
-																	<div class="annuncio_new_tools_wrapper">
-													<div class="annuncio_new_tools" id="annuncio_new_tools_36501170">
-							<div class="clear"></div>
-															<span class="title" style="margin-bottom:6px;">
-																											<a class="link_salva" id="salva_36501170" href="#" title="Memorizza questo annuncio tra i tuoi preferiti per ritrovarlo pi&ugrave; velocemente" onclick="bookmarkAnnuncio('36501170',false);return false;" style="color:#6F6F6F;padding-left:15px;">
-											<strong id="link_salvaAd_36501170">Salva Annuncio</strong>
-										</a>
-																									</span>
-								<div class="clear"></div>
-																															
-																						<div class="clear"></div>
-																<span class="title"><a href="http://www.immobiliare.it/36501170-Vendita-Appartamento-90-mq-Pavia.html?msg=Vorrei maggiori informazioni sull\'immobile 36501170 Appartamento in Vendita a Pavia"  onclick="show_contattaBox('36501170','34362', 'immobiliare campari'); return false;"><span class="link_contatta"  id="link_contattaAd_36501170">Invia Email</span></a></span>
-								
-																							<div class="clear"></div>
-									<div class="datiTelefoniciRA">
-									  										<span id="telAgenzia1_36501170" class="title tel fisso telAgenzia1 fissoRA telRA" style="display: none">3478930891</span>
-										<div  id="telAgenzia1_MT_36501170" class="tel fisso telAgenzia1_MT" onclick="im_imgTracking.openContactAgency(36501170,'#telAgenzia1',34362,'tel1',event)">Mostra Telefono</div>
-				  
-									  									</div>
-																
-						</div>
-											</div>
-					<div class="clear"></div>
-																		<div class="agenzia_logo in_annuncio">
-																									<img src="http://media.immobiliare.it/imagenoresize/231766753.jpg" alt="immobiliare campari" />
-																							</div>
-															</div>
-						<div class="bottom">
-				<div class="align_left">
-											<span class="price">
-															Trattative riservate
-													</span>
-										
-					<span class="sep">&nbsp;|</span>&nbsp;90&nbsp;m&sup2; 					
-									</div>
-						<div class="clear"></div>
-			</div>
-			<div class="clear"></div>
-	 	</div>
-				<div class="clear"></div>
-	</div>
-    <div class="clear"></div>
-</div>
-</div>
-<script type="text/javascript">
-	aInfoAnnuncio = new Array();
-	aInfoAnnuncio['idAnnuncio'] = "36501170";
-	aInfoAnnuncio['url'] = "http://www.immobiliare.it/36501170-Vendita-Appartamento-90-mq-Pavia.html";
-	aInfoAnnuncio['flagIndirizzo'] = "0";
-	aInfoAnnuncio['latitudine'] = "0";
-	aInfoAnnuncio['longitudine'] = "0";
-	__cVarCategory = "Residenziale";
-	setListAnnuncioEvents(aInfoAnnuncio);
-	
-	
-	
-			//creazione array per generare le view tabella e fotogallery nella lista risultati ricerca
-		oInfoAnnuncio = new Array();
-					oInfoAnnuncio['idAnnuncio'] = "";
-							oInfoAnnuncio['evidenza'] = "";
-							oInfoAnnuncio['primopiano'] = "";
-				
-					oInfoAnnuncio['numImages'] = "";
-				var sTipologia = "";
-		
-							sTipologia = "Appartamento";
-			
-		oInfoAnnuncio['tipologia'] = sTipologia;
-	
-					oInfoAnnuncio['comune'] = "Pavia";
-			
-					oInfoAnnuncio['zona'] = "";
-			
-					oInfoAnnuncio['contratto'] = "Vendita"; 
-							oInfoAnnuncio['superficie'] = "90&nbsp;m&sup2;";
-							oInfoAnnuncio['locali'] = "";
-							oInfoAnnuncio['prezzo'] = "Trattative riservate";
-				sGalleryThumb = '<a href="http://www.immobiliare.it/36501170-Vendita-Appartamento-90-mq-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_fotogallery\',\'Residenziale\');getScrollPosition(\'annunci_residenziali\')" class="link_thumb"><img src="http://www.immobiliare.it/img2/information.gif" alt="Appartamento Vendita Pavia "/></a>';
-	
-		sLinkDettaglio = '<a href="http://www.immobiliare.it/36501170-Vendita-Appartamento-90-mq-Pavia.html" onclick="trackClickEvent(\'dettaglio_annuncio_tabella\',\'Residenziale\');"><div class="link_dettagli" ></div></a>';
-		oInfoAnnuncio['link_dettaglio'] = sLinkDettaglio;
-		oInfoAnnuncio['nomecategoria'] = "Residenziale";
-		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/36501170-Vendita-Appartamento-90-mq-Pavia.html';
+		oInfoAnnuncio['url'] = 'http://www.immobiliare.it/34933542-Vendita-Trilocale-via-del-teatro-444-Pavia.html';
 		oInfoAnnuncio['image'] = sGalleryThumb;
 					if (typeof oListaInfoAnnuncio != "undefined")
 				oListaInfoAnnuncio.push(oInfoAnnuncio);
@@ -2641,13 +3946,13 @@ f_apri=function(idZona){
 	 
 </div>
  
-<script type="text/javascript" charset="utf-8" src="/includes/criteo_ld.js?v=2012122102"></script>  
+<script type="text/javascript" charset="utf-8" src="/includes/criteo_ld.js?v=2013010901"></script>  
 <script type="text/javascript"> 
 <!-- 
 document.write('<div id=\"cto_se_7709961_ac\" style=\"display:none\">');
 document.write('<div class=\"ctoWidgetServer\">http:\/\/immobiliareit.widget.criteo.com\/pgi\/<\/div>'); 
 document.write('<div class=\"ctoDataType\">sendEvent<\/div>'); 
-document.write('<div class=\"ctoParams\">wi=7709961&pt1=3&i1=36608662&i2=31041130&i3=37366250<\/div>'); 
+document.write('<div class=\"ctoParams\">wi=7709961&pt1=3&i1=34875494&i2=29125730&i3=25986326<\/div>'); 
 document.write('<\/div>'); 
 --> 
 </script>  
@@ -2661,7 +3966,7 @@ document.write('<\/div>');
 	</div>
 </div>
 
-<script type="text/javascript" src="/vetrina/vetrina_ricerca.js?v=2012122102"></script>
+<script type="text/javascript" src="/vetrina/vetrina_ricerca.js?v=2013010901"></script>
 <script type="text/javascript">
 // <!--
 	
@@ -2730,28 +4035,28 @@ document.write('<\/div>');
 					<div id="footer_pag" class="align_center" >
 			<div class="box_paginazione">
 			<div id="pageCount">
-				Pag. <strong>61</strong> di <strong>61</strong>
+				Pag. <strong>2</strong> di <strong>62</strong>
 			</div>
 														
 						<div class="center" id="paginazione">
-													<a class="button no-decoration jump_prev_act" title="10 pagine precedenti" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=51" onclick="this.blur();"></a>
+													<a class="button no-decoration jump_prev" title="10 pagine precedenti" href="#" onclick="this.blur();" style="cursor:default;return false;"></a>
 							
-														<a onclick="this.blur();" class="button no-decoration prev_page_act" title="Pagina precedente" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=60"></a>
+														<a onclick="this.blur();" class="button no-decoration prev_page_act" title="Pagina precedente" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=1"></a>
 								<div class="pages">
 				
-																		<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=52" onclick="this.blur();">52</a>
-																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=53" onclick="this.blur();">53</a>
-																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=54" onclick="this.blur();">54</a>
-																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=55" onclick="this.blur();">55</a>
-																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=56" onclick="this.blur();">56</a>
-																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=57" onclick="this.blur();">57</a>
-																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=58" onclick="this.blur();">58</a>
-																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=59" onclick="this.blur();">59</a>
-																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=60" onclick="this.blur();">60</a>
-																								<a class="no-decoration page_num_act" href="#" onclick="this.blur();return false;">61</a>
+																		<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=1" onclick="this.blur();">1</a>
+																								<a class="no-decoration page_num_act" href="#" onclick="this.blur();return false;">2</a>
+																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=3" onclick="this.blur();">3</a>
+																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=4" onclick="this.blur();">4</a>
+																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=5" onclick="this.blur();">5</a>
+																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=6" onclick="this.blur();">6</a>
+																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=7" onclick="this.blur();">7</a>
+																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=8" onclick="this.blur();">8</a>
+																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=9" onclick="this.blur();">9</a>
+																								<a class="no-decoration page_num" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=10" onclick="this.blur();">10</a>
 															</div>
-									<a class="no-decoration button next_page" title="10 pagine precedenti" href="#" onclick="this.blur();return false;" style="cursor:default"></a>
-													<a class="no-decoration button jump_next" title="10 pagine precedenti" href="#" onclick="this.blur();return false;" style="cursor:default"></a>
+														<a class="no-decoration button next_page_act" onclick="this.blur();" title="Pagina successiva" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=3"></a>
+													<a class="no-decoration button jump_next_act" onclick="this.blur();" title="10 pagine successive" href="/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=12"></a>
 								<div class="clear"></div>
 			</div>
 		</div>
@@ -2794,7 +4099,7 @@ document.write('<\/div>');
 
 
 <script type="text/javascript">
-bakekaHtml = "<div onclick=\"window.open('htt'+'p://ads'+'.imm'+'obi'+'lia'+'re.it/www'+'/del'+'ive'+'ry/ck.php'+'?max'+'par'+'ams'+'=2__ban'+'ner'+'id=116'+'9__zon'+'eid'+'=98__cb=672'+'7__des'+'t=htt'+'p://pav'+'ia.bak'+'eca'+'.it?utm'+'_sou'+'rce'+'=imm'+'obi'+'lia'+'re.it&utm'+'_med'+'ium'+'=ban'+'ner'+'&utm'+'_cam'+'pai'+'gn=imm'+'pav'+'ia');\" id=\"divMonster\" ><\/div>";
+bakekaHtml = "<div onclick=\"window.open('htt'+'p://ads'+'.imm'+'obi'+'lia'+'re.it/www'+'/del'+'ive'+'ry/ck.php'+'?max'+'par'+'ams'+'=2__ban'+'ner'+'id=116'+'9__zon'+'eid'+'=98__cb=837'+'4__des'+'t=htt'+'p://pav'+'ia.bak'+'eca'+'.it?utm'+'_sou'+'rce'+'=imm'+'obi'+'lia'+'re.it&utm'+'_med'+'ium'+'=ban'+'ner'+'&utm'+'_cam'+'pai'+'gn=imm'+'pav'+'ia');\" id=\"divMonster\" ><\/div>";
 var _side = "";
 
 try{
@@ -2845,7 +4150,42 @@ try{
 </script>
 
 
-	 
+	<div id="results_adv" style="width:160px;">
+	<div id="google">
+	
+		<script type="text/javascript">
+					_max_num_ads = '8';
+				_kw = 'Pavia, vendita case, annunci immobiliari, acquistare casa, immobiliare.it.';
+		
+		try{
+		
+		_ifWidePage(function(){
+			document.write(""+
+			"<script>"+
+				"my_google_position = 'RIGHT';"+
+				"google_ad_client = 'pub-5078257821054734';"+
+				"google_ad_output = 'js';"+
+				"google_encoding = 'utf8';"+
+				"google_language = 'it';"+
+				"google_max_num_ads = '"+_max_num_ads+"';"+
+				"google_kw = '"+_kw+"';"+
+				"google_ad_channel = '9442657687';"+
+				"google_feedback = 'on';"+
+				
+				"google_kw_type = 'broad';"+
+				"if (typeof my_google_adsdisplayed != \"undefined\") "+
+					"google_skip = my_google_adsdisplayed;"+
+			"<\/script><script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\"><\/script>");
+		});
+		
+			}catch(e){
+			
+			}
+		
+		</script>		
+	</div>
+</div>
+ 
 			</div> 
 		</div>
 		<div class="clear"></div>
@@ -2940,13 +4280,13 @@ try{
 			<div class="img_condivisione_left">
 				<script type="text/javascript">
 /* <![CDATA[ */
-	_dwel('<a onclick="_el(\'htt'+'p://www'+'.fac'+'ebo'+'ok.com'+'/sha'+'re.php'+'?u=htt'+'p%3A%2F%2Fw'+'ww.imm'+'obi'+'lia'+'re.it%2FP'+'avi'+'a%2Fv'+'end'+'ita'+'_cas'+'e-Pav'+'ia.htm'+'l%3Fc'+'rit'+'eri'+'o%3Dr'+'ile'+'van'+'za%26p'+'ag%3D6'+'1&t=Cas'+'e+in+ven'+'dit'+'a+Pav'+'ia%2C+cer'+'ca+cas'+'a+in+ven'+'dit'+'a+a+Pav'+'ia%2C+Pag'+'.+61+-+Imm'+'obi'+'lia'+'re.it\',0)" rel="nofollow"><div><img src="http://www.immobiliare.it/img2/icone/f-condividi.png" /></div></a>');
+	_dwel('<a onclick="_el(\'htt'+'p://www'+'.fac'+'ebo'+'ok.com'+'/sha'+'re.php'+'?u=htt'+'p%3A%2F%2Fw'+'ww.imm'+'obi'+'lia'+'re.it%2FP'+'avi'+'a%2Fv'+'end'+'ita'+'_cas'+'e-Pav'+'ia.htm'+'l%3Fc'+'rit'+'eri'+'o%3Dr'+'ile'+'van'+'za%26p'+'ag%3D2'+'&t=Ven'+'dit'+'a+cas'+'e+Pav'+'ia%2C+ven'+'des'+'i+cas'+'a+a+Pav'+'ia+-+Imm'+'obi'+'lia'+'re.it\',0)" rel="nofollow"><div><img src="http://www.immobiliare.it/img2/icone/f-condividi.png" /></div></a>');
 /* ]]> */
 </script>
 			</div>
             <div class="img_condivisione_left">
 				<div id="custom-tweet-button">
-				  <a onclick='popup("https://twitter.com/intent/tweet?original_referer=http%253A%252F%252Fwww.immobiliare.it%252FPavia%252Fvendita_case-Pavia.html%253Fcriterio%253Drilevanza%2526pag%253D61&source=tweetbutton&text=Ho%20cercato%20Immobili%20in%20Vendita%20a%20Pavia%20su%20%23Immobiliare.it%20&url=http%3A%2F%2Fwww.immobiliare.it%2FPavia%2Fvendita_case-Pavia.html%3Fcriterio%3Drilevanza%26pag%3D61&via=immobiliare_it","MyImmobiliare","640","480");'  target="_blank">
+				  <a onclick='popup("https://twitter.com/intent/tweet?original_referer=http%253A%252F%252Fwww.immobiliare.it%252FPavia%252Fvendita_case-Pavia.html%253Fcriterio%253Drilevanza%2526pag%253D2&source=tweetbutton&text=Ho%20cercato%20Immobili%20in%20Vendita%20a%20Pavia%20su%20%23Immobiliare.it%20&url=http%3A%2F%2Fwww.immobiliare.it%2FPavia%2Fvendita_case-Pavia.html%3Fcriterio%3Drilevanza%26pag%3D2&via=immobiliare_it","MyImmobiliare","640","480");'  target="_blank">
 					<img src="http://www.immobiliare.it/img2/icone/t-condividi.png"/>
 				  </a>
 				</div>
@@ -3012,7 +4352,7 @@ try{
 	
 	
 	checkIfSaveAd(false);
-	checkIfSaveSearch(false,'0f8f412cd5e28ee88cae436e11082c3a');
+	checkIfSaveSearch(false,'96392523a84906b59de9e17e36efd01a');
             //Funzione per la gestione del posizionemento box bookmarks
         var sezioneBookmarks = 'ricerca';
         window.onresize=adattaBookmarks;
@@ -3137,5 +4477,5 @@ try{
 		_gaq.push(['_trackPageview']);
 		leoHeader(); 
 	</script>
-<!--  P:0f8f412cd5e28ee88cae436e11082c3a D:ed060fac5d923a6e3a593a48b7cb1e2a --></body>
+<!--  P:96392523a84906b59de9e17e36efd01a D:a818fa71fa4411e31d294ae4ea8b0d3f --></body>
 </html>
