@@ -41,10 +41,13 @@
                     position: location,
                     map: map
                 });
+                var infoWindow = new google.maps.InfoWindow({
+                    content: title
+                });
                 marker.setTitle(title);
                 google.maps.event.addListener(marker, 'click', function() {
-                    console.log("Latitude: " + marker.getPosition() + ", Title: " + marker.getTitle());
-                    map.setCenter(marker.getPosition());
+                    infoWindow.open(map, marker);
+                    //map.setCenter(marker.getPosition());
                 });
             }
         </script>
