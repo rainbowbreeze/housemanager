@@ -43,6 +43,14 @@ public class MapServlet extends HttpServlet {
         req.setAttribute("areAgentsRunning", bag.isRunningAgentsEmpty());
         req.setAttribute("totalAnnounces", announces.size());
         req.setAttribute("announces", jsonAnnounces);
+        req.setAttribute("priceLower", 0);
+        req.setAttribute("priceUpper", 600000);
+        req.setAttribute("priceStep", 10000);
+        req.setAttribute("areaLower", 0);
+        req.setAttribute("areaUpper", 500);
+        req.setAttribute("areaStep", 10);
+        req.setAttribute("currency", "€");
+        
         resp.setContentType("text/html");
         RequestDispatcher jsp = req.getRequestDispatcher("/WEB-INF/map.jsp");
         jsp.forward(req, resp);
