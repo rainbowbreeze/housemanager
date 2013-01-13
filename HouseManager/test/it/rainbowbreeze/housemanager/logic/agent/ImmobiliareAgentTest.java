@@ -156,6 +156,8 @@ public class ImmobiliareAgentTest {
         assertTrue(announce.wasDeepProcessed());
         assertEquals("45.181", announce.getLat());
         assertEquals("9.16894", announce.getLon());
+        assertFalse(StringUtils.isEmpty(announce.getShortDesc()));
+        assertTrue(announce.getShortDesc().startsWith("Pavia, ad un passo da Corso Garibaldi, in viale Venezia, ex casa Einstein, recentemente ristrutturata, ottimo ampio bilocale con"));
     }
     
     @Test

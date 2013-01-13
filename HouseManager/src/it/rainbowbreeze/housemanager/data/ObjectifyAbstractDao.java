@@ -12,6 +12,10 @@ import com.googlecode.objectify.Key;
 /**
  * Generic DAO using Objectify framework
  * 
+ * Frameworks to use
+ * http://code.google.com/p/objectify-appengine/wiki/Concepts?tm=6
+ * http://code.google.com/p/twig-persist/wiki/Comparison#Objectify_and_SimpleDS
+ *
  * @author Alfredo "Rainbowbreeze" Morresi
  *
  * @param <Entity>
@@ -33,15 +37,14 @@ public abstract class ObjectifyAbstractDao <Entity> {
 
     // ------------------------------------------- Public Methods
 
-    public Entity get(Class<Entity> entityClass, long id) {
-        mLogFacility.d(LOG_HASH, "Load entity " + id);
-        Entity result = ofy().load()
-                .key(Key.create(entityClass, id))
-                .get();
+    public Key<Entity> save(Entity newItem) {
+        mLogFacility.d(LOG_HASH, "Save entity");
+        Key<Entity> result = ofy().save().entity(newItem).now();
         return result;
     }
 
-    public Entity get(Class<Entity> entityClass, String id) {
+    // ----------------------------------------- Private Methods
+    protected Entity get(Class<Entity> entityClass, long id) {
         mLogFacility.d(LOG_HASH, "Load entity " + id);
         Entity result = ofy().load()
                 .key(Key.create(entityClass, id))
@@ -49,7 +52,15 @@ public abstract class ObjectifyAbstractDao <Entity> {
         return result;
     }
     
-    public List<Entity> getAll(Class<Entity> entityClass) {
+    protected Entity get(Class<Entity> entityClass, String id) {
+        mLogFacility.d(LOG_HASH, "Load entity " + id);
+        Entity result = ofy().load()
+                .key(Key.create(entityClass, id))
+                .get();
+        return result;
+    }
+    
+    protected List<Entity> getAll(Class<Entity> entityClass) {
         mLogFacility.d(LOG_HASH, "Load all entities");
         List<Entity> entities = ofy().load()
                 .type(entityClass)
@@ -57,7 +68,7 @@ public abstract class ObjectifyAbstractDao <Entity> {
         return entities;
     }
 
-    public int count(Class<Entity> entityClass) {
+    protected int count(Class<Entity> entityClass) {
         Iterable<Key<Entity>> allKeysIterator = ofy().load().type(entityClass).keys();
         if (null != allKeysIterator) {
             ArrayList<Key<Entity>> allKeys = Lists.newArrayList(allKeysIterator);
@@ -67,19 +78,12 @@ public abstract class ObjectifyAbstractDao <Entity> {
         }
     }
 
-    public Key<Entity> save(Entity newItem) {
-        mLogFacility.d(LOG_HASH, "Save entity");
-        Key<Entity> result = ofy().save().entity(newItem).now();
-        return result;
-    }
-
-    public void deleteAll(Class<Entity> entityClass) {
+    protected void deleteAll(Class<Entity> entityClass) {
         mLogFacility.d(LOG_HASH, "Delete all entities");
         ofy().delete()
                 .type(entityClass);
     }
 
-    // ----------------------------------------- Private Methods
     /**
      * Return the string to use in logging messages
      * @return

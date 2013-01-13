@@ -73,8 +73,6 @@ public class HouseAnnounceDaoTest {
         
         size = mDao.count();
         assertEquals(1, size);
-        
-        
     }
 
     // ----------------------------------------- Private Methods
