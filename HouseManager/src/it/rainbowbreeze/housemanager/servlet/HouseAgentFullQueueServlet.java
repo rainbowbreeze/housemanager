@@ -6,12 +6,14 @@ package it.rainbowbreeze.housemanager.servlet;
 import it.rainbowbreeze.housemanager.common.App;
 import it.rainbowbreeze.housemanager.common.ILogFacility;
 import it.rainbowbreeze.housemanager.data.HouseAnnounceDao;
+import it.rainbowbreeze.housemanager.domain.AppGlobalStatusBag;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 import it.rainbowbreeze.housemanager.logic.HouseAgentsManager;
 import it.rainbowbreeze.housemanager.logic.agent.IHouseAgent;
 import it.rainbowbreeze.housemanager.logic.agent.SearchPageAgentResult;
 
 import java.io.IOException;
+import java.util.Date;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -72,6 +74,7 @@ public class HouseAgentFullQueueServlet extends HttpServlet {
         
         SearchPageAgentResult scrapingResult;
         if (StringUtils.isEmpty(cursor)) {
+            notifyAgentStarted(PARAM_AGENT_DOMAIN);
             //first start of the agent
             scrapingResult = agent.scrape();
         } else {
@@ -81,6 +84,7 @@ public class HouseAgentFullQueueServlet extends HttpServlet {
         //search for new announces to add
         if (scrapingResult.hasErrors()) {
             mLogFacility.w(LOG_HASH, "Error processing agent " + agentDomain + " from cursor " + cursor);
+            notifyAgentStopped(PARAM_AGENT_DOMAIN);
             //TODO send an email with the error
             return;
         }
@@ -90,6 +94,8 @@ public class HouseAgentFullQueueServlet extends HttpServlet {
         if (scrapingResult.hasMoreResults()) {
             //launch a new pass of the process
             houseAgentsManager.enqueueAgent(agent, scrapingResult.getCursor());
+        } else {
+            notifyAgentStopped(PARAM_AGENT_DOMAIN);
         }
         
     }
@@ -118,6 +124,29 @@ public class HouseAgentFullQueueServlet extends HttpServlet {
                 houseAgentsManager.enqueueAnnounceAnalysis(agent, announce);
             }
         }
+    }
+    
+
+    /**
+     * Notify the app that a new agent has started its work
+     * @param agentDomain
+     */
+    private void notifyAgentStarted(String agentDomain) {
+        AppGlobalStatusBag bag = App.i().getAppGlobalStatusBagDao().get();
+        bag.addRunningAgents(agentDomain);
+        App.i().getAppGlobalStatusBagDao().save(bag);
+    }
+
+    /**
+     * Notify the app that a new agent finished its work.
+     * In addition, change the last update timestamp for the backend data  
+     * @param agentDomain
+     */
+    private void notifyAgentStopped(String agentDomain) {
+        AppGlobalStatusBag bag = App.i().getAppGlobalStatusBagDao().get();
+        bag.removeRunningAgents(agentDomain);
+        bag.setLastDataRefresh(new Date());
+        App.i().getAppGlobalStatusBagDao().save(bag);
     }
 
     // ----------------------------------------- Private Classes

@@ -3,7 +3,9 @@
  */
 package it.rainbowbreeze.housemanager.logic;
 
+import it.rainbowbreeze.housemanager.common.App;
 import it.rainbowbreeze.housemanager.common.ILogFacility;
+import it.rainbowbreeze.housemanager.data.HouseAnnounceDao;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 import it.rainbowbreeze.housemanager.logic.agent.IHouseAgent;
 import it.rainbowbreeze.housemanager.logic.agent.ImmobiliareAgent;
@@ -51,8 +53,15 @@ public class HouseAgentsManager {
     /**
      * Enqueues all the house agents in the process queue
      */
-    public void enqueueAgents() {
+    public void enqueueAgents(boolean removeAllData) {
         mLogFacility.d(LOG_HASH, "Enqueuing all the " + mAgents.size() + " house agents");
+
+        if (removeAllData) {
+            mLogFacility.d(LOG_HASH, "Removing all data");
+            HouseAnnounceDao dao = App.i().getHouseAnnounceDao();
+            dao.deleteAll();
+        }
+
         for (IHouseAgent agent : mAgents.values()) {
             enqueueAgent(agent, null);
         }

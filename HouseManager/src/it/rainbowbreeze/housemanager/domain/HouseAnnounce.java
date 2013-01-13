@@ -26,6 +26,7 @@ public class HouseAnnounce {
         private Contract() {}
         
         public static final String ID = "id";
+        public static final String DEEPPROCESSED = "deepProcessed";
     }
 
     // -------------------------------------------- Constructors
@@ -168,7 +169,8 @@ public class HouseAnnounce {
     
     // ------------------------------------------ Public Methods
     /**
-     * URL encodes some fields that could contains dirty values and could creates problem to javacript
+     * URL encodes some fields that could contains dirty values and could creates problem to JavaScript.
+     * The encoding follows the RFC2396.
      *   
      * @return
      */

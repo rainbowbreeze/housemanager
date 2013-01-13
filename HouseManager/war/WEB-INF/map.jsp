@@ -17,16 +17,15 @@
         <script type="text/javascript">
             function initialize() {
                 var mapOptions = {
-                    //centered on Pavia
-                    center: new google.maps.LatLng(45.185182663283705, 9.158477783203125),
+                    //center: new google.maps.LatLng(45.185182663283705, 9.158477783203125),
                     zoom: 8,
                     mapTypeId: google.maps.MapTypeId.SATELLITE
                 };
                 var map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
 
                 //Pavia borders
-                var southWest = new google.maps.LatLng(45.212036101115885, 9.116249084472656);
-                var northEast = new google.maps.LatLng(45.168725648565285, 9.203453063964844);
+                var southWest = new google.maps.LatLng(${mapSWLat}, ${mapSWLng});
+                var northEast = new google.maps.LatLng(${mapNELat}, ${mapNELng});
                 var bounds = new google.maps.LatLngBounds(southWest,northEast);
                 map.fitBounds(bounds);
                 
@@ -45,7 +44,6 @@
                 }
             }
             
-            //function createMarker(map, lat, lng, titleEsc, area, price, description, detailUrl) {
             function createMarker(map, announce) {
                 //filter by area
                 //if (announce.area < 55) return;
@@ -68,7 +66,8 @@
                 content += "<img src=\"" + announce.imgUrl + "\" alt=\"" + announce.title + "\">";
                 content += "</td><td>"
                 content += "<strong>Area: </strong>" + announce.area + " mq<br>"
-                content += "<strong>Prezzo: </strong>" + addCommas(announce.price) + " euro<br>"
+                content += "<strong>Prezzo: </strong>";
+                if (announce.price > 0) content += addCommas(announce.price) + " euro"; else content += "Sconosciuto";
                 content += "</td>"
                 content += "</tr></table> <br>"
                 content += unescape(announce.shortDesc) + "<br>";
@@ -93,15 +92,11 @@
 
 <body onload="initialize()">
     <c:choose>
-        <c:when test="${user != null}">
-            <p>
-                Welcome, ${user}!
-            </p>
+        <c:when test="${areAgentsRunning}">
+            <p>Latest refresh of data: ${latestDataUpdate}</p>
         </c:when>
         <c:otherwise>
-            <p>
-                Welcome!
-            </p>
+            <p>Data refresh in progress...</p>
         </c:otherwise>
     </c:choose>
     

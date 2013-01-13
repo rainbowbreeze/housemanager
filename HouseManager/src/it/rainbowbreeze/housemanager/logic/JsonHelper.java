@@ -3,13 +3,13 @@
  */
 package it.rainbowbreeze.housemanager.logic;
 
+import it.rainbowbreeze.housemanager.common.ILogFacility;
+import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
+
 import com.google.gson.ExclusionStrategy;
 import com.google.gson.FieldAttributes;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-
-import it.rainbowbreeze.housemanager.common.ILogFacility;
-import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 
 /**
  * @author Alfredo "Rainbowbreeze" Morresi
@@ -51,8 +51,8 @@ public class JsonHelper {
         public boolean shouldSkipField(FieldAttributes f) {
 
             return (f.getDeclaringClass() == HouseAnnounce.class 
-                    && (f.getName().equals(HouseAnnounce.Contract.ID)));
-                        //|| f.getName().equals(HouseAnnounce.Contract.SHORT_DESC)));
+                    && (f.getName().equals(HouseAnnounce.Contract.ID)
+                        || f.getName().equals(HouseAnnounce.Contract.DEEPPROCESSED)));
         }
 
     }

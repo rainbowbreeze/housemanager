@@ -50,12 +50,25 @@ public class HouseAnnounceDao extends ObjectifyAbstractDao<HouseAnnounce> {
         super.deleteAll(HouseAnnounce.class);
     }
 
+    /**
+     * Returns only deep processed announces with valid fields (location, etc).
+     * In addition, some fields are encoded using RFC2396 spec
+     * @return
+     */
+    public List<HouseAnnounce> getAllValidAndEncoded() {
+        List<HouseAnnounce> announces = getAll();;
+        for(HouseAnnounce announce : announces) {
+            announce.encode();
+        }
+        return announces;
+    }
+    
     // ----------------------------------------- Private Methods
     @Override
     protected String getLogHash() {
         return LOG_HASH;
     }
-    
+
 
     // ----------------------------------------- Private Classes
 }

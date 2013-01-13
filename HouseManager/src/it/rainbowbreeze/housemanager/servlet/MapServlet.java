@@ -2,10 +2,10 @@ package it.rainbowbreeze.housemanager.servlet;
 
 import it.rainbowbreeze.housemanager.common.App;
 import it.rainbowbreeze.housemanager.data.HouseAnnounceDao;
+import it.rainbowbreeze.housemanager.domain.AppGlobalStatusBag;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 
 import javax.servlet.RequestDispatcher;
@@ -25,24 +25,26 @@ public class MapServlet extends HttpServlet {
     public void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws IOException, ServletException {
 
-        //get all the house data
+        //gets all the house data
         HouseAnnounceDao dao = App.i().getHouseAnnounceDao();
-        List<HouseAnnounce> announces = dao.getAll();
-        for(HouseAnnounce announce : announces) {
-            announce.encode();
-        }
-
+        List<HouseAnnounce> announces = dao.getAllValidAndEncoded();
         //serialize the object for an easy usage inside the doc
-        List<HouseAnnounce> a = new ArrayList<HouseAnnounce>();
-        a.add(announces.get(0));
-        String json = App.i().getJsonHelper().toJson(announces);
+        String jsonAnnounces = App.i().getJsonHelper().toJson(announces);
         
-        req.setAttribute("user", "Alfredo");
-        req.setAttribute("announces", json);
+        //gets app status
+        AppGlobalStatusBag bag = App.i().getAppGlobalStatusBagDao().get();
+        
+        //Pavia borders
+        req.setAttribute("mapSWLat", 45.212036101115885);
+        req.setAttribute("mapSWLng", 9.116249084472656);
+        req.setAttribute("mapNELat", 45.168725648565285);
+        req.setAttribute("mapNELng", 9.203453063964844);
+        req.setAttribute("latestDataUpdate", bag.getLastDataRefresh());
+        req.setAttribute("areAgentsRunning", bag.isRunningAgentsEmpty());
+        req.setAttribute("announces", jsonAnnounces);
         resp.setContentType("text/html");
         RequestDispatcher jsp = req.getRequestDispatcher("/WEB-INF/map.jsp");
         jsp.forward(req, resp);
-        
         
 //        <input type="hidden" name="myObjectId" value="${myObjectId}" />
 //        String myObjectId = request.getParameter("myObjectId");
