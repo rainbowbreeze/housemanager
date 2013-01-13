@@ -6,11 +6,8 @@
         <title>Case a Pavia...</title>
         
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-        <style type="text/css">
-            html { height: 100% }
-            body { height: 100%; margin: 0; padding: 0 }
-            #map_canvas { height: 100% }
-        </style>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        
         <script type="text/javascript"
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDG2ho3ev9azmNy8uwiC1sz9HmudJ9KFtY&sensor=false">
         </script>
@@ -91,18 +88,26 @@
     </head>
 
 <body onload="initialize()">
-    <p>
-    <c:choose>
-        <c:when test="${areAgentsRunning}">
-            Latest refresh of data: ${latestDataUpdate}
-        </c:when>
-        <c:otherwise>
-            Data refresh in progress...
-        </c:otherwise>
-    </c:choose>
-    <br>Total announces: ${totalAnnounces}
-    </p>
-    
-    <div id="map_canvas" style="width:100%; height:100%"></div>
+
+    <div id="navigation">
+	    <p>
+	    <c:choose>
+	        <c:when test="${areAgentsRunning}">
+	            Latest refresh of data: ${latestDataUpdate}
+	        </c:when>
+	        <c:otherwise>
+	            Data refresh in progress...
+	        </c:otherwise>
+	    </c:choose>
+	    <br>Total announces: ${totalAnnounces}
+	    </p>
+    </div>
+
+    <!-- Remember, one of the divs, content or map_canvas, has to have the height to 100%, and body too
+         Reference: http://stackoverflow.com/questions/10712523/how-to-set-a-map-to-div-within-another-div
+    -->    
+    <div id="content">
+        <div id="map_canvas"></div>
+    </div>
     
 </body>

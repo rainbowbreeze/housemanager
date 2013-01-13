@@ -15,6 +15,9 @@ import com.googlecode.objectify.Key;
  * Frameworks to use
  * http://code.google.com/p/objectify-appengine/wiki/Concepts?tm=6
  * http://code.google.com/p/twig-persist/wiki/Comparison#Objectify_and_SimpleDS
+ * 
+ * May help
+ * http://turbomanage.wordpress.com/2010/02/09/generic-dao-for-objectify-2/
  *
  * @author Alfredo "Rainbowbreeze" Morresi
  *
