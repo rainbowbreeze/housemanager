@@ -80,8 +80,17 @@ public abstract class ObjectifyAbstractDao <Entity> {
 
     protected void deleteAll(Class<Entity> entityClass) {
         mLogFacility.d(LOG_HASH, "Delete all entities");
+        
+        List<Key<Entity>> allKeys = ofy()
+                .load()
+                .type(entityClass)
+                .keys()
+                .list();
+
+        // Useful for deleting items
         ofy().delete()
-                .type(entityClass);
+                .keys(allKeys)
+                .now();
     }
 
     /**

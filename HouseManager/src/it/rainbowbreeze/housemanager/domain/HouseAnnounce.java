@@ -10,6 +10,7 @@ import org.apache.commons.lang3.StringUtils;
 
 import com.googlecode.objectify.annotation.Entity;
 import com.googlecode.objectify.annotation.Id;
+import com.googlecode.objectify.annotation.Index;
 
 /**
  * @author Alfredo "Rainbowbreeze" Morresi
@@ -132,7 +133,7 @@ public class HouseAnnounce {
     }
     
     
-    private boolean deepProcessed;
+    @Index private boolean deepProcessed;
     /**
      * Deep analysis of the announce, not only the scraping for main page site
      */

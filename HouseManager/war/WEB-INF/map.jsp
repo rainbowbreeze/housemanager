@@ -99,6 +99,7 @@
             <p>Data refresh in progress...</p>
         </c:otherwise>
     </c:choose>
+    <p>Total announces: ${totalAnnounces}</p>
     
     <div id="map_canvas" style="width:100%; height:100%"></div>
     

@@ -41,6 +41,7 @@ public class MapServlet extends HttpServlet {
         req.setAttribute("mapNELng", 9.203453063964844);
         req.setAttribute("latestDataUpdate", bag.getLastDataRefresh());
         req.setAttribute("areAgentsRunning", bag.isRunningAgentsEmpty());
+        req.setAttribute("totalAnnounces", announces.size());
         req.setAttribute("announces", jsonAnnounces);
         resp.setContentType("text/html");
         RequestDispatcher jsp = req.getRequestDispatcher("/WEB-INF/map.jsp");
