@@ -91,15 +91,17 @@
     </head>
 
 <body onload="initialize()">
+    <p>
     <c:choose>
         <c:when test="${areAgentsRunning}">
-            <p>Latest refresh of data: ${latestDataUpdate}</p>
+            Latest refresh of data: ${latestDataUpdate}
         </c:when>
         <c:otherwise>
-            <p>Data refresh in progress...</p>
+            Data refresh in progress...
         </c:otherwise>
     </c:choose>
-    <p>Total announces: ${totalAnnounces}</p>
+    <br>Total announces: ${totalAnnounces}
+    </p>
     
     <div id="map_canvas" style="width:100%; height:100%"></div>
     
