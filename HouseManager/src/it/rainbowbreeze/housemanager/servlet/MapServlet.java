@@ -14,8 +14,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.google.gson.Gson;
-
 /**
  * http://www.getlatlon.com/
  * 
@@ -37,11 +35,9 @@ public class MapServlet extends HttpServlet {
         //serialize the object for an easy usage inside the doc
         List<HouseAnnounce> a = new ArrayList<HouseAnnounce>();
         a.add(announces.get(0));
-//        String json = App.i().getJsonHelper().toJson(a);
         String json = App.i().getJsonHelper().toJson(announces);
         
         req.setAttribute("user", "Alfredo");
-//        req.setAttribute("announces", announces);
         req.setAttribute("announces", json);
         resp.setContentType("text/html");
         RequestDispatcher jsp = req.getRequestDispatcher("/WEB-INF/map.jsp");

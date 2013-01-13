@@ -3,7 +3,8 @@
  */
 package it.rainbowbreeze.housemanager.data;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
 import it.rainbowbreeze.housemanager.common.App;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce.AnnounceType;

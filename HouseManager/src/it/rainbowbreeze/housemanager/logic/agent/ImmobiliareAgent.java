@@ -311,6 +311,8 @@ public class ImmobiliareAgent implements IHouseAgent {
             return result;
         }
         
+        boolean deeperProcessed = false;
+        
         //data to add
         //lat/long
         try {
@@ -321,12 +323,25 @@ public class ImmobiliareAgent implements IHouseAgent {
             if (StringUtils.isNotEmpty(lat) && StringUtils.isNotEmpty(lon)) {
                 announce.setLat(lat);
                 announce.setLon(lon);
-                announce.setDeepProcessed(true);
+                deeperProcessed = true;
             }
         } catch (Exception e) {
-            mLogFacility.w(LOG_HASH, "Cannot find div.titolo_mappa");
+            mLogFacility.w(LOG_HASH, "Cannot find div#titolo_mappa");
         }
         
+        //complete description
+        try {
+            String desc = doc.select("div.descrizione").first().text();
+            if (StringUtils.isNotEmpty(desc)) {
+                announce.setShortDesc(desc);
+                deeperProcessed = true;
+            }
+        } catch (Exception e) {
+            mLogFacility.w(LOG_HASH, "Cannot find div.descrizione");
+        }
+        
+        announce.setDeepProcessed(deeperProcessed);
+
         result.setAnnounce(announce);
         return result;
     }

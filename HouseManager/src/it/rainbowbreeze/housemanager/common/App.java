@@ -6,9 +6,9 @@ package it.rainbowbreeze.housemanager.common;
 
 import static it.rainbowbreeze.housemanager.common.RainbowContractHelper.checkNotNull;
 import it.rainbowbreeze.housemanager.data.HouseAnnounceDao;
+import it.rainbowbreeze.housemanager.logic.HouseAgentsManager;
 import it.rainbowbreeze.housemanager.logic.JsonHelper;
 import it.rainbowbreeze.housemanager.logic.NetworkManager;
-import it.rainbowbreeze.housemanager.logic.HouseAgentsManager;
 import it.rainbowbreeze.housemanager.logic.agent.IHouseAgent;
 import it.rainbowbreeze.housemanager.logic.agent.ImmobiliareAgent;
 

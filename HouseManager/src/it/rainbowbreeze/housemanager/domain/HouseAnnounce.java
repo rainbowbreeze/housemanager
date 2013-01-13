@@ -26,7 +26,6 @@ public class HouseAnnounce {
         private Contract() {}
         
         public static final String ID = "id";
-        public static final String SHORT_DESC = "shortDesc";
     }
 
     // -------------------------------------------- Constructors
