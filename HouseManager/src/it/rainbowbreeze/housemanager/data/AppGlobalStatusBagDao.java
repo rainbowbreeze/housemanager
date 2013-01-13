@@ -26,7 +26,7 @@ public class AppGlobalStatusBagDao extends ObjectifyAbstractDao<AppGlobalStatusB
     }
 
     static {
-        ObjectifyService.register(HouseAnnounce.class);
+        ObjectifyService.register(AppGlobalStatusBag.class);
     }
 
     // --------------------------------------- Public Properties
@@ -37,6 +37,10 @@ public class AppGlobalStatusBagDao extends ObjectifyAbstractDao<AppGlobalStatusB
         } else {
             return new AppGlobalStatusBag();
         }
+    }
+
+    public void deleteAll() {
+        super.deleteAll(AppGlobalStatusBag.class);
     }
 
     // ----------------------------------------- Private Methods

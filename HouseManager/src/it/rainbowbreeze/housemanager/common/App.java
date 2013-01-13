@@ -5,6 +5,7 @@ package it.rainbowbreeze.housemanager.common;
 
 
 import static it.rainbowbreeze.housemanager.common.RainbowContractHelper.checkNotNull;
+import it.rainbowbreeze.housemanager.data.AppGlobalStatusBagDao;
 import it.rainbowbreeze.housemanager.data.HouseAnnounceDao;
 import it.rainbowbreeze.housemanager.logic.HouseAgentsManager;
 import it.rainbowbreeze.housemanager.logic.JsonHelper;
@@ -43,6 +44,10 @@ public class App {
         return checkNotNull(RainbowServiceLocator.get(HouseAnnounceDao.class), HouseAnnounceDao.class);
     }
     
+    public AppGlobalStatusBagDao getAppGlobalStatusBagDao() {
+        return checkNotNull(RainbowServiceLocator.get(AppGlobalStatusBagDao.class), AppGlobalStatusBagDao.class);
+    }
+
     public HouseAgentsManager getHouseAgentsManager() {
         return checkNotNull(RainbowServiceLocator.get(HouseAgentsManager.class), HouseAgentsManager.class);
     }
@@ -77,6 +82,8 @@ public class App {
        RainbowServiceLocator.put(immobiliareScraper);
        HouseAnnounceDao houseAnnounceDao = new HouseAnnounceDao(logFacility);
        RainbowServiceLocator.put(houseAnnounceDao);
+       AppGlobalStatusBagDao appGlobalStatusBagDao = new AppGlobalStatusBagDao(logFacility);
+       RainbowServiceLocator.put(appGlobalStatusBagDao);
        HouseAgentsManager houseAgentsManager = new HouseAgentsManager(logFacility, networkManager);
        RainbowServiceLocator.put(houseAgentsManager);
        JsonHelper jsonHelper = new JsonHelper(logFacility);

@@ -3,10 +3,12 @@
  */
 package it.rainbowbreeze.housemanager.domain;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
 import com.googlecode.objectify.annotation.Entity;
+import com.googlecode.objectify.annotation.Id;
 
 /**
  * Contains application's status variables (last scraping time, etc)
@@ -18,8 +20,13 @@ public class AppGlobalStatusBag {
     // ------------------------------------------ Private Fields
 
     // -------------------------------------------- Constructors
+    public AppGlobalStatusBag() {
+        runningAgents = new ArrayList<String>();
+    }
 
     // --------------------------------------- Public Properties
+    @Id private Long id;
+    
     private Date lastDataRefresh;
     /**
      * Get the date of latest backend data refresh (house announces)
@@ -29,8 +36,9 @@ public class AppGlobalStatusBag {
     public Date getLastDataRefresh() {
         return lastDataRefresh;
     }
-    public void setLastDataRefresh(Date lastDataRefresh) {
-        this.lastDataRefresh = lastDataRefresh;
+    public AppGlobalStatusBag setLastDataRefresh(Date newValue) {
+        lastDataRefresh = newValue;
+        return this;
     }
 
     private List<String> runningAgents;
@@ -41,11 +49,21 @@ public class AppGlobalStatusBag {
     public List<String> getRunningAgents() {
         return runningAgents;
     }
-    public void setRunningAgents(List<String> runningAgents) {
-        this.runningAgents = runningAgents;
-    }
     
     // ------------------------------------------ Public Methods
+    public AppGlobalStatusBag addRunningAgents(String newAgent) {
+        if (!runningAgents.contains(newAgent)) runningAgents.add(newAgent);
+        return this;
+    }
+
+    public AppGlobalStatusBag removeRunningAgents(String agentToRemove) {
+        runningAgents.remove(agentToRemove);
+        return this;
+    }
+    
+    public boolean isRunningAgentsEmpty() {
+        return runningAgents.isEmpty();
+    }
 
     // ----------------------------------------- Private Methods
 }
