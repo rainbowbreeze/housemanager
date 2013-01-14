@@ -72,7 +72,6 @@
                 content += "<td>"
                 content += "<img src=\"" + announce.imgUrl + "\" alt=\"" + announce.title + "\">";
                 content += "</td><td>"
-                content += "<strong>Tipo: </strong>" + announce.announceType + "<br>"
                 content += "<strong>Area: </strong>" + announce.area + " mq<br>"
                 content += "<strong>Prezzo: </strong>";
                 if (announce.price > 0) content += addCommas(announce.price) + " ${currency}"; else content += "Sconosciuto";
