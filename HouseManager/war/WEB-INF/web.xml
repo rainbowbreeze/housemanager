@@ -6,15 +6,6 @@
 
     <!-- Servlets -->
     <servlet>
-        <servlet-name>HouseManager</servlet-name>
-        <servlet-class>it.rainbowbreeze.housemanager.servlet.HouseManagerServlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>HouseManager</servlet-name>
-        <url-pattern>/housemanager</url-pattern>
-    </servlet-mapping>
-
-    <servlet>
         <servlet-name>Map</servlet-name>
         <servlet-class>it.rainbowbreeze.housemanager.servlet.MapServlet</servlet-class>
     </servlet>
@@ -53,6 +44,29 @@
         </auth-constraint>
     </security-constraint>
 
+
+    <!-- Cron jobs -->
+    <servlet>
+        <servlet-name>HouseManager</servlet-name>
+        <servlet-class>it.rainbowbreeze.housemanager.servlet.HouseManagerServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>HouseManager</servlet-name>
+        <url-pattern>/admin/cron/refreshdata</url-pattern>
+    </servlet-mapping>
+    
+    <!-- Restrict access for all cronjobs -->
+    <security-constraint>
+        <web-resource-collection>
+            <web-resource-name>cronJobs</web-resource-name>
+            <url-pattern>/admin/cron/*</url-pattern>
+        </web-resource-collection>
+        <auth-constraint>
+            <role-name>admin</role-name>
+        </auth-constraint>
+    </security-constraint>
+
+    
     
     <servlet>
         <servlet-name>SystemServiceServlet</servlet-name>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cronentries>
+    <cron>
+        <url>/admin/cron/refreshdata</url>
+        <description>Refresh app data</description>
+        <schedule>every day 03:00</schedule>
+<!--         <timezone>America/Los_Angeles</timezone> -->
+    </cron>
+</cronentries>
