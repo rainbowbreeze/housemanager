@@ -3,11 +3,12 @@
  */
 package it.rainbowbreeze.housemanager.logic.agent;
 
-import java.util.UUID;
-
 import it.rainbowbreeze.housemanager.common.ILogFacility;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 import it.rainbowbreeze.housemanager.logic.NetworkManager;
+
+import java.util.Date;
+import java.util.UUID;
 
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.Jsoup;
@@ -76,17 +77,24 @@ public class ImmobiliareAgent implements IHouseAgent {
         return announce.getDomainSite() + "-" + announce.getDetailUrl();
     }
 
-    public String getTaskQueueName(HouseAnnounce announce) {
+    public String getTaskQueueName(Date date, HouseAnnounce announce) {
         if (null == announce) {
             return null;
         }
         String numericCode = ScraperUtils.getTextBetween(announce.getDetailUrl(), URL_DETAIL_ANNOUNCE_BASE + "/", "-");
-        return announce.getDomainSite() + "_" + numericCode;
+        StringBuilder sb = new StringBuilder();
+        sb.append(announce.getDomainSite()).append("_")
+                .append(ScraperUtils.getyyyyMMdd(date))
+                .append("-Ann_")
+                .append(numericCode);
+        return sb.toString();
     }
     
-    public String getTaskQueueName(String cursor) {
+    public String getTaskQueueName(Date date, String cursor) {
         StringBuilder sb = new StringBuilder();
-        sb.append(getName()).append("-");
+        sb.append(getName()).append("_")
+                .append(ScraperUtils.getyyyyMMdd(date))
+                .append("-Pg_");
         if (StringUtils.isNotEmpty(cursor)) {
             //search for last =
             int pos = cursor.lastIndexOf("=");

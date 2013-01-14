@@ -17,6 +17,7 @@ import it.rainbowbreeze.housemanager.logic.agent.SearchPageAgentResult;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.util.Date;
 
 import org.apache.commons.lang3.StringUtils;
 import org.junit.After;
@@ -162,24 +163,26 @@ public class ImmobiliareAgentTest {
     
     @Test
     public void testGetTaskQueueName_Announce() {
+        Date testDate = new Date(1358160587000L);  //January, 14th 2013 - 10:49:46 am UTC
         String url = "http://www.immobiliare.it/34534230-Vendita-Bilocale-ottimo-stato-piano-terra-Pavia.html";
         HouseAnnounce announce = mAgent.createAnnounce()
                 .setDetailUrl(url);
-        String taskName = mAgent.getTaskQueueName(announce);
-        assertEquals("ImmobiliareIt_34534230", taskName);
+        String taskName = mAgent.getTaskQueueName(testDate, announce);
+        assertEquals("ImmobiliareIt_20130114-Ann_34534230", taskName);
     }
     
     @Test
     public void testGetTaskQueueName_Cursor() {
+        Date testDate = new Date(1358160587000L);  //January, 14th 2013 - 10:49:46 am UTC
         String cursor = null;
-        String taskName = mAgent.getTaskQueueName(cursor);
-        assertEquals("ImmobiliareIt-", taskName);
+        String taskName = mAgent.getTaskQueueName(testDate, cursor);
+        assertEquals("ImmobiliareIt_20130114-Pg_", taskName);
         cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=2";
-        taskName = mAgent.getTaskQueueName(cursor);
-        assertEquals("ImmobiliareIt-2", taskName);
+        taskName = mAgent.getTaskQueueName(testDate, cursor);
+        assertEquals("ImmobiliareIt_20130114-Pg_2", taskName);
         cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=234";
-        taskName = mAgent.getTaskQueueName(cursor);
-        assertEquals("ImmobiliareIt-234", taskName);
+        taskName = mAgent.getTaskQueueName(testDate, cursor);
+        assertEquals("ImmobiliareIt_20130114-Pg_234", taskName);
     }
     
     // ----------------------------------------- Private Methods

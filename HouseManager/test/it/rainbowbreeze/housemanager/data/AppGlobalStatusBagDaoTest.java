@@ -48,10 +48,10 @@ public class AppGlobalStatusBagDaoTest {
     
     @After
     public void tearDown() {
-        mHelper.tearDown();
         if (null != mDao) {
             mDao.deleteAll();
         }
+        mHelper.tearDown();
     }
     
     @Test

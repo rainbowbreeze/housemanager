@@ -3,6 +3,8 @@
  */
 package it.rainbowbreeze.housemanager.logic.agent;
 
+import java.sql.Date;
+
 import it.rainbowbreeze.housemanager.logic.agent.ScraperUtils;
 
 import org.apache.commons.lang3.StringUtils;
@@ -33,6 +35,13 @@ public class ScraperUtilsTest {
         assertNull(ScraperUtils.getTextBetween("leftXXX", "leftX", "right"));
         assertTrue(StringUtils.isEmpty(ScraperUtils.getTextBetween("leftXXX", "left", "X")));
         assertEquals("XXX", ScraperUtils.getTextBetween("leftXXXright", "left", "right"));
+    }
+    
+    @Test
+    public void testGetyyyyMMdd() {
+        assertNull(ScraperUtils.getyyyyMMdd(null));
+        Date date = new Date(1326538186000l);  //January, 14th 2012 - 10:49:46 am UTC
+        assertEquals("20120114", ScraperUtils.getyyyyMMdd(date));
     }
 
     // ----------------------------------------- Private Methods

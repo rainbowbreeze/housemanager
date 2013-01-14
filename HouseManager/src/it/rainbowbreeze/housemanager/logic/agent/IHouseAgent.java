@@ -3,6 +3,8 @@
  */
 package it.rainbowbreeze.housemanager.logic.agent;
 
+import java.util.Date;
+
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 
 /**
@@ -57,19 +59,21 @@ public interface IHouseAgent {
     /**
      * Returns a valid task queue name [a-zA-Z\d_-] for the given announce
      * 
+     * @param date
      * @param announce
      * @return
      */
-    String getTaskQueueName(HouseAnnounce announce);
+    String getTaskQueueName(Date date, HouseAnnounce announce);
     
 
     /**
      * Returns a valid task queue name [a-zA-Z\d_-] for the given cursor
      * 
-     * @param announce
+     * @param date
+     * @param cursor
      * @return
      */
-    String getTaskQueueName(String cursor);
+    String getTaskQueueName(Date date, String cursor);
 
     /**
      * Returns a new {@link HouseAnnounce} with basic field initialized

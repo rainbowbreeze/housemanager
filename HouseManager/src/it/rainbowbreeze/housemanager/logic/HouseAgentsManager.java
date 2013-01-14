@@ -12,6 +12,7 @@ import it.rainbowbreeze.housemanager.logic.agent.ImmobiliareAgent;
 import it.rainbowbreeze.housemanager.servlet.HouseAgentFullQueueServlet;
 import it.rainbowbreeze.housemanager.servlet.HouseAgentSingleQueueServlet;
 
+import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -80,17 +81,23 @@ public class HouseAgentsManager {
         
         mLogFacility.d(LOG_HASH, "Queuing house agent " + agent.getName() + " with cursor " + cursor);
         Queue queue = QueueFactory.getQueue(HouseAgentFullQueueServlet.TASK_QUEUE_NAME);
-        String taskName = agent.getTaskQueueName(cursor);
+        //TODO pass the date in task argument
+        String taskName = agent.getTaskQueueName(new Date(), cursor);
         String processedCursor = StringUtils.isEmpty(cursor) ? "" : cursor;
         
-        TaskHandle taskHandle = queue.add(TaskOptions.Builder
-                .withTaskName(taskName)
-                .url(HouseAgentFullQueueServlet.TASK_QUEUE_URL)
-                .param(HouseAgentFullQueueServlet.PARAM_AGENT_DOMAIN, agent.getName())
-                .param(HouseAgentFullQueueServlet.PARAM_CURSOR, processedCursor)
-                .method(Method.POST));
-        
-        return taskHandle;
+        try {
+            TaskHandle taskHandle = queue.add(TaskOptions.Builder
+                    .withTaskName(taskName)
+                    .url(HouseAgentFullQueueServlet.TASK_QUEUE_URL)
+                    .param(HouseAgentFullQueueServlet.PARAM_AGENT_DOMAIN, agent.getName())
+                    .param(HouseAgentFullQueueServlet.PARAM_CURSOR, processedCursor)
+                    .method(Method.POST));
+            return taskHandle;
+        } catch (Exception e) {
+            mLogFacility.w(LOG_HASH, e.getMessage());
+            //TODO process queuing errors (task tombstoned, for example)
+            return null;
+        }
     }
     
     public TaskHandle enqueueAnnounceAnalysis(IHouseAgent agent, HouseAnnounce announce) {
@@ -106,16 +113,22 @@ public class HouseAgentsManager {
         Queue queue = QueueFactory.getQueue(HouseAgentSingleQueueServlet.TASK_QUEUE_NAME);
         String key = agent.getUniqueKey(announce);
         mLogFacility.d(LOG_HASH, "Queuing deep analysis for announce " + key);
-        String taskName = agent.getTaskQueueName(announce);;
+        //TODO pass the date in task argument
+        String taskName = agent.getTaskQueueName(new Date(), announce);
         
-        TaskHandle taskHandle = queue.add(TaskOptions.Builder
-                .withTaskName(taskName)
-                .url(HouseAgentSingleQueueServlet.TASK_QUEUE_URL)
-                .param(HouseAgentSingleQueueServlet.PARAM_AGENT_DOMAIN, agent.getName())
-                .param(HouseAgentSingleQueueServlet.PARAM_ANNOUNCE_KEY, key)
-                .method(Method.POST));
-        
-        return taskHandle;
+        try {
+            TaskHandle taskHandle = queue.add(TaskOptions.Builder
+                    .withTaskName(taskName)
+                    .url(HouseAgentSingleQueueServlet.TASK_QUEUE_URL)
+                    .param(HouseAgentSingleQueueServlet.PARAM_AGENT_DOMAIN, agent.getName())
+                    .param(HouseAgentSingleQueueServlet.PARAM_ANNOUNCE_KEY, key)
+                    .method(Method.POST));
+            return taskHandle;
+        } catch (Exception e) {
+            mLogFacility.w(LOG_HASH, e.getMessage());
+            //TODO process queuing errors (task tombstoned, for example)
+            return null;
+        }
     }
 
     /**

@@ -3,6 +3,9 @@
  */
 package it.rainbowbreeze.housemanager.logic.agent;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 import org.apache.commons.lang3.StringUtils;
 
 /**
@@ -39,6 +42,12 @@ public class ScraperUtils {
         int endPos = sourceString.indexOf(rightTag, startPos);
         if (endPos < 0) return null;
         return sourceString.substring(startPos, endPos);
+    }
+    
+    public static String getyyyyMMdd(Date date) {
+        if (null == date) return null;
+        String formattedDate = new SimpleDateFormat("yyyyMMdd").format(date);
+        return formattedDate;
     }
 
     // ----------------------------------------- Private Methods
