@@ -9,8 +9,13 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+/**
+ * Refreshes all the announces data
+ * 
+ * @author Alfredo "Rainbowbreeze" Morresi
+ */
 @SuppressWarnings("serial")
-public class HouseManagerServlet extends HttpServlet {
+public class RefreshDataCronServlet extends HttpServlet {
     public void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws IOException {
 

@@ -47,11 +47,11 @@
 
     <!-- Cron jobs -->
     <servlet>
-        <servlet-name>HouseManager</servlet-name>
-        <servlet-class>it.rainbowbreeze.housemanager.servlet.HouseManagerServlet</servlet-class>
+        <servlet-name>RefreshData</servlet-name>
+        <servlet-class>it.rainbowbreeze.housemanager.servlet.RefreshDataCronServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>HouseManager</servlet-name>
+        <servlet-name>RefreshData</servlet-name>
         <url-pattern>/admin/cron/refreshdata</url-pattern>
     </servlet-mapping>
     

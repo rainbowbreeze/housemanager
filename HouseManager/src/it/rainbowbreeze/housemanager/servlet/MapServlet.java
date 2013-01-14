@@ -45,11 +45,13 @@ public class MapServlet extends HttpServlet {
         req.setAttribute("announces", jsonAnnounces);
         req.setAttribute("priceLower", 0);
         req.setAttribute("priceUpper", 600000);
+        req.setAttribute("priceValue", 600000);
         req.setAttribute("priceStep", 10000);
         req.setAttribute("areaLower", 0);
         req.setAttribute("areaUpper", 500);
+        req.setAttribute("areaValue", 1);
         req.setAttribute("areaStep", 10);
-        req.setAttribute("currency", "€");
+        req.setAttribute("currency", "Eur");
         
         resp.setContentType("text/html");
         RequestDispatcher jsp = req.getRequestDispatcher("/WEB-INF/map.jsp");

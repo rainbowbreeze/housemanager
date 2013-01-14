@@ -45,8 +45,8 @@
                     createMarker(map, announces[i]);
                 }
 
-                updatePriceSlider(${priceUpper});
-                updateAreaSlider(${areaLower});
+                updatePriceSlider(${priceValue});
+                updateAreaSlider(${areaValue});
             }
 
             function createMarker(map, announce) {
@@ -130,7 +130,7 @@
         <span id="priceChosen">${priceUpper}</span> ${currency} 
         <div id="slider">
             ${priceLower} <input id="slide" type="range"
-			min="${priceLower}" max="${priceUpper}" step="${priceStep}" value="${priceUpper}"
+			min="${priceLower}" max="${priceUpper}" step="${priceStep}" value="${priceValue}"
 			onchange="updatePriceSlider(this.value)" />
 			${priceUpper}
         </div>
@@ -140,7 +140,7 @@
         <span id="areaChosen">${areaUpper}</span> mq 
         <div id="slider">
             ${areaLower} <input id="slide" type="range"
-            min="${areaLower}" max="${areaUpper}" step="${areaStep}" value="${areaLower}"
+            min="${areaLower}" max="${areaUpper}" step="${areaStep}" value="${areaValue}"
             onchange="updateAreaSlider(this.value)" />
             ${areaUpper}
         </div>
