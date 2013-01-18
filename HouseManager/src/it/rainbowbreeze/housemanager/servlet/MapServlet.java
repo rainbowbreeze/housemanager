@@ -46,6 +46,7 @@ public class MapServlet extends HttpServlet {
         if (cacheManager.isRefreshRequired(bag.getLastDataRefresh())) {
             jsonAnnounces = cacheManager.getAnnouncesJson();
             totalAnnouces = cacheManager.getAnnouncesNumber();
+            logFacility.d(LOG_HASH, "Announces should be present in cache");
         }
         
         if (StringUtils.isEmpty(jsonAnnounces)) {
@@ -53,10 +54,9 @@ public class MapServlet extends HttpServlet {
             List<HouseAnnounce> announces = dao.getAllValidAndEncoded();
             //serializes the object for an easy usage inside the doc
             jsonAnnounces = App.i().getJsonHelper().toJson(announces);
+            totalAnnouces = announces.size();
             cacheManager.cacheAnnounces(totalAnnouces, jsonAnnounces, bag.getLastDataRefresh());
-            logFacility.d(LOG_HASH, "Load real values");
-        } else {
-            logFacility.d(LOG_HASH, "Used cached values");
+            logFacility.d(LOG_HASH, "Loaded announces from storage");
         }
 
         //Pavia borders
