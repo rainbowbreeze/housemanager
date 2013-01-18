@@ -25,9 +25,8 @@ import com.googlecode.objectify.Key;
  */
 public abstract class ObjectifyAbstractDao <Entity> {
     // ------------------------------------------ Private Fields
-
-    protected final ILogFacility mLogFacility;
     private final String LOG_HASH;
+    protected final ILogFacility mLogFacility;
 
     // -------------------------------------------- Constructors
     public ObjectifyAbstractDao(ILogFacility logFacility) {

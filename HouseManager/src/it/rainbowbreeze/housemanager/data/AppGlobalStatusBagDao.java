@@ -5,20 +5,19 @@ package it.rainbowbreeze.housemanager.data;
 
 import it.rainbowbreeze.housemanager.common.ILogFacility;
 import it.rainbowbreeze.housemanager.domain.AppGlobalStatusBag;
-import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 
 import java.util.List;
 
 import com.googlecode.objectify.ObjectifyService;
 
 /**
- * DAO for {@link HouseAnnounce} object
+ * DAO for {@link AppGlobalStatusBag} object
  * 
  * @author Alfredo "Rainbowbreeze" Morresi
  */
 public class AppGlobalStatusBagDao extends ObjectifyAbstractDao<AppGlobalStatusBag> {
     // ------------------------------------------ Private Fields
-    static final String LOG_HASH = AppGlobalStatusBagDao.class.getSimpleName();
+    private static final String LOG_HASH = AppGlobalStatusBagDao.class.getSimpleName();
     
     // -------------------------------------------- Constructors
     public AppGlobalStatusBagDao(ILogFacility logFacility) {
@@ -30,6 +29,8 @@ public class AppGlobalStatusBagDao extends ObjectifyAbstractDao<AppGlobalStatusB
     }
 
     // --------------------------------------- Public Properties
+
+    // ------------------------------------------ Public Methods
     public AppGlobalStatusBag get() {
         List<AppGlobalStatusBag> bag = getAll(AppGlobalStatusBag.class);
         if (null != bag && bag.size() > 0) {
@@ -38,7 +39,7 @@ public class AppGlobalStatusBagDao extends ObjectifyAbstractDao<AppGlobalStatusB
             return new AppGlobalStatusBag();
         }
     }
-
+    
     public void deleteAll() {
         super.deleteAll(AppGlobalStatusBag.class);
     }

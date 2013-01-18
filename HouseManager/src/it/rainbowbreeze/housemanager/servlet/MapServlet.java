@@ -1,6 +1,8 @@
 package it.rainbowbreeze.housemanager.servlet;
 
 import it.rainbowbreeze.housemanager.common.App;
+import it.rainbowbreeze.housemanager.common.ILogFacility;
+import it.rainbowbreeze.housemanager.data.CacheManager;
 import it.rainbowbreeze.housemanager.data.HouseAnnounceDao;
 import it.rainbowbreeze.housemanager.domain.AppGlobalStatusBag;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
@@ -14,6 +16,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import org.apache.commons.lang3.StringUtils;
+
 /**
  * http://www.getlatlon.com/
  * 
@@ -22,18 +26,39 @@ import javax.servlet.http.HttpServletResponse;
  */
 @SuppressWarnings("serial")
 public class MapServlet extends HttpServlet {
+    // ------------------------------------------ Private Fields
+    private static final String LOG_HASH = MapServlet.class.getSimpleName();
+    
+    // -------------------------------------------- Constructors
+
+    // --------------------------------------- Public Properties
+
+    // ------------------------------------------ Public Methods
     public void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws IOException, ServletException {
 
-        //gets all the house data
-        HouseAnnounceDao dao = App.i().getHouseAnnounceDao();
-        List<HouseAnnounce> announces = dao.getAllValidAndEncoded();
-        //serialize the object for an easy usage inside the doc
-        String jsonAnnounces = App.i().getJsonHelper().toJson(announces);
-        
-        //gets app status
         AppGlobalStatusBag bag = App.i().getAppGlobalStatusBagDao().get();
+        CacheManager cacheManager = App.i().getCacheManager();
+        ILogFacility logFacility = App.i().getLogFacility();
         
+        String jsonAnnounces = null;
+        int totalAnnouces = 0;
+        if (cacheManager.isRefreshRequired(bag.getLastDataRefresh())) {
+            jsonAnnounces = cacheManager.getAnnouncesJson();
+            totalAnnouces = cacheManager.getAnnouncesNumber();
+        }
+        
+        if (StringUtils.isEmpty(jsonAnnounces)) {
+            HouseAnnounceDao dao = App.i().getHouseAnnounceDao();
+            List<HouseAnnounce> announces = dao.getAllValidAndEncoded();
+            //serializes the object for an easy usage inside the doc
+            jsonAnnounces = App.i().getJsonHelper().toJson(announces);
+            cacheManager.cacheAnnounces(totalAnnouces, jsonAnnounces, bag.getLastDataRefresh());
+            logFacility.d(LOG_HASH, "Load real values");
+        } else {
+            logFacility.d(LOG_HASH, "Used cached values");
+        }
+
         //Pavia borders
         req.setAttribute("mapSWLat", 45.212036101115885);
         req.setAttribute("mapSWLng", 9.116249084472656);
@@ -41,7 +66,7 @@ public class MapServlet extends HttpServlet {
         req.setAttribute("mapNELng", 9.203453063964844);
         req.setAttribute("latestDataUpdate", bag.getLastDataRefresh());
         req.setAttribute("areAgentsRunning", bag.isRunningAgentsEmpty());
-        req.setAttribute("totalAnnounces", announces.size());
+        req.setAttribute("totalAnnounces", totalAnnouces);
         req.setAttribute("announces", jsonAnnounces);
         req.setAttribute("priceLower", 0);
         req.setAttribute("priceUpper", 600000);
@@ -62,4 +87,9 @@ public class MapServlet extends HttpServlet {
 //        Object myObject = request.getSession().getAttribute(myObjectId);
 //        request.getSession().removeAttribute(myObjectId);
     }
+
+    // ----------------------------------------- Private Methods
+    
+    // ----------------------------------------- Private Classes
+
 }

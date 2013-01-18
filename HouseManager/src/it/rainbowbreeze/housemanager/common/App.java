@@ -6,6 +6,7 @@ package it.rainbowbreeze.housemanager.common;
 
 import static it.rainbowbreeze.housemanager.common.RainbowContractHelper.checkNotNull;
 import it.rainbowbreeze.housemanager.data.AppGlobalStatusBagDao;
+import it.rainbowbreeze.housemanager.data.CacheManager;
 import it.rainbowbreeze.housemanager.data.HouseAnnounceDao;
 import it.rainbowbreeze.housemanager.logic.HouseAgentsManager;
 import it.rainbowbreeze.housemanager.logic.JsonHelper;
@@ -55,13 +56,11 @@ public class App {
     public JsonHelper getJsonHelper() {
         return checkNotNull(RainbowServiceLocator.get(JsonHelper.class), JsonHelper.class);
     }
-
-    /** TODO remove */
-    public IHouseAgent getImmobiliareScraper() {
-        return checkNotNull(RainbowServiceLocator.get(ImmobiliareAgent.class), ImmobiliareAgent.class);
+    
+    public CacheManager getCacheManager() {
+        return checkNotNull(RainbowServiceLocator.get(CacheManager.class), CacheManager.class);
     }
-    
-    
+
     
     // ------------------------------------------ Public Methods
     public synchronized static App i() {
@@ -77,6 +76,8 @@ public class App {
        RainbowServiceLocator.put(logFacility);
        NetworkManager networkManager = new NetworkManager(logFacility);
        RainbowServiceLocator.put(networkManager);
+       CacheManager cacheManager = new CacheManager(logFacility);
+       RainbowServiceLocator.put(cacheManager);
        
        IHouseAgent immobiliareScraper = new ImmobiliareAgent(logFacility, networkManager);
        RainbowServiceLocator.put(immobiliareScraper);
