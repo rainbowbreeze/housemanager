@@ -31,11 +31,13 @@ public class ScraperUtils {
      */
     public static String getTextBetween(String sourceString, String leftTag, String rightTag) {
         if (StringUtils.isEmpty(sourceString)) return null;
-        if (StringUtils.isEmpty(leftTag)) return null;
-        int startPos = sourceString.indexOf(leftTag);
-        if (startPos < 0) return null;
-        
-        startPos+= leftTag.length();
+        if (StringUtils.isEmpty(leftTag) && StringUtils.isEmpty(rightTag)) return sourceString;
+        int startPos = 0;
+        if (StringUtils.isNotEmpty(leftTag)) {
+            startPos = sourceString.indexOf(leftTag);
+            if (startPos < 0) return null;
+            startPos+= leftTag.length();
+        }
         if (startPos >= sourceString.length()) return null;
         if (StringUtils.isEmpty(rightTag)) return sourceString.substring(startPos);
         

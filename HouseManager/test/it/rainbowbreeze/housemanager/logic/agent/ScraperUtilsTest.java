@@ -26,7 +26,6 @@ public class ScraperUtilsTest {
     @Test
     public void testGetTextBetween() {
         assertNull(ScraperUtils.getTextBetween(null, null, null));
-        assertNull(ScraperUtils.getTextBetween("blabla", null, null));
         assertNull(ScraperUtils.getTextBetween("bla", "long", null));
         assertNull(ScraperUtils.getTextBetween("bla", "left", "right"));
         assertNull(ScraperUtils.getTextBetween("leftXXX", "left", "right"));
@@ -35,6 +34,9 @@ public class ScraperUtilsTest {
         assertNull(ScraperUtils.getTextBetween("leftXXX", "leftX", "right"));
         assertTrue(StringUtils.isEmpty(ScraperUtils.getTextBetween("leftXXX", "left", "X")));
         assertEquals("XXX", ScraperUtils.getTextBetween("leftXXXright", "left", "right"));
+        assertEquals("XXXright", ScraperUtils.getTextBetween("leftXXXright", "left", null));
+        assertEquals("TestFull", ScraperUtils.getTextBetween("TestFull", null, null));
+        assertEquals("Test", ScraperUtils.getTextBetween("TestFull", null, "Full"));
     }
     
     @Test

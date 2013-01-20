@@ -1,0 +1,1463 @@
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+  <html xmlns="http://www.w3.org/1999/xhtml" lang="it"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>Immobili e case in vendita a Pavia - (Pavia) – Tecnocasa</title><meta content="Scopri subito i numerosi annunci di immobili e case in vendita a Pavia proposti da Tecnocasa!" name="description"/><meta content="compro casa appartamento villa" name="keywords"/><meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible"/><meta content="TW8n5qkTjbmb7PEoCr2jucCLvCxSXjFXWFytdulh2_Q" name="google-site-verification"/><meta content="Gruppo Tecnocasa" name="copyright"/><meta content="Gruppo Tecnocasa" name="author"/><meta content="General" name="classification"/><meta content="General" name="rating"/><meta content="Global" name="distribution"/><meta content="ALL,INDEX,FOLLOW" name="robots"/><meta content="3 days" name="revisit-after"/><link href="/docroot/css/3.8.0/all.css" rel="stylesheet" type="text/css"/>
+  <!-- attenzione non funziona con IE multiple -->
+    <!--[if IE 6]>    <link type="text/css" rel="stylesheet" href="/docroot/css/ie6fix.css" />
+    <![endif]-->
+  <script src="/docroot/js/3.8.0/all.js" type="text/javascript"></script><script src="/.resources/media/js/swfobject.js" type="text/javascript"></script><script src="/docroot/js/font/typeface-0.15-nc.js" type="text/javascript"/><script src="/docroot/js/font/arial_narrow_regular.typeface.js" type="text/javascript"></script><script src="/docroot/js/font/arial_narrow_bold.typeface.js" type="text/javascript"></script><script type="text/javascript">
+  <!--
+
+    // fix mootools bug https://mootools.lighthouseapp.com/projects/2706-mootools/tickets/40
+    $.element = function(el, notrash){
+      $uid(el);
+      if (!notrash && !el.$family && !(/^object|embed$/i).test(el.tagName)){
+        var proto = Element.Prototype;
+            if ((/^form$/i).test(el.tagName)){
+                for (var p in proto)
+                    if (!el.elements[p]) el[p] = proto[p];
+            }
+            else {
+            for (var p in proto) el[p] = proto[p];
+            }
+      };
+      return el;
+    };
+
+    var appCtx = '';
+    window.addEvent('domready', function() {
+      $$('a[class^=external]').forEach( function(link) {
+        link.target = "_blank";
+      });
+    });
+
+    var lang = 'it';
+  -->
+  </script><link rel="icon" href="/site/it/tecnocasa/favIcon/tecnocasa.ico"/><link rel="canonical" href="http://www.tecnocasa.it/annunci/immobili/lombardia/pavia.html"/></head><body><div id="wrapper"><script type="text/javascript">
+    <!--
+      window.addEvent('domready', function(){
+       var box =new OpenCloseBox('boxMyhome', 'myPage', 'blockPanel', 'center', 'right', 'close');
+       box.run();
+      });
+    -->
+    </script><div style="height: auto !important; height: 100%;" id="boxMyhome"><div class="myContent"><div class="left-float  threesix"><h3 class="white">Ultimi immobili salvati</h3></div><div class="left-float  twofour"><h3 class="white">Ultime ricerche salvate</h3></div><div class="left-float twozero right-margin_1"><h3 class="white">Accedi alla MYHome</h3><ul class="myhomemenu"><li>MYHome</li><li>I miei immobili</li><li>Le mie ricerche</li><li>Le mie richieste immobiliari</li><li>Le mie richieste di valutazione</li><li>Il mio profilo</li></ul></div><div class="clear"></div></div></div><div id="top"><div class="" id="nav_utility"><ul><li >
+          
+          <a href="http://www.gruppotecnocasa.it" class="external">www.gruppotecnocasa.it</a>
+        </li><li >
+          
+          <a href="https://login3.tecnocasa.com/" class="external">Area Affiliati</a>
+        </li><li >
+          
+          <a href="/site/it/globals/glossario.html">Glossario</a>
+        </li><li >
+          
+          <a href="/site/it/globals/contatti/lavoraconnoi.html">Lavora con noi</a>
+        </li><li class="last">
+          
+          <a href="/site/it/globals/contatti.html">Contatti</a>
+        </li></ul></div><div class="mypage"><a id="myPage" title="" href="#"><span><strong>MY</strong>
+          Home
+        </span></a><div class="close"><a id="close" href="#">x</a></div></div><div class="site" id="nav_utility_bottom"><div id="center"><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html" class="secure" rel="nofollow">Accedi o Registrati</a>alla MY Home</div><div id="right"><input value="0" type="checkbox" id="blockPanel"/>Blocca il pannello MY Home</div></div><div class="clear"></div></div><div id="header"><div id="logo"><a href="/site/it/tecnocasa.html"><img src="/mediaObject/loghi/Tecnocasa-Group/resolutions/res-220x67/data.jpg" alt="Tecnocasa Group" title="Tecnocasa Group" width="220" height="67" /></a><p class="myclass typeface-js claim"></p><div class="clear"></div></div><strong class="hidden">Tecnocasa Group</strong><div class="clear"></div><div class="site" id="nav"><span class="corner_top_sx"></span><span class="corner_top_dx"></span><ul class="level3 myclass typeface-js menu"><li class="active active0 closed trail"><a href="/site/it/contents/iltuoimmobile.html"><span class="base">IL TUO IMMOBILE</span><span class="onhover">IL TUO IMMOBILE</span></a></li><li class="closed"><a href="/site/it/contents/progettocasa.html"><span class="base">PROGETTO CASA</span><span class="onhover">PROGETTO CASA</span></a></li><li class="closed"><a href="/site/it/contents/progettoimpresa.html"><span class="base">PROGETTO IMPRESA</span><span class="onhover">PROGETTO IMPRESA</span></a></li></ul></div></div><div id="breadcrumb"><a href="/annunci/immobili.html">
+                Acquisto Residenziale
+              </a>&nbsp;&gt;&nbsp;<a href="/annunci/immobili.html">
+                Tutte
+              </a>&nbsp;&gt;&nbsp;
+              Pavia
+            </div><div class="generic tabswitch" id="wrapperSearch"><div class="generic tabswitch" id="topTabs"><ul class="level5 tab_process myclass typeface-js menu searchWidth"><li class="active active0 leaf"><a class="el_1" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?searchRequest.mission=acquis&amp;search=true&amp;searchRequest.destinationProperty=CIVIL&amp;townWord=pavia&amp;districtWord=&amp;searchRequest.districtId="><span class="base">COMPRO</span><span class="onhover">COMPRO</span></a></li><li class="leaf"><a class="el_2" href="/site/it/contents/iltuoimmobile/propertyResults/affitto.html?searchRequest.mission=locazi&amp;search=true&amp;searchRequest.destinationProperty=CIVIL&amp;townWord=pavia&amp;districtWord=&amp;searchRequest.districtId="><span class="base">AFFITTO</span><span class="onhover">AFFITTO</span></a></li><li class="leaf"><a class="el_3" href="/site/it/contents/iltuoimmobile/propertyResults/valutaimmobile.html?searchRequest.mission=valuta&amp;search=true&amp;searchRequest.destinationProperty=CIVIL&amp;townWord=pavia&amp;districtWord=&amp;searchRequest.districtId="><span class="base">VALUTA IL TUO IMMOBILE</span><span class="onhover">VALUTA IL TUO IMMOBILE</span></a></li></ul></div><script type="text/javascript">
+          var event = "domready";
+          if (window.parent)
+          {
+            event = "load";
+          }
+          window.addEvent(event, function() {
+            new Mootip($$('.tooltip'), {className: 'agencytip',showDelay: 0});
+          });
+        </script><form id="searchForm" method="get" action="/site/it/contents/iltuoimmobile/propertyResults/compro.html"><div class="generic twentyeight" id="leftColumn"><script type="text/javascript" > var gridArray = new Array();
+        var a0 = new Hash({
+          id : '13800324512838',
+          link : '/site/it/globals/grandicitta/torino.html'
+        });
+        gridArray.push(a0);
+      
+        var a1 = new Hash({
+          id : '13800324507779',
+          link : '/site/it/globals/grandicitta/milano.html'
+        });
+        gridArray.push(a1);
+      
+        var a2 = new Hash({
+          id : '43800353509716',
+          link : '/site/it/globals/grandicitta/roma.html'
+        });
+        gridArray.push(a2);
+      
+        var a3 = new Hash({
+          id : '63800367506356',
+          link : '/site/it/globals/grandicitta/napoli.html'
+        });
+        gridArray.push(a3);
+      
+        var a4 = new Hash({
+          id : '63800363511235',
+          link : '/site/it/globals/grandicitta/bari.html'
+        });
+        gridArray.push(a4);
+      
+        var a5 = new Hash({
+          id : '23800333511889',
+          link : '/site/it/globals/grandicitta/bologna.html'
+        });
+        gridArray.push(a5);
+      
+        var a6 = new Hash({
+          id : '23800333511414',
+          link : '/site/it/globals/grandicitta/verona.html'
+        });
+        gridArray.push(a6);
+      
+        var a7 = new Hash({
+          id : '73800363512924',
+          link : '/site/it/globals/grandicitta/palermo.html'
+        });
+        gridArray.push(a7);
+      
+        var a8 = new Hash({
+          id : '13800324513273',
+          link : '/site/it/globals/grandicitta/genova.html'
+        });
+        gridArray.push(a8);
+      
+        var a9 = new Hash({
+          id : '33800343503553',
+          link : '/site/it/globals/grandicitta/firenze.html'
+        });
+        gridArray.push(a9);
+      </script><script type="text/javascript">
+      var event = "domready";
+      if (window.parent)
+      {
+        event = "load";
+      }
+      window.addEvent(event, function() {
+            SqueezeBox.assign($$('a.iframeLink'), {
+              size: {x: 535, y: 205},
+              handler :'iframe',
+              zIndex :49,
+              'classWindow' : 'bgWhite',
+               windowMarginRight :20
+            });
+           var bubble = new MooBubble("Questa modifica annuller&agrave; l'ordinamento scelto...","Annulla");
+          var sliders = [{
+            steps: 100,
+            low: 0,
+            high: 1000000,
+            target : 'searchRequest.price',
+            format : [ 0, ',', '.' ]
+          },
+          {
+            steps: 9,
+            low: 1,
+            high: 10,
+            target : 'searchRequest.radius',
+            format : [ 0, ',', '.' ]
+          },
+          {
+            steps: 100,
+            low: 0,
+            high: 500,
+            target : 'searchRequest.squareMeters',
+            format : [ 0, ',', '.' ]
+          }];
+          var form = new SearchFormManagerSidebar('searchForm',{
+            actionUrl: '/actions/searchProperty.action',
+            sliders : sliders,
+            bigCities : gridArray,
+            sliderComplete : function(knob) {
+     
+              searchFormSubmit(true);
+     
+            }
+          });
+
+          SqueezeBox.assign($$('a[rel=boxed]'),{
+            size: {x: 550, y: 400},
+              handler: 'adopt',
+              zIndex: 49,
+              onClose: function(e) {
+                $(e.id).getElements("div").each(function(item) {
+                  $("squeeze-content").adopt($(item.id));
+                });
+              }
+          });
+          SqueezeBox.assign($$('a[href$=htmlformTownDistrict]'),{
+            size: {x: 700, y: 420},
+              handler: 'adopt',
+              zIndex: 49,
+              classWindow : 'bgWhite',
+              onOpen: function(content) {
+                form.reinitTownAutocompleter(content.id);
+              },
+              onClose: function(e) {
+                $(e.id).getElements("div").each(function(item) {
+                  $("squeeze-content").adopt($(item.id));
+                });
+              }
+          });
+          SqueezeBox.assign($$('a.boxedRss'), {
+            parse: 'rel'
+          });
+       });
+
+    function updateListSize(value) {
+      $("pageSize").set('value', value);
+      searchFormSubmit(false);
+    }
+
+    // research indica se i risultati di ricerca possono essere presi dalla cache (true), oppure rielaborati (false)
+    function searchFormSubmit(research) {
+      if (research) {
+        $('searchId').set('value','');
+      }
+      $('searchForm').submit();
+    }
+
+    function changeComune() {
+      /*
+      var discrictNodeMission = 'district';
+      var districtNodeMissionForid = 'district_forid';
+      if (!$(discrictNodeMission))
+      {
+        searchFormSubmit(true);
+      };
+      var value = "";
+      var selectedIndex = $(discrictNodeMission).selectedIndex;
+      if (selectedIndex >= 0)
+      {
+        var option = $(discrictNodeMission).options[selectedIndex];
+        value = $(option).get('value');   // wrappata option per ie6
+      }
+      $(districtNodeMissionForid).set('value',value);
+      */
+      SqueezeBox.close();
+      searchFormSubmit(true);
+    }
+
+    function postData(id, field, value) {
+      $(id).set(field, value);
+      searchFormSubmit(true);
+    }
+
+    function changePage(id, field, value) {
+      $(id).set(field, value);
+      searchFormSubmit(false);
+    }
+    
+    </script><div class="searchpResults"><div class="corner_b_sx"><div class="corner_b_dx"><h2 class="search">Affina la tua ricerca</h2><input value="it_236952020" type="hidden" name="searchRequest.searchId" id="searchId" /><input value="" type="hidden" name="search" id="event" /><input value="" type="hidden" name="searchRequest.servicesString" /><input value="" type="hidden" name="searchRequest.servicesFilter" /><input value="acquis" type="hidden" name="searchRequest.mission" /><input value="" type="hidden" name="searchRequest.agencyCode" /><input value="" type="hidden" name="searchRequest.nrooms" id="nrooms" /><input value="" type="hidden" name="searchRequest.services" id="services" /><input value="" type="hidden" name="searchRequest.propertyCategory" id="propertyCategory" /><input value="" type="hidden" name="searchRequest.propertySubType" id="propertySubType" /><input value="" type="hidden" name="zitId" /><p><a class="aggiorna_via_mail iframeLink" href="/site/it/globals/newsletter.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;iframe=true">Aggiornami via mail</a></p><p><a class="savesecure salva_ricerca" href="/secure/actions/savePropertyQuery.action?propertyDetails&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618" rel="nofollow">Salva la ricerca</a></p><fieldset><legend>Destinazione Immobile</legend>Immobile residenziale<input value="CIVIL" type="hidden" name="searchRequest.destinationProperty" /><br/></fieldset><fieldset><legend>Collocazione geografica</legend><label for="townWord">Comune</label>
+              PAVIA
+              <br/><label for="district">Localit&agrave; con immobili</label>
+            
+            <p class="clear">
+                &raquo; 
+                <a href="#htmlformTownDistrict" title="Modifica comune e localita'"><strong> Modifica comune e localita'</strong></a></p><span class="separator_1 clear"></span><div class="for_slider"><label for="radiusKnob">Ampiezza raggio Km</label><span class="show_value"></span><input value="3" name="searchRequest.radius" type="hidden"/><div class="slider"><div class="knob"></div></div></div><div class="clear"></div></fieldset><fieldset><label for="searchRequest.propertyType">Tipologia immobile</label><select style="width: 170px;" name="searchRequest.propertyType" onchange="searchFormSubmit(true)"><option value="">Tutte</option><option value="app">appartamenti</option><option value="vil">ville</option><option value="cas">rustici / cascine / case</option><option value="box">box / posti auto</option><option value="ter">terreno</option></select><div class="clear"></div></fieldset><fieldset class="for_slider"><label>Prezzo
+            &euro; 
+          </label><span class="show_value"></span><input value="0" name="searchRequest.price" type="hidden"/><div class="slider"><div class="knob"></div></div></fieldset><fieldset class="for_slider"><label>Metri quadri</label><span class="show_value"></span><input value="0" name="searchRequest.squareMeters" type="hidden"/><div class="slider"><div class="knob"></div></div></fieldset><fieldset><legend>Numero vani</legend>
+                &raquo; 
+                <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.nrooms=1" rel="nofollow"> 1</a>
+                (6)
+                <br/>
+                &raquo; 
+                <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.nrooms=12" rel="nofollow"> 12</a>
+                (1)
+                <br/>
+                &raquo; 
+                <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.nrooms=2" rel="nofollow"> 2</a>
+                (59)
+                <br/>
+                &raquo; 
+                <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.nrooms=22" rel="nofollow"> 22</a>
+                (1)
+                <br/>
+                &raquo; 
+                <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.nrooms=3" rel="nofollow"> 3</a>
+                (63)
+                <br/>
+                &raquo; 
+                <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.nrooms=4" rel="nofollow"> 4</a>
+                (19)
+                <br/>
+                &raquo; 
+                <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.nrooms=5" rel="nofollow"> 5</a>
+                (5)
+                <br/>
+                &raquo; 
+                <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.nrooms=6" rel="nofollow"> 6</a>
+                (3)
+                <br/>
+                &raquo; 
+                <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.nrooms=7" rel="nofollow"> 7</a>
+                (1)
+                <br/>
+                &raquo; 
+                <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.nrooms=8" rel="nofollow"> 8</a>
+                (1)
+                <br/></fieldset><fieldset class="no_border"><legend>Categoria</legend>
+              &raquo; 
+              <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.propertyCategory=civile" rel="nofollow">
+                  civile
+                </a>
+              (94)
+              <br/>
+              &raquo; 
+              <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.propertyCategory=medio_" rel="nofollow">
+                  media
+                </a>
+              (14)
+              <br/>
+              &raquo; 
+              <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.propertyCategory=popola" rel="nofollow">
+                  popolare
+                </a>
+              (9)
+              <br/>
+              &raquo; 
+              <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.propertyCategory=ringhi" rel="nofollow">
+                  ringhiera
+                </a>
+              (7)
+              <br/>
+              &raquo; 
+              <a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.propertyCategory=signor" rel="nofollow">
+                  signorile
+                </a>
+              (28)
+              <br/></fieldset><div style="display:none;" id="squeeze-content"><div id="htmlformTownDistrict"><h2 style="margin-left:10px; color:#8BC833">Modifica comune e localita'</h2><fieldset><p class="left-float"><label for="townWord">Comune</label><input lang="it" value="PAVIA" name="townWord" type="text"/><input value="13800324508618" type="hidden" name="searchRequest.townId" /><label for="district">Localit&agrave; con immobili</label><input value="" type="hidden" name="districtWord" /><select name="searchRequest.districtId"><option value="">
+                      ---
+                      nessuna localit&agrave;
+                      ---
+                    </option><option value="13800324611540" >BORGO TICINO</option><option value="13800324512699" >FOSSARMATO</option><option value="13800324508618" >PAVIA</option></select><input onclick="changeComune();" value="Cerca" class="button right-float" name="search" type="submit"/></p></fieldset><div data-destinationProperty="CIVIL" data-mission="acquis" class="visibility-hidden" id="grandecitta-data"></div></div></div><p><a class="mod_ricerca" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?form&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;townWord=PAVIA" rel="nofollow">Ricerca avanzata</a></p><span class="separator_1"></span></div></div></div><input value="" type="hidden" name="searchName" id="searchName_event_acquis" /><input value="" type="hidden" name="newsletterSubscription" id="newsletterSubscription_event_acquis" /></div><div id="centerColumn"><div style="height:40px;"></div><h1>Immobili e case in vendita a Pavia</h1><h2></h2><p class="leftmargin_1 foundProperties"><span class="left-float">Sono stati trovati 170 immobili</span><select class="select-order" name="searchRequest.orderCompact" id="searchRequest.orderCompact" onchange="javascript:searchFormSubmit(true);"><option value="">Attinenza</option><option value="DISTRICT_desc">
+          ↑
+          Localita'</option><option value="DISTRICT_asc">
+          ↓
+          Localita'</option><option value="PRICE_desc">
+          ↑
+          Prezzo</option><option value="PRICE_asc">
+          ↓
+          Prezzo</option><option value="SQUARE_METERS_desc">
+          ↑
+          Metri quadri</option><option value="SQUARE_METERS_asc">
+          ↓
+          Metri quadri</option></select><span style="float: right; margin-right: 5px;">Ordina per</span></p><div class="clear"></div><div class="paginator"><div class="searchPaginator"><em class="page ">1</em><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=1" class="page ">
+                2
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=2" class="page ">
+                3
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=3" class="page ">
+                4
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=4" class="page ">
+                5
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=5" class="page ">
+                6
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=6" class="page ">
+                7
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=7" class="page ">
+                8
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=8" class="page noborder">
+                9
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=1" class="next" rel="nofollow">
+            &#155;
+          </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=8" class="next" rel="nofollow">&raquo;</a><select onchange="javascript:searchFormSubmit(false);" name="searchRequest.pageSize"><option value="10">10</option><option selected="selected" value="20">20</option><option value="50">50</option></select></div></div><div class="searchList"><div class="boxImage "><a title="box / posti auto in vendita a PAVIA PAVIA - 21010146" href="/schedaimmobile/21010146.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/docroot/img/no_image_small.jpg" alt="box / posti auto in vendita a PAVIA PAVIA - 21010146"/></a><p><span class="left-float"></span><span class="right-float">Rif.
+                          21010146
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca6" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>box</strong><br/>Mq
+                            17
+                            ca.<br/>Categoria
+                            civile
+                          <br/></p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  16.500</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=21010146&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21010146" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca6&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=21010146" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/21010146.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="box / posti auto in vendita a PAVIA PAVIA - 21010150" href="/schedaimmobile/21010150.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/6207031/15615564.jpg" alt="box / posti auto in vendita a PAVIA PAVIA - 21010150"/></a><p><span class="left-float">
+                            1
+                            foto</span><span class="right-float">Rif.
+                          21010150
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca6" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>box</strong><br/>Mq
+                            15
+                            ca.<br/>Categoria
+                            civile
+                          <br/>
+                                1
+                                vano</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  20.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=21010150&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21010150" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca6&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=21010150" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/21010150.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="box / posti auto in vendita a PAVIA PAVIA - 21010148" href="/schedaimmobile/21010148.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/6207038/15615571.jpg" alt="box / posti auto in vendita a PAVIA PAVIA - 21010148"/></a><p><span class="left-float">
+                            1
+                            foto</span><span class="right-float">Rif.
+                          21010148
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca6" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>box</strong><br/>Mq
+                            33
+                            ca.<br/></p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  35.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=21010148&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21010148" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca6&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=21010148" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/21010148.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 21050238" href="/schedaimmobile/21050238.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/docroot/img/no_image_small.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 21050238"/></a><p class="label">aggiornato</p><p><span class="left-float"></span><span class="right-float">Rif.
+                          21050238
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca4" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>multilocale</strong><br/>Mq
+                            22
+                            ca.<br/>Categoria
+                            civile
+                          <br/>
+                                22
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  50.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=21050238&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21050238" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca4&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=21050238" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/21050238.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 21043904" href="/schedaimmobile/21043904.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/6518696/17444611.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 21043904"/></a><p><span class="left-float">
+                            5
+                            foto</span><span class="right-float">Rif.
+                          21043904
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca5" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>2 locali</strong><br/>Mq
+                            50
+                            ca.<br/>
+                                2
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  55.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=21043904&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21043904" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca5&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=21043904" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/21043904.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 21042538" href="/schedaimmobile/21042538.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/6441202/16988802.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 21042538"/></a><p><span class="left-float">
+                            1
+                            foto</span><span class="right-float">Rif.
+                          21042538
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca3" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>monolocale</strong><br/>Mq
+                            45
+                            ca.<br/>Categoria
+                            media
+                          <br/></p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  60.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=21042538&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21042538" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca3&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=21042538" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/21042538.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 21052576" href="/schedaimmobile/21052576.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/6495318/17298701.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 21052576"/></a><p><span class="left-float">
+                            5
+                            foto</span><span class="right-float">Rif.
+                          21052576
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca5" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>2 locali</strong><br/>Mq
+                            60
+                            ca.<br/>Categoria
+                            media
+                          <br/>
+                                2
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  60.000</strong><br/></p><p class="additional_infos"><span class="planimetria noborder">Planimetria</span></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=21052576&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21052576" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca5&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=21052576" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/21052576.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 21008116" href="/schedaimmobile/21008116.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/6438403/16980850.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 21008116"/></a><p><span class="left-float">
+                            4
+                            foto</span><span class="right-float">Rif.
+                          21008116
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca5" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>monolocale</strong><br/>Mq
+                            30
+                            ca.<br/>Categoria
+                            civile
+                          <br/>
+                                1
+                                vano</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  62.000</strong><br/></p><p class="additional_infos"><span class="planimetria noborder">Planimetria</span></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=21008116&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21008116" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca5&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=21008116" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/21008116.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 20934693" href="/schedaimmobile/20934693.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/6440190/16984292.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 20934693"/></a><p><span class="left-float">
+                            4
+                            foto</span><span class="right-float">Rif.
+                          20934693
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca5" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>2 locali</strong><br/>Mq
+                            55
+                            ca.<br/>Categoria
+                            popolare
+                          <br/>
+                                2
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  65.000</strong><br/></p><p class="additional_infos"><span class="planimetria noborder">Planimetria</span></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=20934693&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=20934693" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca5&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=20934693" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/20934693.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 21022051" href="/schedaimmobile/21022051.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/6343593/16414545.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 21022051"/></a><p><span class="left-float">
+                            5
+                            foto</span><span class="right-float">Rif.
+                          21022051
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca3" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>2 locali</strong><br/>Mq
+                            50
+                            ca.<br/>Categoria
+                            civile
+                          <br/>
+                                2
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  68.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=21022051&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21022051" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca3&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=21022051" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/21022051.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 21039004" href="/schedaimmobile/21039004.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/6396010/17711074.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 21039004"/></a><p><span class="left-float">
+                            3
+                            foto</span><span class="right-float">Rif.
+                          21039004
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca4" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>2 locali</strong><br/>Mq
+                            60
+                            ca.<br/>Categoria
+                            ringhiera
+                          <br/>
+                                2
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  70.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=21039004&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21039004" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca4&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=21039004" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/21039004.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 20987632" href="/schedaimmobile/20987632.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/6055241/14780960.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 20987632"/></a><p><span class="left-float">
+                            4
+                            foto</span><span class="right-float">Rif.
+                          20987632
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca3" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>monolocale</strong><br/>Mq
+                            45
+                            ca.<br/>Categoria
+                            civile
+                          <br/>
+                                1
+                                vano</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  78.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=20987632&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=20987632" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca3&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=20987632" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/20987632.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 20960015" href="/schedaimmobile/20960015.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/6251955/15892401.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 20960015"/></a><p><span class="left-float">
+                            4
+                            foto</span><span class="right-float">Rif.
+                          20960015
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca5" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>monolocale</strong><br/>Mq
+                            40
+                            ca.<br/></p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  80.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=20960015&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=20960015" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca5&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=20960015" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/20960015.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 21016991" href="/schedaimmobile/21016991.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/6252228/17684908.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 21016991"/></a><p><span class="left-float">
+                            5
+                            foto</span><span class="right-float">Rif.
+                          21016991
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca6" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>2 locali</strong><br/>Mq
+                            50
+                            ca.<br/>Categoria
+                            civile
+                          <br/>
+                                2
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  80.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=21016991&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21016991" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca6&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=21016991" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/21016991.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 20909327" href="/schedaimmobile/20909327.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/5536007/13331934.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 20909327"/></a><p><span class="left-float">
+                            6
+                            foto</span><span class="right-float">Rif.
+                          20909327
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca3" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>2 locali</strong><br/>Mq
+                            50
+                            ca.<br/>Categoria
+                            civile
+                          <br/>
+                                2
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  83.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=20909327&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=20909327" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca3&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=20909327" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/20909327.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 20420910" href="/schedaimmobile/20420910.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/5898969/14270740.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 20420910"/></a><p><span class="left-float">
+                            5
+                            foto</span><span class="right-float">Rif.
+                          20420910
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca3" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>2 locali</strong><br/>Mq
+                            60
+                            ca.<br/>Categoria
+                            civile
+                          <br/>
+                                2
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  85.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=20420910&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=20420910" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca3&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=20420910" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/20420910.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 21062144" href="/schedaimmobile/21062144.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/docroot/img/no_image_small.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 21062144"/></a><p><span class="left-float"></span><span class="right-float">Rif.
+                          21062144
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca5" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>2 locali</strong><br/>Mq
+                            50
+                            ca.<br/>Categoria
+                            popolare
+                          <br/>
+                                2
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  85.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=21062144&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21062144" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca5&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=21062144" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/21062144.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 20943120" href="/schedaimmobile/20943120.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/5740250/14638663.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 20943120"/></a><p><span class="left-float">
+                            5
+                            foto</span><span class="right-float">Rif.
+                          20943120
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca6" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>2 locali</strong><br/>Mq
+                            75
+                            ca.<br/>Categoria
+                            civile
+                          <br/>
+                                2
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  85.000</strong><br/></p><p class="additional_infos"></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=20943120&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=20943120" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca6&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=20943120" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/20943120.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 20673273" href="/schedaimmobile/20673273.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/4159978/13130302.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 20673273"/></a><p><span class="left-float">
+                            5
+                            foto</span><span class="right-float">Rif.
+                          20673273
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca3" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>3 locali</strong><br/>Mq
+                            80
+                            ca.<br/>Categoria
+                            civile
+                          <br/>
+                                3
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  85.000</strong><br/></p><p class="additional_infos"><span class="planimetria noborder">Planimetria</span></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=20673273&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=20673273" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca3&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=20673273" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/20673273.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="searchList"><div class="boxImage "><a title="appartamenti in vendita a PAVIA PAVIA - 20837918" href="/schedaimmobile/20837918.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"><img src="/immobile/immagine/small/5099559/13883743.jpg" alt="appartamenti in vendita a PAVIA PAVIA - 20837918"/></a><p><span class="left-float">
+                            5
+                            foto</span><span class="right-float">Rif.
+                          20837918
+                        </span></p></div><div class="content-list"><p><span class="ranking">
+                          100%
+                        </span><strong>
+                          PAVIA
+                          - PAVIA</strong><span title="AJAX:/actions/searchPropertyResult.action?getAgencyDetail=true&amp;agencyId=pvca3" class="tec icon tooltip"></span></p><div style="min-height: 60px;"><p style="float:left;width:44%;"><strong>2 locali</strong><br/>Mq
+                            60
+                            ca.<br/>Categoria
+                            civile
+                          <br/>
+                                2
+                                vani</p><p style="float:right; width: 56%;"><strong>Prezzo
+                                  : &euro;
+                                  86.000</strong><br/></p><p class="additional_infos"><span class="planimetria noborder">Planimetria</span></p></div><div class="compare_button"><a title="Confronta immobile" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;score=100&amp;propertyId=20837918&amp;addPtoC" rel="nofollow"> Confronta immobile</a></div><div class="clear"></div></div><div class="clear"></div><ul><li class="first"><a title="Salva in MY Home" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=20837918" class="savesecure add" rel="nofollow"> Salva in MY Home</a></li><li><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca3&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;propertyId=20837918" rel="nofollow"> Richiedi immobile</a></li><li><a title="Scheda immobile" href="/schedaimmobile/20837918.html?searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro"> Scheda immobile</a></li><li class="last"><a class="no_note" href="javascript:void(0)" title="Puoi aggiungere una nota personale solo se l'immobile &egrave; stato salvato nella MYHome" rel="nofollow">Nota</a></li></ul><hr class="hidden"/><div class="corner_b_sx clear"></div><div class="clear"></div></div><span class="separator_2"></span><div class="paginator"><div class="searchPaginator"><em class="page ">1</em><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=1" class="page ">
+                2
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=2" class="page ">
+                3
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=3" class="page ">
+                4
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=4" class="page ">
+                5
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=5" class="page ">
+                6
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=6" class="page ">
+                7
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=7" class="page ">
+                8
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=8" class="page noborder">
+                9
+              </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=1" class="next" rel="nofollow">
+            &#155;
+          </a><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=20&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=8" class="next" rel="nofollow">&raquo;</a><select onchange="javascript:searchFormSubmit(false);" name="searchRequest.pageSize"><option value="10">10</option><option selected="selected" value="20">20</option><option value="50">50</option></select></div></div></div><div style="display: none;"><input type="hidden" name="_sourcePage" value="aXiEjHo4lmI0NflvNCANSGcgMCBn3va6cxw7QCWNvFBZr24NyJ65RnmCJ-v8zcxeqbt4JjzGFBM=" /><input type="hidden" name="__fp" value="TYEc0S7H3MRP9TMdbnoow6c5D1ALT6lRanGzZwgC8YLnzPD_M3PAUIsZnkC4u2Xd9DIj0EbGopCP7j-cbf_9Aw==" /></div></form><div class="taxonomy_links"><div id="missionList"><span class="taxonomy_selected">CONTRATTO</span><p class="taxonomy_paragraph"><a class="selected" href="/annunci/immobili/lombardia/pavia.html" title="Immobili e case in vendita a Pavia - (Pavia) – Tecnocasa">Acquisto residenziale</a><a class="" href="/case+vacanze/immobili/lombardia/pavia.html" title="Case vacanze in vendita a Pavia - (Pavia) - Tecnocasa">Acquisto turistico</a><a class="" href="/annunci+commerciali/immobili+commerciali/lombardia/pavia.html" title="Immobili industriali in vendita a Pavia - (Pavia) - Tecnocasa">Acquisto industriale</a><a class="" href="/affitto/immobili/lombardia/pavia.html" title="Immobili e case in affitto a Pavia – Tecnocasa">Affitto residenziale</a><a class="" href="/affitto+vacanze/immobili/lombardia/pavia.html" title="Case vacanze in affitto a Pavia - Tecnocasa">Affitto turistico</a><a class="" href="/affitto+commerciale/immobili+commerciali/lombardia/pavia.html" title="Immobili industriali in affitto a Pavia - Tecnocasa">Affitto industriale</a></p></div><div id="typeList"><span class="taxonomy_selected">TIPOLOGIE</span><p class="taxonomy_paragraph"><a class="selected" href="/annunci/immobili/lombardia/pavia.html"
+              title="Immobili e case in vendita a Pavia - (Pavia) – Tecnocasa">Tutte</a><a class="" href="/annunci/appartamenti/lombardia/pavia.html"
+              title="Appartamenti in vendita a Pavia - (Pavia) – Tecnocasa">appartamenti</a><a class="" href="/annunci/villa/lombardia/pavia.html"
+              title="Ville in vendita a Pavia - (Pavia) – Tecnocasa">ville</a><a class="" href="/annunci/rustico+cascina/lombardia/pavia.html"
+              title="Rustici, cascine e casali in vendita a Pavia - (Pavia) – Tecnocasa">rustici / cascine / case</a><a class="" href="/annunci/box/lombardia/pavia.html"
+              title="Box auto e garage in vendita a Pavia - (Pavia) – Tecnocasa">box / posti auto</a><a class="" href="/annunci/terreni/lombardia/pavia.html"
+              title="Terreni edificabili e agricoli in vendita a Pavia - (Pavia) – Tecnocasa">terreno</a></p></div><div id="districtList"><span class="taxonomy_selected_lower region">Località nel comune di
+            Pavia
+          </span><p class="taxonomy_paragraph towns"><a class="" href="/annunci/immobili/lombardia/pavia/pavia/albertario.html"
+              title="Vendita immobili e case a Albertario- Pavia – Tecnocasa">
+                Case in vendita Albertario
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/battella.html"
+              title="Vendita immobili e case a Battella- Pavia – Tecnocasa">
+                Case in vendita Battella
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/bellaria.html"
+              title="Vendita immobili e case a Bellaria- Pavia – Tecnocasa">
+                Case in vendita Bellaria
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/belvedere.html"
+              title="Vendita immobili e case a Belvedere- Pavia – Tecnocasa">
+                Case in vendita Belvedere
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/borgo+ticino.html"
+              title="Vendita immobili e case a Borgo ticino- Pavia – Tecnocasa">
+                Case in vendita Borgo Ticino
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/ca%27+della+terra.html"
+              title="Vendita immobili e case a Ca' della terra- Pavia – Tecnocasa">
+                Case in vendita Ca' Della Terra
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/campeggi.html"
+              title="Vendita immobili e case a Campeggi- Pavia – Tecnocasa">
+                Case in vendita Campeggi
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/cascina+scagliona.html"
+              title="Vendita immobili e case a Cascina scagliona- Pavia – Tecnocasa">
+                Case in vendita Cascina Scagliona
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/cascina+scarpona.html"
+              title="Vendita immobili e case a Cascina scarpona- Pavia – Tecnocasa">
+                Case in vendita Cascina Scarpona
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/casino.html"
+              title="Vendita immobili e case a Casino- Pavia – Tecnocasa">
+                Case in vendita Casino
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/cassinello.html"
+              title="Vendita immobili e case a Cassinello- Pavia – Tecnocasa">
+                Case in vendita Cassinello
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/cassinino.html"
+              title="Vendita immobili e case a Cassinino- Pavia – Tecnocasa">
+                Case in vendita Cassinino
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/cittadella.html"
+              title="Vendita immobili e case a Cittadella- Pavia – Tecnocasa">
+                Case in vendita Cittadella
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/cornaiano.html"
+              title="Vendita immobili e case a Cornaiano- Pavia – Tecnocasa">
+                Case in vendita Cornaiano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/fossarmato.html"
+              title="Vendita immobili e case a Fossarmato- Pavia – Tecnocasa">
+                Case in vendita Fossarmato
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/mirabello.html"
+              title="Vendita immobili e case a Mirabello- Pavia – Tecnocasa">
+                Case in vendita Mirabello
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/montebellino.html"
+              title="Vendita immobili e case a Montebellino- Pavia – Tecnocasa">
+                Case in vendita Montebellino
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/motta.html"
+              title="Vendita immobili e case a Motta- Pavia – Tecnocasa">
+                Case in vendita Motta
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/pantaleona.html"
+              title="Vendita immobili e case a Pantaleona- Pavia – Tecnocasa">
+                Case in vendita Pantaleona
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia.html"
+              title="Vendita immobili e case a Pavia- Pavia – Tecnocasa">
+                Case in vendita Pavia
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/rizza.html"
+              title="Vendita immobili e case a Rizza- Pavia – Tecnocasa">
+                Case in vendita Rizza
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/rottone.html"
+              title="Vendita immobili e case a Rottone- Pavia – Tecnocasa">
+                Case in vendita Rottone
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/san+pietro.html"
+              title="Vendita immobili e case a San pietro- Pavia – Tecnocasa">
+                Case in vendita San Pietro
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/sirigari.html"
+              title="Vendita immobili e case a Sirigari- Pavia – Tecnocasa">
+                Case in vendita Sirigari
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/stefanini.html"
+              title="Vendita immobili e case a Stefanini- Pavia – Tecnocasa">
+                Case in vendita Stefanini
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/torretta.html"
+              title="Vendita immobili e case a Torretta- Pavia – Tecnocasa">
+                Case in vendita Torretta
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/vigne+di+fossarmato.html"
+              title="Vendita immobili e case a Vigne di fossarmato- Pavia – Tecnocasa">
+                Case in vendita Vigne Di Fossarmato
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/vignolo.html"
+              title="Vendita immobili e case a Vignolo- Pavia – Tecnocasa">
+                Case in vendita Vignolo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pavia/villalunga.html"
+              title="Vendita immobili e case a Villalunga- Pavia – Tecnocasa">
+                Case in vendita Villalunga
+              </a></p></div><div id="townList"><span class="taxonomy_selected_lower region">Comuni in provincia di
+            Pavia
+          </span><p class="taxonomy_paragraph towns"><a class="" href="/annunci/immobili/lombardia/pavia/alagna.html"
+              title="Immobili e case in vendita a Alagna - (Pavia) – Tecnocasa">
+                Case in vendita Alagna
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/albaredo+arnaboldi.html"
+              title="Immobili e case in vendita a Albaredo arnaboldi - (Pavia) – Tecnocasa">
+                Case in vendita Albaredo Arnaboldi
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/albonese.html"
+              title="Immobili e case in vendita a Albonese - (Pavia) – Tecnocasa">
+                Case in vendita Albonese
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/albuzzano.html"
+              title="Immobili e case in vendita a Albuzzano - (Pavia) – Tecnocasa">
+                Case in vendita Albuzzano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/arena+po.html"
+              title="Immobili e case in vendita a Arena po - (Pavia) – Tecnocasa">
+                Case in vendita Arena Po
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/badia+pavese.html"
+              title="Immobili e case in vendita a Badia pavese - (Pavia) – Tecnocasa">
+                Case in vendita Badia Pavese
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/bagnaria.html"
+              title="Immobili e case in vendita a Bagnaria - (Pavia) – Tecnocasa">
+                Case in vendita Bagnaria
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/barbianello.html"
+              title="Immobili e case in vendita a Barbianello - (Pavia) – Tecnocasa">
+                Case in vendita Barbianello
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/bascap%C3%A8.html"
+              title="Immobili e case in vendita a Bascapè - (Pavia) – Tecnocasa">
+                Case in vendita Bascapè
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/bastida+de%27+dossi.html"
+              title="Immobili e case in vendita a Bastida de' dossi - (Pavia) – Tecnocasa">
+                Case in vendita Bastida De' Dossi
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/bastida+pancarana.html"
+              title="Immobili e case in vendita a Bastida pancarana - (Pavia) – Tecnocasa">
+                Case in vendita Bastida Pancarana
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/battuda.html"
+              title="Immobili e case in vendita a Battuda - (Pavia) – Tecnocasa">
+                Case in vendita Battuda
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/belgioioso.html"
+              title="Immobili e case in vendita a Belgioioso - (Pavia) – Tecnocasa">
+                Case in vendita Belgioioso
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/bereguardo.html"
+              title="Immobili e case in vendita a Bereguardo - (Pavia) – Tecnocasa">
+                Case in vendita Bereguardo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/borgarello.html"
+              title="Immobili e case in vendita a Borgarello - (Pavia) – Tecnocasa">
+                Case in vendita Borgarello
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/borgo+priolo.html"
+              title="Immobili e case in vendita a Borgo priolo - (Pavia) – Tecnocasa">
+                Case in vendita Borgo Priolo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/borgo+san+siro.html"
+              title="Immobili e case in vendita a Borgo san siro - (Pavia) – Tecnocasa">
+                Case in vendita Borgo San Siro
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/borgoratto+mormorolo.html"
+              title="Immobili e case in vendita a Borgoratto mormorolo - (Pavia) – Tecnocasa">
+                Case in vendita Borgoratto Mormorolo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/bornasco.html"
+              title="Immobili e case in vendita a Bornasco - (Pavia) – Tecnocasa">
+                Case in vendita Bornasco
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/bosnasco.html"
+              title="Immobili e case in vendita a Bosnasco - (Pavia) – Tecnocasa">
+                Case in vendita Bosnasco
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/brallo+di+pregola.html"
+              title="Immobili e case in vendita a Brallo di pregola - (Pavia) – Tecnocasa">
+                Case in vendita Brallo Di Pregola
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/breme.html"
+              title="Immobili e case in vendita a Breme - (Pavia) – Tecnocasa">
+                Case in vendita Breme
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/bressana+bottarone.html"
+              title="Immobili e case in vendita a Bressana bottarone - (Pavia) – Tecnocasa">
+                Case in vendita Bressana Bottarone
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/broni.html"
+              title="Immobili e case in vendita a Broni - (Pavia) – Tecnocasa">
+                Case in vendita Broni
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/calvignano.html"
+              title="Immobili e case in vendita a Calvignano - (Pavia) – Tecnocasa">
+                Case in vendita Calvignano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/campospinoso.html"
+              title="Immobili e case in vendita a Campospinoso - (Pavia) – Tecnocasa">
+                Case in vendita Campospinoso
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/candia+lomellina.html"
+              title="Immobili e case in vendita a Candia lomellina - (Pavia) – Tecnocasa">
+                Case in vendita Candia Lomellina
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/canevino.html"
+              title="Immobili e case in vendita a Canevino - (Pavia) – Tecnocasa">
+                Case in vendita Canevino
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/canneto+pavese.html"
+              title="Immobili e case in vendita a Canneto pavese - (Pavia) – Tecnocasa">
+                Case in vendita Canneto Pavese
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/carbonara+al+ticino.html"
+              title="Immobili e case in vendita a Carbonara al ticino - (Pavia) – Tecnocasa">
+                Case in vendita Carbonara Al Ticino
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/casanova+lonati.html"
+              title="Immobili e case in vendita a Casanova lonati - (Pavia) – Tecnocasa">
+                Case in vendita Casanova Lonati
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/casatisma.html"
+              title="Immobili e case in vendita a Casatisma - (Pavia) – Tecnocasa">
+                Case in vendita Casatisma
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/casei+gerola.html"
+              title="Immobili e case in vendita a Casei gerola - (Pavia) – Tecnocasa">
+                Case in vendita Casei Gerola
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/casorate+primo.html"
+              title="Immobili e case in vendita a Casorate primo - (Pavia) – Tecnocasa">
+                Case in vendita Casorate Primo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/cassolnovo.html"
+              title="Immobili e case in vendita a Cassolnovo - (Pavia) – Tecnocasa">
+                Case in vendita Cassolnovo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/castana.html"
+              title="Immobili e case in vendita a Castana - (Pavia) – Tecnocasa">
+                Case in vendita Castana
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/casteggio.html"
+              title="Immobili e case in vendita a Casteggio - (Pavia) – Tecnocasa">
+                Case in vendita Casteggio
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/castelletto+di+branduzzo.html"
+              title="Immobili e case in vendita a Castelletto di branduzzo - (Pavia) – Tecnocasa">
+                Case in vendita Castelletto Di Branduzzo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/castello+d%27agogna.html"
+              title="Immobili e case in vendita a Castello d'agogna - (Pavia) – Tecnocasa">
+                Case in vendita Castello D'agogna
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/castelnovetto.html"
+              title="Immobili e case in vendita a Castelnovetto - (Pavia) – Tecnocasa">
+                Case in vendita Castelnovetto
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/cava+manara.html"
+              title="Immobili e case in vendita a Cava manara - (Pavia) – Tecnocasa">
+                Case in vendita Cava Manara
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/cecima.html"
+              title="Immobili e case in vendita a Cecima - (Pavia) – Tecnocasa">
+                Case in vendita Cecima
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/ceranova.html"
+              title="Immobili e case in vendita a Ceranova - (Pavia) – Tecnocasa">
+                Case in vendita Ceranova
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/ceretto+lomellina.html"
+              title="Immobili e case in vendita a Ceretto lomellina - (Pavia) – Tecnocasa">
+                Case in vendita Ceretto Lomellina
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/cergnago.html"
+              title="Immobili e case in vendita a Cergnago - (Pavia) – Tecnocasa">
+                Case in vendita Cergnago
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/certosa+di+pavia.html"
+              title="Immobili e case in vendita a Certosa di pavia - (Pavia) – Tecnocasa">
+                Case in vendita Certosa Di Pavia
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/cervesina.html"
+              title="Immobili e case in vendita a Cervesina - (Pavia) – Tecnocasa">
+                Case in vendita Cervesina
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/chignolo+po.html"
+              title="Immobili e case in vendita a Chignolo po - (Pavia) – Tecnocasa">
+                Case in vendita Chignolo Po
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/cigognola.html"
+              title="Immobili e case in vendita a Cigognola - (Pavia) – Tecnocasa">
+                Case in vendita Cigognola
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/cilavegna.html"
+              title="Immobili e case in vendita a Cilavegna - (Pavia) – Tecnocasa">
+                Case in vendita Cilavegna
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/codevilla.html"
+              title="Immobili e case in vendita a Codevilla - (Pavia) – Tecnocasa">
+                Case in vendita Codevilla
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/confienza.html"
+              title="Immobili e case in vendita a Confienza - (Pavia) – Tecnocasa">
+                Case in vendita Confienza
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/copiano.html"
+              title="Immobili e case in vendita a Copiano - (Pavia) – Tecnocasa">
+                Case in vendita Copiano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/corana.html"
+              title="Immobili e case in vendita a Corana - (Pavia) – Tecnocasa">
+                Case in vendita Corana
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/cornale.html"
+              title="Immobili e case in vendita a Cornale - (Pavia) – Tecnocasa">
+                Case in vendita Cornale
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/corteolona.html"
+              title="Immobili e case in vendita a Corteolona - (Pavia) – Tecnocasa">
+                Case in vendita Corteolona
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/corvino+san+quirico.html"
+              title="Immobili e case in vendita a Corvino san quirico - (Pavia) – Tecnocasa">
+                Case in vendita Corvino San Quirico
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/costa+de%27+nobili.html"
+              title="Immobili e case in vendita a Costa de' nobili - (Pavia) – Tecnocasa">
+                Case in vendita Costa De' Nobili
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/cozzo.html"
+              title="Immobili e case in vendita a Cozzo - (Pavia) – Tecnocasa">
+                Case in vendita Cozzo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/cura+carpignano.html"
+              title="Immobili e case in vendita a Cura carpignano - (Pavia) – Tecnocasa">
+                Case in vendita Cura Carpignano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/dorno.html"
+              title="Immobili e case in vendita a Dorno - (Pavia) – Tecnocasa">
+                Case in vendita Dorno
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/ferrera+erbognone.html"
+              title="Immobili e case in vendita a Ferrera erbognone - (Pavia) – Tecnocasa">
+                Case in vendita Ferrera Erbognone
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/filighera.html"
+              title="Immobili e case in vendita a Filighera - (Pavia) – Tecnocasa">
+                Case in vendita Filighera
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/fortunago.html"
+              title="Immobili e case in vendita a Fortunago - (Pavia) – Tecnocasa">
+                Case in vendita Fortunago
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/frascarolo.html"
+              title="Immobili e case in vendita a Frascarolo - (Pavia) – Tecnocasa">
+                Case in vendita Frascarolo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/galliavola.html"
+              title="Immobili e case in vendita a Galliavola - (Pavia) – Tecnocasa">
+                Case in vendita Galliavola
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/gambarana.html"
+              title="Immobili e case in vendita a Gambarana - (Pavia) – Tecnocasa">
+                Case in vendita Gambarana
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/gambol%C3%B2.html"
+              title="Immobili e case in vendita a Gambolò - (Pavia) – Tecnocasa">
+                Case in vendita Gambolò
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/garlasco.html"
+              title="Immobili e case in vendita a Garlasco - (Pavia) – Tecnocasa">
+                Case in vendita Garlasco
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/genzone.html"
+              title="Immobili e case in vendita a Genzone - (Pavia) – Tecnocasa">
+                Case in vendita Genzone
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/gerenzago.html"
+              title="Immobili e case in vendita a Gerenzago - (Pavia) – Tecnocasa">
+                Case in vendita Gerenzago
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/giussago.html"
+              title="Immobili e case in vendita a Giussago - (Pavia) – Tecnocasa">
+                Case in vendita Giussago
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/godiasco.html"
+              title="Immobili e case in vendita a Godiasco - (Pavia) – Tecnocasa">
+                Case in vendita Godiasco
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/golferenzo.html"
+              title="Immobili e case in vendita a Golferenzo - (Pavia) – Tecnocasa">
+                Case in vendita Golferenzo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/gravellona+lomellina.html"
+              title="Immobili e case in vendita a Gravellona lomellina - (Pavia) – Tecnocasa">
+                Case in vendita Gravellona Lomellina
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/gropello+cairoli.html"
+              title="Immobili e case in vendita a Gropello cairoli - (Pavia) – Tecnocasa">
+                Case in vendita Gropello Cairoli
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/inverno+e+monteleone.html"
+              title="Immobili e case in vendita a Inverno e monteleone - (Pavia) – Tecnocasa">
+                Case in vendita Inverno E Monteleone
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/landriano.html"
+              title="Immobili e case in vendita a Landriano - (Pavia) – Tecnocasa">
+                Case in vendita Landriano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/langosco.html"
+              title="Immobili e case in vendita a Langosco - (Pavia) – Tecnocasa">
+                Case in vendita Langosco
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/lardirago.html"
+              title="Immobili e case in vendita a Lardirago - (Pavia) – Tecnocasa">
+                Case in vendita Lardirago
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/linarolo.html"
+              title="Immobili e case in vendita a Linarolo - (Pavia) – Tecnocasa">
+                Case in vendita Linarolo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/lirio.html"
+              title="Immobili e case in vendita a Lirio - (Pavia) – Tecnocasa">
+                Case in vendita Lirio
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/lomello.html"
+              title="Immobili e case in vendita a Lomello - (Pavia) – Tecnocasa">
+                Case in vendita Lomello
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/lungavilla.html"
+              title="Immobili e case in vendita a Lungavilla - (Pavia) – Tecnocasa">
+                Case in vendita Lungavilla
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/magherno.html"
+              title="Immobili e case in vendita a Magherno - (Pavia) – Tecnocasa">
+                Case in vendita Magherno
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/marcignago.html"
+              title="Immobili e case in vendita a Marcignago - (Pavia) – Tecnocasa">
+                Case in vendita Marcignago
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/marzano.html"
+              title="Immobili e case in vendita a Marzano - (Pavia) – Tecnocasa">
+                Case in vendita Marzano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/mede.html"
+              title="Immobili e case in vendita a Mede - (Pavia) – Tecnocasa">
+                Case in vendita Mede
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/menconico.html"
+              title="Immobili e case in vendita a Menconico - (Pavia) – Tecnocasa">
+                Case in vendita Menconico
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/mezzana+bigli.html"
+              title="Immobili e case in vendita a Mezzana bigli - (Pavia) – Tecnocasa">
+                Case in vendita Mezzana Bigli
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/mezzana+rabattone.html"
+              title="Immobili e case in vendita a Mezzana rabattone - (Pavia) – Tecnocasa">
+                Case in vendita Mezzana Rabattone
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/mezzanino.html"
+              title="Immobili e case in vendita a Mezzanino - (Pavia) – Tecnocasa">
+                Case in vendita Mezzanino
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/miradolo+terme.html"
+              title="Immobili e case in vendita a Miradolo terme - (Pavia) – Tecnocasa">
+                Case in vendita Miradolo Terme
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/montalto+pavese.html"
+              title="Immobili e case in vendita a Montalto pavese - (Pavia) – Tecnocasa">
+                Case in vendita Montalto Pavese
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/montebello+della+battaglia.html"
+              title="Immobili e case in vendita a Montebello della battaglia - (Pavia) – Tecnocasa">
+                Case in vendita Montebello Della Battaglia
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/montecalvo+versiggia.html"
+              title="Immobili e case in vendita a Montecalvo versiggia - (Pavia) – Tecnocasa">
+                Case in vendita Montecalvo Versiggia
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/montescano.html"
+              title="Immobili e case in vendita a Montescano - (Pavia) – Tecnocasa">
+                Case in vendita Montescano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/montesegale.html"
+              title="Immobili e case in vendita a Montesegale - (Pavia) – Tecnocasa">
+                Case in vendita Montesegale
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/monticelli+pavese.html"
+              title="Immobili e case in vendita a Monticelli pavese - (Pavia) – Tecnocasa">
+                Case in vendita Monticelli Pavese
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/mont%C3%B9+beccaria.html"
+              title="Immobili e case in vendita a Montù beccaria - (Pavia) – Tecnocasa">
+                Case in vendita Montù Beccaria
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/mornico+losana.html"
+              title="Immobili e case in vendita a Mornico losana - (Pavia) – Tecnocasa">
+                Case in vendita Mornico Losana
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/mortara.html"
+              title="Immobili e case in vendita a Mortara - (Pavia) – Tecnocasa">
+                Case in vendita Mortara
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/nicorvo.html"
+              title="Immobili e case in vendita a Nicorvo - (Pavia) – Tecnocasa">
+                Case in vendita Nicorvo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/olevano+di+lomellina.html"
+              title="Immobili e case in vendita a Olevano di lomellina - (Pavia) – Tecnocasa">
+                Case in vendita Olevano Di Lomellina
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/oliva+gessi.html"
+              title="Immobili e case in vendita a Oliva gessi - (Pavia) – Tecnocasa">
+                Case in vendita Oliva Gessi
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/ottobiano.html"
+              title="Immobili e case in vendita a Ottobiano - (Pavia) – Tecnocasa">
+                Case in vendita Ottobiano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/palestro.html"
+              title="Immobili e case in vendita a Palestro - (Pavia) – Tecnocasa">
+                Case in vendita Palestro
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pancarana.html"
+              title="Immobili e case in vendita a Pancarana - (Pavia) – Tecnocasa">
+                Case in vendita Pancarana
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/parona.html"
+              title="Immobili e case in vendita a Parona - (Pavia) – Tecnocasa">
+                Case in vendita Parona
+              </a><a class="selected" href="/annunci/immobili/lombardia/pavia.html"
+              title="Immobili e case in vendita a Pavia - (Pavia) – Tecnocasa">
+                Case in vendita Pavia
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pietra+de%27+giorgi.html"
+              title="Immobili e case in vendita a Pietra de' giorgi - (Pavia) – Tecnocasa">
+                Case in vendita Pietra De' Giorgi
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pieve+albignola.html"
+              title="Immobili e case in vendita a Pieve albignola - (Pavia) – Tecnocasa">
+                Case in vendita Pieve Albignola
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pieve+del+cairo.html"
+              title="Immobili e case in vendita a Pieve del cairo - (Pavia) – Tecnocasa">
+                Case in vendita Pieve Del Cairo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pieve+porto+morone.html"
+              title="Immobili e case in vendita a Pieve porto morone - (Pavia) – Tecnocasa">
+                Case in vendita Pieve Porto Morone
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pinarolo+po.html"
+              title="Immobili e case in vendita a Pinarolo po - (Pavia) – Tecnocasa">
+                Case in vendita Pinarolo Po
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/pizzale.html"
+              title="Immobili e case in vendita a Pizzale - (Pavia) – Tecnocasa">
+                Case in vendita Pizzale
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/ponte+nizza.html"
+              title="Immobili e case in vendita a Ponte nizza - (Pavia) – Tecnocasa">
+                Case in vendita Ponte Nizza
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/portalbera.html"
+              title="Immobili e case in vendita a Portalbera - (Pavia) – Tecnocasa">
+                Case in vendita Portalbera
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/rea.html"
+              title="Immobili e case in vendita a Rea - (Pavia) – Tecnocasa">
+                Case in vendita Rea
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/redavalle.html"
+              title="Immobili e case in vendita a Redavalle - (Pavia) – Tecnocasa">
+                Case in vendita Redavalle
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/retorbido.html"
+              title="Immobili e case in vendita a Retorbido - (Pavia) – Tecnocasa">
+                Case in vendita Retorbido
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/rivanazzano.html"
+              title="Immobili e case in vendita a Rivanazzano - (Pavia) – Tecnocasa">
+                Case in vendita Rivanazzano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/robbio.html"
+              title="Immobili e case in vendita a Robbio - (Pavia) – Tecnocasa">
+                Case in vendita Robbio
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/robecco+pavese.html"
+              title="Immobili e case in vendita a Robecco pavese - (Pavia) – Tecnocasa">
+                Case in vendita Robecco Pavese
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/rocca+de%27+giorgi.html"
+              title="Immobili e case in vendita a Rocca de' giorgi - (Pavia) – Tecnocasa">
+                Case in vendita Rocca De' Giorgi
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/rocca+susella.html"
+              title="Immobili e case in vendita a Rocca susella - (Pavia) – Tecnocasa">
+                Case in vendita Rocca Susella
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/rognano.html"
+              title="Immobili e case in vendita a Rognano - (Pavia) – Tecnocasa">
+                Case in vendita Rognano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/romagnese.html"
+              title="Immobili e case in vendita a Romagnese - (Pavia) – Tecnocasa">
+                Case in vendita Romagnese
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/roncaro.html"
+              title="Immobili e case in vendita a Roncaro - (Pavia) – Tecnocasa">
+                Case in vendita Roncaro
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/rosasco.html"
+              title="Immobili e case in vendita a Rosasco - (Pavia) – Tecnocasa">
+                Case in vendita Rosasco
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/rovescala.html"
+              title="Immobili e case in vendita a Rovescala - (Pavia) – Tecnocasa">
+                Case in vendita Rovescala
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/ruino.html"
+              title="Immobili e case in vendita a Ruino - (Pavia) – Tecnocasa">
+                Case in vendita Ruino
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/san+cipriano+po.html"
+              title="Immobili e case in vendita a San cipriano po - (Pavia) – Tecnocasa">
+                Case in vendita San Cipriano Po
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/san+damiano+al+colle.html"
+              title="Immobili e case in vendita a San damiano al colle - (Pavia) – Tecnocasa">
+                Case in vendita San Damiano Al Colle
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/san+genesio+ed+uniti.html"
+              title="Immobili e case in vendita a San genesio ed uniti - (Pavia) – Tecnocasa">
+                Case in vendita San Genesio Ed Uniti
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/san+giorgio+di+lomellina.html"
+              title="Immobili e case in vendita a San giorgio di lomellina - (Pavia) – Tecnocasa">
+                Case in vendita San Giorgio Di Lomellina
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/san+martino+siccomario.html"
+              title="Immobili e case in vendita a San martino siccomario - (Pavia) – Tecnocasa">
+                Case in vendita San Martino Siccomario
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/san+zenone+al+po.html"
+              title="Immobili e case in vendita a San zenone al po - (Pavia) – Tecnocasa">
+                Case in vendita San Zenone Al Po
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/sannazzaro+de%27+burgondi.html"
+              title="Immobili e case in vendita a Sannazzaro de' burgondi - (Pavia) – Tecnocasa">
+                Case in vendita Sannazzaro De' Burgondi
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/santa+cristina+e+bissone.html"
+              title="Immobili e case in vendita a Santa cristina e bissone - (Pavia) – Tecnocasa">
+                Case in vendita Santa Cristina E Bissone
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/santa+giuletta.html"
+              title="Immobili e case in vendita a Santa giuletta - (Pavia) – Tecnocasa">
+                Case in vendita Santa Giuletta
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/santa+margherita+di+staffora.html"
+              title="Immobili e case in vendita a Santa margherita di staffora - (Pavia) – Tecnocasa">
+                Case in vendita Santa Margherita Di Staffora
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/santa+maria+della+versa.html"
+              title="Immobili e case in vendita a Santa maria della versa - (Pavia) – Tecnocasa">
+                Case in vendita Santa Maria Della Versa
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/sant%27alessio+con+vialone.html"
+              title="Immobili e case in vendita a Sant'alessio con vialone - (Pavia) – Tecnocasa">
+                Case in vendita Sant'alessio Con Vialone
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/sant%27angelo+lomellina.html"
+              title="Immobili e case in vendita a Sant'angelo lomellina - (Pavia) – Tecnocasa">
+                Case in vendita Sant'angelo Lomellina
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/sartirana+lomellina.html"
+              title="Immobili e case in vendita a Sartirana lomellina - (Pavia) – Tecnocasa">
+                Case in vendita Sartirana Lomellina
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/scaldasole.html"
+              title="Immobili e case in vendita a Scaldasole - (Pavia) – Tecnocasa">
+                Case in vendita Scaldasole
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/semiana.html"
+              title="Immobili e case in vendita a Semiana - (Pavia) – Tecnocasa">
+                Case in vendita Semiana
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/silvano+pietra.html"
+              title="Immobili e case in vendita a Silvano pietra - (Pavia) – Tecnocasa">
+                Case in vendita Silvano Pietra
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/siziano.html"
+              title="Immobili e case in vendita a Siziano - (Pavia) – Tecnocasa">
+                Case in vendita Siziano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/sommo.html"
+              title="Immobili e case in vendita a Sommo - (Pavia) – Tecnocasa">
+                Case in vendita Sommo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/spessa.html"
+              title="Immobili e case in vendita a Spessa - (Pavia) – Tecnocasa">
+                Case in vendita Spessa
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/stradella.html"
+              title="Immobili e case in vendita a Stradella - (Pavia) – Tecnocasa">
+                Case in vendita Stradella
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/suardi.html"
+              title="Immobili e case in vendita a Suardi - (Pavia) – Tecnocasa">
+                Case in vendita Suardi
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/torrazza+coste.html"
+              title="Immobili e case in vendita a Torrazza coste - (Pavia) – Tecnocasa">
+                Case in vendita Torrazza Coste
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/torre+beretti+e+castellaro.html"
+              title="Immobili e case in vendita a Torre beretti e castellaro - (Pavia) – Tecnocasa">
+                Case in vendita Torre Beretti E Castellaro
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/torre+d%27arese.html"
+              title="Immobili e case in vendita a Torre d'arese - (Pavia) – Tecnocasa">
+                Case in vendita Torre D'arese
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/torre+de%27+negri.html"
+              title="Immobili e case in vendita a Torre de' negri - (Pavia) – Tecnocasa">
+                Case in vendita Torre De' Negri
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/torre+d%27isola.html"
+              title="Immobili e case in vendita a Torre d'isola - (Pavia) – Tecnocasa">
+                Case in vendita Torre D'isola
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/torrevecchia+pia.html"
+              title="Immobili e case in vendita a Torrevecchia pia - (Pavia) – Tecnocasa">
+                Case in vendita Torrevecchia Pia
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/torricella+verzate.html"
+              title="Immobili e case in vendita a Torricella verzate - (Pavia) – Tecnocasa">
+                Case in vendita Torricella Verzate
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/travac%C3%B2+siccomario.html"
+              title="Immobili e case in vendita a Travacò siccomario - (Pavia) – Tecnocasa">
+                Case in vendita Travacò Siccomario
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/trivolzio.html"
+              title="Immobili e case in vendita a Trivolzio - (Pavia) – Tecnocasa">
+                Case in vendita Trivolzio
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/tromello.html"
+              title="Immobili e case in vendita a Tromello - (Pavia) – Tecnocasa">
+                Case in vendita Tromello
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/trovo.html"
+              title="Immobili e case in vendita a Trovo - (Pavia) – Tecnocasa">
+                Case in vendita Trovo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/val+di+nizza.html"
+              title="Immobili e case in vendita a Val di nizza - (Pavia) – Tecnocasa">
+                Case in vendita Val Di Nizza
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/valeggio.html"
+              title="Immobili e case in vendita a Valeggio - (Pavia) – Tecnocasa">
+                Case in vendita Valeggio
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/valle+lomellina.html"
+              title="Immobili e case in vendita a Valle lomellina - (Pavia) – Tecnocasa">
+                Case in vendita Valle Lomellina
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/valle+salimbene.html"
+              title="Immobili e case in vendita a Valle salimbene - (Pavia) – Tecnocasa">
+                Case in vendita Valle Salimbene
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/valverde.html"
+              title="Immobili e case in vendita a Valverde - (Pavia) – Tecnocasa">
+                Case in vendita Valverde
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/varzi.html"
+              title="Immobili e case in vendita a Varzi - (Pavia) – Tecnocasa">
+                Case in vendita Varzi
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/velezzo+lomellina.html"
+              title="Immobili e case in vendita a Velezzo lomellina - (Pavia) – Tecnocasa">
+                Case in vendita Velezzo Lomellina
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/vellezzo+bellini.html"
+              title="Immobili e case in vendita a Vellezzo bellini - (Pavia) – Tecnocasa">
+                Case in vendita Vellezzo Bellini
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/verretto.html"
+              title="Immobili e case in vendita a Verretto - (Pavia) – Tecnocasa">
+                Case in vendita Verretto
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/verrua+po.html"
+              title="Immobili e case in vendita a Verrua po - (Pavia) – Tecnocasa">
+                Case in vendita Verrua Po
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/vidigulfo.html"
+              title="Immobili e case in vendita a Vidigulfo - (Pavia) – Tecnocasa">
+                Case in vendita Vidigulfo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/vigevano.html"
+              title="Immobili e case in vendita a Vigevano - (Pavia) – Tecnocasa">
+                Case in vendita Vigevano
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/villa+biscossi.html"
+              title="Immobili e case in vendita a Villa biscossi - (Pavia) – Tecnocasa">
+                Case in vendita Villa Biscossi
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/villanova+d%27ardenghi.html"
+              title="Immobili e case in vendita a Villanova d'ardenghi - (Pavia) – Tecnocasa">
+                Case in vendita Villanova D'ardenghi
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/villanterio.html"
+              title="Immobili e case in vendita a Villanterio - (Pavia) – Tecnocasa">
+                Case in vendita Villanterio
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/vistarino.html"
+              title="Immobili e case in vendita a Vistarino - (Pavia) – Tecnocasa">
+                Case in vendita Vistarino
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/voghera.html"
+              title="Immobili e case in vendita a Voghera - (Pavia) – Tecnocasa">
+                Case in vendita Voghera
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/volpara.html"
+              title="Immobili e case in vendita a Volpara - (Pavia) – Tecnocasa">
+                Case in vendita Volpara
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/zavattarello.html"
+              title="Immobili e case in vendita a Zavattarello - (Pavia) – Tecnocasa">
+                Case in vendita Zavattarello
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/zeccone.html"
+              title="Immobili e case in vendita a Zeccone - (Pavia) – Tecnocasa">
+                Case in vendita Zeccone
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/zeme.html"
+              title="Immobili e case in vendita a Zeme - (Pavia) – Tecnocasa">
+                Case in vendita Zeme
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/zenevredo.html"
+              title="Immobili e case in vendita a Zenevredo - (Pavia) – Tecnocasa">
+                Case in vendita Zenevredo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/zerbo.html"
+              title="Immobili e case in vendita a Zerbo - (Pavia) – Tecnocasa">
+                Case in vendita Zerbo
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/zerbol%C3%B2.html"
+              title="Immobili e case in vendita a Zerbolò - (Pavia) – Tecnocasa">
+                Case in vendita Zerbolò
+              </a><a class="" href="/annunci/immobili/lombardia/pavia/zinasco.html"
+              title="Immobili e case in vendita a Zinasco - (Pavia) – Tecnocasa">
+                Case in vendita Zinasco
+              </a></p></div></div><script type="text/javascript">
+        window.addEvent('domready', function() {
+          var regionAccordion = new Fx.Accordion($$('.region'), $$('.towns'), {
+            opacity: 0,
+            display: -1,
+            alwaysHide: true
+          });
+        });
+      </script></div><div class="generic onesixty_nine" id="rightColumn"><script type="text/javascript">
+     window.addEvent('domready', function(){
+      var mySlide = new Fx.Slide('confronta');
+      if ($('confronta').hasClass('show'))
+      {
+        mySlide.show();
+      }
+      else
+      {
+        mySlide.hide();
+      }
+
+      $('compareLink').addEvent('click', function(e){
+        e = new Event(e);
+        mySlide.toggle();
+        e.stop();
+      });
+    });
+    </script><div class="box_contact"><div class="corner_t_dx"><div class="corner_b_sx"><div class="corner_b_dx"><p class="boxTitle"><a id="compareLink" href="#">Confronta immobili</a></p><div class="hide" id="confronta"><p>Puoi selezionare un massimo di 3 immobili</p><div class="clear"></div></div></div></div></div></div><div class="box_content_related"><p> <b>Seguici su Facebook!</b><br>Siamo pronti ad ascoltarti.<span class="separator_1"></span><img src="/mediaObject/social/banner_facebook/original/banner_facebook.jpg" alt="Seguici su Facebook..." title="Seguici su Facebook..." width="167" height="87" class="corner iradius5" /></p>
+    <p><a target="_blank" href="https://www.facebook.com/GruppoTecnocasa"><strong>Clicca qui</strong></a></p> <p>&nbsp;</p>
+    <ul class="approfondisci"></ul></div><div class="box_content_related"><p> Scarica l'applicazione mobile del Gruppo Tecnocasa<span class="separator_1"></span><img src="/mediaObject/iphone-android/banner_site/original/banner_site.jpg" alt="Applicazione Mobile del Gruppo Tecnocasa" title="Applicazione Mobile del Gruppo Tecnocasa" width="167" height="87" class="corner iradius5" /></p>
+    <p><a target="_blank" href="/site/it/globals/iphon-app.html">Clicca qui<br /> </a></p> <p>&nbsp;</p>
+    <ul class="approfondisci"></ul></div><div class="box_contact"><div class="corner_t_dx"><div class="corner_b_sx"><div class="corner_b_dx"><a href="/site/it/globals/contatti/agencysearch.html"><img src="/mediaObject/varie/Contatto-immobiliare-BOx/resolutions/res-73x75/data.png" alt="Contatta un Agente Immobiliare del Gruppo" title="Contatta un Agente Immobiliare del Gruppo" width="73" height="75" /></a><p><a href="/site/it/globals/contatti/agencysearch.html">Contatta un Agente Immobiliare del Gruppo</a><br/><a style="margin-top:1px" class="button" href="/site/it/globals/contatti/agencysearch.html">CONTATTACI</a></p><div class="clear"></div></div></div></div></div><script type="text/javascript">
+    window.addEvent('domready', function() {
+      $$('form.inbox').addEvent('submit', function(e) {
+        var propertyId = this.getElement('input[name=id]').get('value');
+        new Request.JSON({
+          url : this.get('action'),
+          method : 'post',
+          data : {
+            propertyId : propertyId,
+            isPropertyIdValid : true
+          },
+          onSuccess : function(json, text) {
+            if (json.valid == 'true') {
+              $('propertyid-error').addClass('visibility-hidden');
+              if (json.isCompro) {
+                location.href = '/site/it/contents/iltuoimmobile/propertyResults/compro.html?propertyDetails=true&propertyId='+propertyId;
+              } else {
+                location.href = '/site/it/contents/iltuoimmobile/propertyResults/affitto.html?propertyDetails=true&propertyId='+propertyId;
+              }
+            } else {
+              $('propertyid-error').removeClass('visibility-hidden');
+            }
+          }
+        }).send();
+      });
+    });
+  </script><div class="box_contact"><div class="corner_t_dx"><div class="corner_b_sx"><div class="corner_b_dx"><img src="/mediaObject/varie/Leasing-Box/resolutions/res-73x75/Leasing-Box.png" alt="Trova l'immobile tramite il codice" title="Trova l'immobile tramite il codice" width="73" height="75" /><p>Trova l'immobile tramite il codice</p><div class="clear"></div><form class="inbox" onsubmit="return false;" method="post" action="/actions/searchPropertyResult.action"><fieldset><input style="margin-right:1px;" name="id" type="text"/><input class="box-button" name="id" value="Cerca" type="submit"/><div class="visibility-hidden red" id="propertyid-error">Nessun immobile trovato</div></fieldset></form></div></div></div></div><div class="box_content_related"><p> Io l'ho sottoscritta! E tu cosa aspetti?<span class="separator_1"></span><img src="/mediaObject/varie/Mission-Grande---copia/resolutions/res-167x87/data.png" alt="Aggiornami via e-mail!" title="Aggiornami via e-mail!" width="167" height="87" class="corner iradius5" /></p>
+    <p>Oltre 50.000 newsletter sottoscritte ogni anno!</p> <p><a href="/site/it/globals/newsletter.html">Iscriviti subito!</a></p> <p>&nbsp;</p>
+    <ul class="approfondisci"></ul></div><div class="box_content_related"><p> <b>Speciale "Grandi Città"</b><span class="separator_1"></span><img src="/mediaObject/grandicitta/banner/resolutions/res-167x87/data.jpg" alt="speciale grandi città" title="speciale grandi città" width="167" height="87" class="corner iradius5" /></p>
+    <p><a href="/site/it/globals/specialegc.html"><strong>Trova la tua casa</strong></a></p> <p>&nbsp;</p>
+    <ul class="approfondisci"></ul></div><div class="box_content_related"><p> <b>Speciale "Immobili Turistici"</b><span class="separator_1"></span><img src="/mediaObject/ZIT/speciale_turistico/original/speciale_turistico.jpg" alt="speciale immobili turistici" title="speciale immobili turistici" width="167" height="87" class="corner iradius5" /></p>
+    <p><a href="/site/it/globals/italia.html"><strong>Trova la tua casa</strong></a></p> <p>&nbsp;</p>
+    <ul class="approfondisci"></ul></div><div class="box_content_related"><p> <span class="separator_1"></span><img src="/mediaObject/contacts/LaDucale/original/LaDucale.jpg" alt="Visita i nostri cantieri" title="Visita i nostri cantieri" width="167" height="87" class="corner iradius5" /></p>
+    <p>Vieni a visitare i nostri cantieri.</p>
+    <ul class="approfondisci"><li class="last">
+          
+          <a href="http://www.laducale.it">www.laducale.it</a>
+        </li></ul></div></div><div class="clear"></div><div id="footer-nav" class="generic nineforty"><ul><li >
+          
+          <a href="http://www.gruppotecnocasa.it/pub/group/it/gruppotecnocasa/chisiamo/informazionisocietarie.html">@ 2009 Gruppo: "TECNOCASA HOLDING S.p.A."</a>
+        </li><li >
+          
+          <a href="http://www.gruppotecnocasa.it/pub/group/it/gruppotecnocasa/chisiamo/informazionisocietarie.html">P.iva 08365140154</a>
+        </li><li >
+          
+          <a href="/site/it/globals/sitemap.html">Mappa del sito</a>
+        </li><li >
+          
+          <a href="https://login3.tecnocasa.com/">Area Affiliati</a>
+        </li><li class="last">
+          
+          <a href="http://www.tecnocasa.it/pub/site/it/globals/policytecnocasa.html">Policy utilizzo</a>
+        </li></ul></div><script type="text/javascript">
+    urlWithEvent = "/site/it/contents/iltuoimmobile/propertyResults/compro-searchpropertyresult-searchSEO.html";
+  </script>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12687335-1");
+pageTracker._setDomainName(".tecnocasa.it");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+  <script type="text/javascript">
+  <!--
+    window.addEvent('domready', function() {
+        if (Browser.Engine.trident &&  Browser.Engine.version <= 4) {
+          if (Cookie.read('incompatibleFlag') != 'shown') {
+            SqueezeBox.initialize();
+            SqueezeBox.open($('incompatibleFlagMsg'), {
+              handler: 'adopt',
+              classWindow : 'bgWhite',
+              size: {x: 700, y: 500}
+            });
+            Cookie.write('incompatibleFlag', 'shown', {duration: 1});
+          }
+        }
+    });
+  -->
+  </script></div></body></html>
