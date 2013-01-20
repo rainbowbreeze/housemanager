@@ -34,7 +34,7 @@ public class TecnocasaAgent implements IHouseAgent {
 
     //public for testing purposes
     public static final String URL_FIRST_RESULT_PAGE = "http://www.tecnocasa.it/annunci/immobili/lombardia/pavia.html?searchRequest.radius=3&searchRequest.townId=13800324508618&searchRequest.price=0&searchRequest.destinationProperty=CIVIL&searchRequest.squareMeters=0&searchRequest.mission=acquis&searchRequest.pageSize=20&searchRequest.searchId=it_236952020&searchRequest.pageNumber=";
-    private static final String URL_DETAIL_ANNOUNCE_BASE = "http://www.immobiliare.it";
+    private static final String URL_DETAIL_ANNOUNCE_BASE = "http://www.tecnocasa.it";
     
     private final ILogFacility mLogFacility;
     private final NetworkManager mNetworkManager;
@@ -257,6 +257,17 @@ public class TecnocasaAgent implements IHouseAgent {
             }
         } catch (Exception e) {
             mLogFacility.w(LOG_HASH, "Cannot find ul");
+        }
+        
+        try {
+            Element imgElem = announceElem.select("div.boxImage").first().select("img").first();
+            String imgUrl = imgElem.attr("src");
+            if (StringUtils.isNotEmpty(imgUrl)) {
+                announce.setImgUrl(URL_DETAIL_ANNOUNCE_BASE + imgUrl);
+                findData = true;
+            }
+        } catch (Exception e) {
+            mLogFacility.w(LOG_HASH, "Cannot find div.wrap_img");
         }
         
         announce.setId(getUniqueKey(announce));
