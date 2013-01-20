@@ -69,6 +69,7 @@ public class ImmobiliareAgentTest {
         assertEquals("/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=2", result.getCursor());
         
         for (HouseAnnounce announce : result.getAnnounces()) {
+            assertNotNull(announce.getAnnounceType());
             assertTrue("Detail url", StringUtils.isNotEmpty(announce.getDetailUrl()));
             assertTrue("Image url", StringUtils.isNotEmpty(announce.getImgUrl()));
             assertTrue("Short desc", StringUtils.isNotEmpty(announce.getShortDesc()));

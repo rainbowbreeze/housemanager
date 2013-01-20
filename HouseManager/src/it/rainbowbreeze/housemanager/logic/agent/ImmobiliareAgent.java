@@ -5,6 +5,7 @@ package it.rainbowbreeze.housemanager.logic.agent;
 
 import it.rainbowbreeze.housemanager.common.ILogFacility;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
+import it.rainbowbreeze.housemanager.domain.HouseAnnounce.AnnounceType;
 import it.rainbowbreeze.housemanager.logic.NetworkManager;
 
 import java.util.Date;
@@ -113,7 +114,8 @@ public class ImmobiliareAgent implements IHouseAgent {
     @Override
     public HouseAnnounce createAnnounce() {
         return new HouseAnnounce()
-                .setDomainSite(DOMAIN_SITE);
+                .setDomainSite(DOMAIN_SITE)
+                .setAnnounceType(AnnounceType.SELL);
     }
 
     // ----------------------------------------- Private Methods

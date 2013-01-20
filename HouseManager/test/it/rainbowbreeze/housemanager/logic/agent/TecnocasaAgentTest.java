@@ -65,6 +65,7 @@ public class TecnocasaAgentTest {
         assertEquals("1", result.getCursor());
         
         for (HouseAnnounce announce : result.getAnnounces()) {
+            assertNotNull(announce.getAnnounceType());
             assertTrue("Detail url", StringUtils.isNotEmpty(announce.getDetailUrl()));
             assertTrue("Image url", StringUtils.isEmpty(announce.getImgUrl()));
             assertTrue("Short desc", StringUtils.isEmpty(announce.getShortDesc()));
