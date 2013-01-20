@@ -14,6 +14,7 @@ import it.rainbowbreeze.housemanager.logic.StreamHelper;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.util.Date;
 
 import org.apache.commons.lang3.StringUtils;
 import org.junit.After;
@@ -24,13 +25,13 @@ import org.junit.Test;
  * @author Alfredo "Rainbowbreeze" Morresi
  *
  */
-public class TecnocasaAgentTest {
+public class EurekasaAgentTest {
     // ------------------------------------------ Private Fields
     private final MockNetworkManager mNetworkManager;
-    private TecnocasaAgent mAgent;
+    private EurekasaAgent mAgent;
 
     // -------------------------------------------- Constructors
-    public TecnocasaAgentTest() {
+    public EurekasaAgentTest() {
         mNetworkManager = new MockNetworkManager(App.i().getLogFacility());
     }
 
@@ -40,7 +41,7 @@ public class TecnocasaAgentTest {
     @Before
     public void setUp() {
         mNetworkManager.getUrlReplies().clear();
-        mAgent = new TecnocasaAgent(
+        mAgent = new EurekasaAgent(
                 App.i().getLogFacility(),
                 mNetworkManager);
     }
@@ -51,7 +52,7 @@ public class TecnocasaAgentTest {
     
     @Test
     public void testFirstPage() throws Exception {
-        File file = new File("testresources/tecnocasa_mock_search_1.txt");
+        File file = new File("testresources/eurekasa_mock_search_1.txt");
         String fileContent = StreamHelper.toString(new FileInputStream(file));
         
         mNetworkManager.getUrlReplies().put(mAgent.getSearchUrlFromCursor(null), fileContent);
@@ -60,16 +61,16 @@ public class TecnocasaAgentTest {
         assertNotNull(result);
         assertTrue(result.hasMoreResults());
         assertFalse(result.hasErrors());
-        assertEquals(8, result.getTotalPages());
-        assertEquals(20, result.getAnnounces().size());
-        assertEquals("1", result.getCursor());
+        assertEquals(53, result.getTotalPages());
+        assertEquals(15, result.getAnnounces().size());
+        assertEquals("pag2", result.getCursor());
         
         for (HouseAnnounce announce : result.getAnnounces()) {
             assertNotNull(announce.getAnnounceType());
             assertTrue("Detail url", StringUtils.isNotEmpty(announce.getDetailUrl()));
             assertTrue("Image url", StringUtils.isNotEmpty(announce.getImgUrl()));
             assertTrue("Short desc", StringUtils.isEmpty(announce.getShortDesc()));
-            assertTrue("Title", StringUtils.isEmpty(announce.getTitle()));
+            assertTrue("Title", StringUtils.isNotEmpty(announce.getTitle()));
             assertTrue("Area", announce.getArea() > 0);
             assertTrue("Price", announce.getPrice() > 0);
             assertTrue("Domain", StringUtils.isNotEmpty(announce.getDomainSite()));
@@ -85,7 +86,7 @@ public class TecnocasaAgentTest {
         String fileContent = StreamHelper.toString(new FileInputStream(file));
         String cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=2";
         
-        mNetworkManager.getUrlReplies().put(TecnocasaAgent.URL_NEXT_RESULT_PAGE_BASE + cursor, fileContent);
+        mNetworkManager.getUrlReplies().put(EurekasaAgent.URL_NEXT_RESULT_PAGE_BASE + cursor, fileContent);
         
         SearchPageAgentResult result = mAgent.scrape(cursor);
         assertNotNull(result);
@@ -113,7 +114,7 @@ public class TecnocasaAgentTest {
         File file = new File("testresources/immobiliare_mock_search_61.txt");
         String fileContent = StreamHelper.toString(new FileInputStream(file));
 
-        mNetworkManager.getUrlReplies().put(TecnocasaAgent + cursor, fileContent);
+        mNetworkManager.getUrlReplies().put(EurekasaAgent + cursor, fileContent);
         
         SearchPageAgentResult result = mAgent.scrape(cursor);
         assertNotNull(result);
@@ -136,7 +137,6 @@ public class TecnocasaAgentTest {
     }
     */
     
-    /**
     @Test
     public void testAnnounceScraping() throws Exception {
         String url = "http://www.tecnocasa.it/schedaimmobile/21042538.html";
@@ -161,17 +161,18 @@ public class TecnocasaAgentTest {
         assertTrue(announce.getShortDesc().startsWith("Pavia, ad un passo da Corso Garibaldi, in viale Venezia, ex casa Einstein, recentemente ristrutturata, ottimo ampio bilocale con"));
     }
     
-    //@Test
+    @Test
     public void testGetTaskQueueName_Announce() {
         Date testDate = new Date(1358160587000L);  //January, 14th 2013 - 10:49:46 am UTC
-        String url = "http://www.immobiliare.it/34534230-Vendita-Bilocale-ottimo-stato-piano-terra-Pavia.html";
+        String url = "http://annunci-casa.eurekasa.it/vendita/residenziale/Lombardia/Pavia/Appartamento-Pavia-35936442.html";
         HouseAnnounce announce = mAgent.createAnnounce()
                 .setDetailUrl(url);
         String taskName = mAgent.getTaskQueueName(testDate, announce);
-        assertEquals("ImmobiliareIt_20130114-Ann_34534230", taskName);
+        assertEquals("EurekasaIt_20130114-Ann_Appartamento-Pavia-35936442", taskName);
     }
     
-    //@Test
+    /**
+    @Test
     public void testGetTaskQueueName_Cursor() {
         Date testDate = new Date(1358160587000L);  //January, 14th 2013 - 10:49:46 am UTC
         String cursor = null;

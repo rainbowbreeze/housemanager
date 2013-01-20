@@ -75,7 +75,7 @@ public class HouseAgentSingleQueueServlet extends HttpServlet {
             return;
         }
         
-        AnnounceScrapingResult scrapingResult = agent.scrapeDeep(announce);
+        AnnounceScrapingResult scrapingResult = agent.scrapeAnnounce(announce);
         if (null == scrapingResult || scrapingResult.hasErrors()) {
             mLogFacility.w(LOG_HASH, "Error while checking the single announce");
             return;

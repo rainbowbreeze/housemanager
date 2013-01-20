@@ -47,8 +47,8 @@ public class HouseAgentsManager {
         //creates scraping agents
         IHouseAgent immobiliare = new ImmobiliareAgent(mLogFacility, networkManager);
         mAgents.put(immobiliare.getName(), immobiliare);
-        IHouseAgent tecnocasa = new TecnocasaAgent(mLogFacility, networkManager);
-        mAgents.put(tecnocasa.getName(), tecnocasa);
+//        IHouseAgent tecnocasa = new TecnocasaAgent(mLogFacility, networkManager);
+//        mAgents.put(tecnocasa.getName(), tecnocasa);
     }
 
     // --------------------------------------- Public Properties

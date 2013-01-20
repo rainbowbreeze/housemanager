@@ -1,0 +1,334 @@
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+  <html xmlns="http://www.w3.org/1999/xhtml" lang="it"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>appartamenti in vendita a PAVIA, PAVIA (PV): 2 locali, Mq 60 ca.</title><meta content="appartamenti in vendita a PAVIA, PAVIA (PV): 2 locali, Mq 60 ca., 60.000 euro Contatta l&#039;agenzia di riferimento per ulteriori informazioni" name="description"/><meta content="compro casa appartamento villa" name="keywords"/><meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible"/><meta content="TW8n5qkTjbmb7PEoCr2jucCLvCxSXjFXWFytdulh2_Q" name="google-site-verification"/><meta content="Gruppo Tecnocasa" name="copyright"/><meta content="Gruppo Tecnocasa" name="author"/><meta content="General" name="classification"/><meta content="General" name="rating"/><meta content="Global" name="distribution"/><meta content="ALL,INDEX,FOLLOW" name="robots"/><meta content="3 days" name="revisit-after"/><link href="/docroot/css/3.8.0/all.css" rel="stylesheet" type="text/css"/>
+  <!-- attenzione non funziona con IE multiple -->
+    <!--[if IE 6]>    <link type="text/css" rel="stylesheet" href="/docroot/css/ie6fix.css" />
+    <![endif]-->
+  <link media="print" href="/docroot/css/print/print.css" rel="stylesheet" type="text/css"/><script src="/docroot/js/3.8.0/all.js" type="text/javascript"></script><script src="/.resources/media/js/swfobject.js" type="text/javascript"></script><script src="/docroot/js/font/typeface-0.15-nc.js" type="text/javascript"/><script src="/docroot/js/font/arial_narrow_regular.typeface.js" type="text/javascript"></script><script src="/docroot/js/font/arial_narrow_bold.typeface.js" type="text/javascript"></script><script type="text/javascript">
+  <!--
+
+    // fix mootools bug https://mootools.lighthouseapp.com/projects/2706-mootools/tickets/40
+    $.element = function(el, notrash){
+      $uid(el);
+      if (!notrash && !el.$family && !(/^object|embed$/i).test(el.tagName)){
+        var proto = Element.Prototype;
+            if ((/^form$/i).test(el.tagName)){
+                for (var p in proto)
+                    if (!el.elements[p]) el[p] = proto[p];
+            }
+            else {
+            for (var p in proto) el[p] = proto[p];
+            }
+      };
+      return el;
+    };
+
+    var appCtx = '';
+    window.addEvent('domready', function() {
+      $$('a[class^=external]').forEach( function(link) {
+        link.target = "_blank";
+      });
+    });
+
+    var lang = 'it';
+  -->
+  </script><link rel="icon" href="/site/it/tecnocasa/favIcon/tecnocasa.ico"/><link rel="canonical" href="http://www.tecnocasa.it/schedaimmobile/21052576.html"/></head><body><div id="wrapper"><script type="text/javascript">
+    <!--
+      window.addEvent('domready', function(){
+       var box =new OpenCloseBox('boxMyhome', 'myPage', 'blockPanel', 'center', 'right', 'close');
+       box.run();
+      });
+    -->
+    </script><div style="height: auto !important; height: 100%;" id="boxMyhome"><div class="myContent"><div class="left-float  threesix"><h3 class="white">Ultimi immobili salvati</h3></div><div class="left-float  twofour"><h3 class="white">Ultime ricerche salvate</h3></div><div class="left-float twozero right-margin_1"><h3 class="white">Accedi alla MYHome</h3><ul class="myhomemenu"><li>MYHome</li><li>I miei immobili</li><li>Le mie ricerche</li><li>Le mie richieste immobiliari</li><li>Le mie richieste di valutazione</li><li>Il mio profilo</li></ul></div><div class="clear"></div></div></div><div id="top"><div class="" id="nav_utility"><ul><li >
+          
+          <a href="http://www.gruppotecnocasa.it" class="external">www.gruppotecnocasa.it</a>
+        </li><li >
+          
+          <a href="https://login3.tecnocasa.com/" class="external">Area Affiliati</a>
+        </li><li >
+          
+          <a href="/site/it/globals/glossario.html">Glossario</a>
+        </li><li >
+          
+          <a href="/site/it/globals/contatti/lavoraconnoi.html">Lavora con noi</a>
+        </li><li class="last">
+          
+          <a href="/site/it/globals/contatti.html">Contatti</a>
+        </li></ul></div><div class="mypage"><a id="myPage" title="" href="#"><span><strong>MY</strong>
+          Home
+        </span></a><div class="close"><a id="close" href="#">x</a></div></div><div class="site" id="nav_utility_bottom"><div id="center"><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html" class="secure" rel="nofollow">Accedi o Registrati</a>alla MY Home</div><div id="right"><input value="0" type="checkbox" id="blockPanel"/>Blocca il pannello MY Home</div></div><div class="clear"></div></div><div id="header"><div id="logo"><a href="/site/it/tecnocasa.html"><img src="/mediaObject/loghi/Tecnocasa-Group/resolutions/res-220x67/data.jpg" alt="Tecnocasa Group" title="Tecnocasa Group" width="220" height="67" /></a><p class="myclass typeface-js claim"></p><div class="clear"></div></div><strong class="hidden">Tecnocasa Group</strong><div class="clear"></div><div class="site" id="nav"><span class="corner_top_sx"></span><span class="corner_top_dx"></span><ul class="level3 myclass typeface-js menu"><li class="active active0 closed trail"><a href="/site/it/contents/iltuoimmobile.html"><span class="base">IL TUO IMMOBILE</span><span class="onhover">IL TUO IMMOBILE</span></a></li><li class="closed"><a href="/site/it/contents/progettocasa.html"><span class="base">PROGETTO CASA</span><span class="onhover">PROGETTO CASA</span></a></li><li class="closed"><a href="/site/it/contents/progettoimpresa.html"><span class="base">PROGETTO IMPRESA</span><span class="onhover">PROGETTO IMPRESA</span></a></li></ul></div></div><div id="breadcrumb"><a href="/annunci/immobili.html">
+                Acquisto Residenziale
+              </a>&nbsp;&gt;&nbsp;<a href="/annunci/immobili.html">
+                Appartamenti
+              </a>&nbsp;&gt;&nbsp;<a href="/annunci/immobili/lombardia/pavia/pavia.html">
+                Pavia
+              </a>&nbsp;&gt;&nbsp;<a href="/annunci/immobili/lombardia/pavia/pavia/pavia.html">
+                Pavia
+              </a>&nbsp;&gt;&nbsp;
+              Scheda Immobile
+            </div><div class="generic tabswitch" id="wrapperSearch"><div class="generic tabswitch" id="topTabs"><ul class="level5 tab_process myclass typeface-js menu searchWidth"><li class="active active0 leaf"><a class="el_1" href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?searchRequest.mission=acquis&amp;searchRequest.radius=3&amp;searchRequest.townId=13800324508618&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.squareMeters=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;searchRequest.pageSize=10&amp;propertyId=21052576"><span class="base">COMPRO</span><span class="onhover">COMPRO</span></a></li><li class="leaf"><a class="el_2" href="/site/it/contents/iltuoimmobile/propertyResults/affitto.html?searchRequest.mission=locazi&amp;searchRequest.radius=3&amp;searchRequest.townId=13800324508618&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.squareMeters=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;searchRequest.pageSize=10&amp;propertyId=21052576"><span class="base">AFFITTO</span><span class="onhover">AFFITTO</span></a></li><li class="leaf"><a class="el_3" href="/site/it/contents/iltuoimmobile/propertyResults/valutaimmobile.html?searchRequest.mission=valuta&amp;searchRequest.radius=3&amp;searchRequest.townId=13800324508618&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.squareMeters=0&amp;from=/site/it/contents/iltuoimmobile/propertyResults/compro&amp;searchRequest.pageSize=10&amp;propertyId=21052576"><span class="base">VALUTA IL TUO IMMOBILE</span><span class="onhover">VALUTA IL TUO IMMOBILE</span></a></li></ul></div><script type="text/javascript">
+   var event = "domready";
+    if (window.parent)
+    {
+      event = "load";
+    }
+    window.addEvent(event, function() {
+      var wrapper = $('wrap'); // The outer wrapper
+      var carousel = $('carousel'); // The inner wrapper
+      var items = carousel.getElements('li'); // The different elements, this is an array
+      var item_width = 425; // The full width of a single item (incl. borders, padding, etc ... if there is any)
+      var max_margin = items.length * item_width - item_width;
+      var mainCarousel = new Carousel($('carousel'), null, $('wrap'),$$('.next'), $$('.previous'), 425);
+      if ($('carousel').getElements('li').length <= 1) {
+        $$('.next').setStyle('visibility','hidden');
+        $$('.previous').setStyle('visibility','hidden');
+      }
+      classWindowValue = '';
+      if (lang == 'en')
+      {
+        classWindowValue = 'bgWhite';
+      }
+      SqueezeBox.assign($$('a.boxed'), {
+        parse: 'rel',
+        classWindow: classWindowValue
+      });
+      SqueezeBox.assign($$('a.boxedImage'), {
+        handler: 'image',
+        classWindow: classWindowValue
+      });
+    
+      var barDim = [360, 300, 280, 220, 170, 120, 100, 70];
+      var typesRequest = new Request.JSON({
+        url : '/actions/financialtools.action?getProductTypes=true',
+        onSuccess : function(responseJSON, responseText) {
+          var selectedType = '';
+          var el = $('financialForm').getElement('[name=type]');
+          el.empty();
+          for (var i=0; i < responseJSON.length; i++) {
+            var option = new Element('option');
+            option.setProperty("value", responseJSON[i].value);
+            option.set("html", responseJSON[i].html);
+            if (responseJSON[i].value == selectedType) {
+              option.set('selected', 'true');
+            }
+            el.adopt(option);
+          }
+          if (!selectedType) {
+            selectedType = responseJSON[0].value;
+          }
+        }
+      });
+      typesRequest.send("financialType=MUT");
+      var formCheck = new FormCheck('financialForm', {
+        fieldErrorClass: 'fieldValidationError',
+        errorClass : 'clear',
+        submitByAjax : true,
+        onAjaxSuccess : function(json, text) {
+          var results= JSON.decode(json).results;
+          if (results.length == 0) return;
+           var barArray = $('csschart');
+           barArray.empty();
+           var axis = $$('ul.xAxis')[0];
+           axis.empty();
+           results.each(function(item,  index) {
+               var dt = new Element('dt');
+               var dd = new Element('dd');
+               var li = new Element('li');
+               barArray.adopt(dt).adopt(dd);
+               axis.adopt(li);
+               dt.set('html',item.duration);
+               li.set('html',item.duration);
+               dd.set({html: '<span title="'+item.duration +', '+  item.value+'"><b>'+item.value+'</b></span>'});
+               dd.getElements('span').tween('width', barDim[index]);
+               dd.getElements('span').setStyle('background','#95C758');
+               dd.getElements('span').addClass('tooltip');
+           });
+           var myTips = new Tips($$('.tooltip'), {
+             maxTitleChars: 50,
+             className: 'charttip'
+           });
+           if ($('horizontal').hasClass('hidden')) {
+             $('horizontal').removeClass('hidden');
+             new Fx.Scroll(window).toElement('horizontal');
+           }
+        },
+        regexp : {
+          currency : /^\d+(\.\d{3})*$/
+        },
+        display: {
+          showErrors : 0,
+          errorsLocation: 3,
+          indicateErrors: 1,
+          addClassErrorToField: 1
+        },
+        alerts : {
+            required :'Il campo &egrave; obbligatorio',
+            currency :'Valore inserito non valido, usare il punto per separare le migliaia'
+        }
+      });
+      $('askFinancialGraphInfo').addEvent('click', function(e) {
+        (new Event(e)).stop();
+        var href = this.get('href')+'&financialData.amount='+$('financialForm').getElement('input[name=capital]').get('value')+'&financialData.type='+$('financialForm').getElement('select[name=type]').get('value');
+        location.href=href;
+      })
+        });
+    </script><div class="generic twentyeight" id="leftColumn"><span class="separator_2"></span><h3><a href="/site/it/contents/iltuoimmobile/propertyResults/compro.html?search&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=10&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;searchRequest.pageNumber=0">
+              &laquo;
+              Torna all'elenco immobili</a></h3><div class="box_contact"><div class="corner_t_dx"><div class="corner_b_sx"><div class="corner_b_dx"><h3>Immobile proposto da</h3><img alt="tec" src="/docroot/img/tec.jpg" width="150"/><p class="clear"><strong>Affiliato
+                  : STUDIO VALLONE S.A.S.
+                </strong><br/><span class="txtnormal">
+                  PIAZZA CROSIONE, 3
+                  <br/>
+                  27100 PAVIA (PV)
+                  <br/>TEL
+                  .0382 474307
+                  <br/>Iscr. ruolo societ&agrave;
+                    : PV 2124
+                    <br/>Iscr. ruolo mediatori
+                    : PV 1173
+                    <br/></span><a title="scrivi all'agenzia E-mail: pvca5@tecnocasa.it" class="mail external" href="mailto:pvca5@tecnocasa.it"> pvca5@tecnocasa.it</a><a title="Home page dell'Agenzia" class="external web" href="http://agenzie.tecnocasa.it/lombardia/pavia/pavia/pavia-vallone"> Home page dell'Agenzia</a></p></div></div></div></div></div><div id="centerColumn"><div class="separator_2"></div><h1 class="h1White">PAVIA</h1><div class="forPrinting">PAVIA</div><h2>
+          PAVIA
+          </h2><p class="search_param"><span> &raquo; 2 locali 
+            </span><span>
+              &raquo;
+              Mq
+              60
+              ca.</span><span>
+            &raquo;
+            <strong>
+                    &euro;
+                    60.000</strong></span><span>
+              &raquo;
+              piano
+              : basso
+            </span><span>
+              &raquo;
+              Categoria
+              : media
+            </span><span>
+              &raquo;
+              
+                  2
+                  vani</span><span>
+                &raquo;
+                Nuda proprieta'
+                : No
+              </span></p><div class="clear"></div><div style="margin-top:1em" class="generic tabswitch" id="small"><ul id="ulprova" class="tab_process myclass typeface-js"><li class="active"><a name="el_4" class="toggler" href="#"><span class="base">IMMAGINI
+                  (6)
+                </span><span class="onhover">IMMAGINI
+                  (6)
+                </span></a></li><li><a name="el_5" class="toggler" href="#"><span class="base">MAPPE SENSIBILI</span><span class="onhover">MAPPE SENSIBILI</span></a></li><li><span class="noactive">VIDEO</span></li></ul><div class="paginator" id="box_media"><div class="tab" id="tab_el_4"><a style="margin-top:25%;" class="previous" href="#">&#139;</a><div id="wrap"><ul id="carousel"><li><img src="/immobile/immagine/big/6495318/17298701.jpg" alt="appartamenti in vendita a PAVIA, PAVIA (PV) - 21052576 - 1" height="283" /><div class="clear"></div></li><li><img src="/immobile/immagine/big/6491579/17286109.jpg" alt="appartamenti in vendita a PAVIA, PAVIA (PV) - 21052576 - 2" height="283" /><div class="clear"></div></li><li><img src="/immobile/immagine/big/6491640/17286110.jpg" alt="appartamenti in vendita a PAVIA, PAVIA (PV) - 21052576 - 3" height="283" /><div class="clear"></div></li><li><img src="/immobile/immagine/big/6491641/17286111.jpg" alt="appartamenti in vendita a PAVIA, PAVIA (PV) - 21052576 - 4" height="283" /><div class="clear"></div></li><li><img src="/immobile/immagine/big/6491624/17673605.jpg" alt="appartamenti in vendita a PAVIA, PAVIA (PV) - 21052576 - 5" height="283" /><div class="clear"></div></li><li><img src="/immobile/immagine/big/6491625/17286356.jpg" alt="appartamenti in vendita a PAVIA, PAVIA (PV) - 21052576 - 6" height="283" /><div class="clear"></div></li></ul></div><a style="margin-top:25%;" class="next" href="#">&#155;</a></div><div class="tab mappaSensibile" id="tab_el_5"><ul style="margin-top:-20px;margin-left:18px;"><li><div style="position:relative" id="plan_6495318"><img src="/immobile/immagine/big/6495318/17298701.jpg" alt=""/><a style="position:absolute;top:164.0px;left:283.0px;" class="boxedImage" href="/immobile/immagine/big/6494966/17296181.jpg"><img alt="planPhoto" src="/docroot/img/cams/cam_top_left.png"/></a><a style="position:absolute;top:156.0px;left:172.0px;" class="boxedImage" href="/immobile/immagine/big/6494980/17296173.jpg"><img alt="planPhoto" src="/docroot/img/cams/cam_right.png"/></a><a style="position:absolute;top:145.0px;left:313.0px;" class="boxedImage" href="/immobile/immagine/big/6494998/17296234.jpg"><img alt="planPhoto" src="/docroot/img/cams/cam_top.png"/></a><a style="position:absolute;top:139.0px;left:143.0px;" class="boxedImage" href="/immobile/immagine/big/6494974/17296263.jpg"><img alt="planPhoto" src="/docroot/img/cams/cam_bottom.png"/></a><a style="position:absolute;top:164.0px;left:309.0px;" class="boxedImage" href="/immobile/immagine/big/6494978/17296289.jpg"><img alt="planPhoto" src="/docroot/img/cams/cam_left.png"/></a><a style="position:absolute;top:158.0px;left:112.0px;" class="boxedImage" href="/immobile/immagine/big/6494981/17296177.jpg"><img alt="planPhoto" src="/docroot/img/cams/cam_top.png"/></a><a style="position:absolute;top:204.0px;left:137.0px;" class="boxedImage" href="/immobile/immagine/big/6494983/17296179.jpg"><img alt="planPhoto" src="/docroot/img/cams/cam_left.png"/></a></div></li></ul></div><div class="tab" id="tab_el_6"></div></div></div><div class="clear"></div><ul class="toolbar "><li class="first"><a title="Richiedi immobile" href="/site/it/globals/contatti/contactbuy.html?agencyId=pvca5&amp;propertyId=21052576&amp;contactBuyForm&amp;searchRequest.destinationProperty=CIVIL&amp;searchRequest.mission=acquis&amp;searchRequest.pageSize=10&amp;searchRequest.price=0&amp;searchRequest.radius=3&amp;searchRequest.searchId=it_236952020&amp;searchRequest.squareMeters=0&amp;searchRequest.townId=13800324508618&amp;prevPage=/site/it/contents/iltuoimmobile/propertyResults/compro" rel="nofollow" class="askProperty" style="font-weight: bold; color: red;"> Richiedi immobile</a></li><li><a title="Info Mutuo" href="/site/it/contents/progettocasa/trovaremutuo/acquisto.html?immAgencyId=pvca5&amp;financialAgencyId=&amp;propertyId=21052576" class="calculator" style="font-weight: bold; color: red;"> Info Mutuo</a></li><li><a title="Salva" href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21052576" class="savesecure add" rel="nofollow">Salva</a></li><li><a class="printIt" href="javascript:window.print();">Stampa</a></li><li class="last"><a href="/actions/ContactFriend.action?contactFriendEmail.link=%2Fsite%2Fit%2Fcontents%2Filtuoimmobile%2FpropertyResults%2Fcompro.html%3FpropertyDetails%26amp%3BpropertyId%3D21052576&amp;contactFriendEmail.message=&amp;propertyId=21052576" class="openiframe send">Segnala</a></li></ul><div class="separator_1 clear"></div><p>In palazzina totalmente ristrutturata, ottima soluzione da rivedere composta da ingresso sul soggiorno servito da ampio balcone, cucina abitabile, bagno e camera. Libero subito.</p><div id="energeticSection"><h3>Caratteristiche Energetiche</h3><p class="energyClass"><label>Classe energetica</label>
+              :
+               g
+                </p><p class="ipe"><label>Indice Prestazione Energetica (IPE)</label>
+              :
+               222,55 Kwh/m2/anno
+                </p></div><div style="font-size:10px;margin-top:10px"><h3>Caratteristiche</h3><table class="tabella"><thead><tr><th>Tipologia</th><th>Servizio</th><th>Descrizione</th></tr></thead><tbody><tr class="colored"><td>riscaldamento</td><td>centralizzato</td><td><span style="display: block"> termoidraulico</span></td></tr><tr class=""><td>cucina</td><td>abitabile</td><td><span style="display:block">per 2 persone</span></td></tr><tr class="colored"><td>pertinenze esterne</td><td>balcone</td><td></td></tr><tr class=""><td>bagno</td><td>con finestra</td><td></td></tr><tr class="colored"><td>locali</td><td>soggiorno</td><td><span style="display: block"> luminoso/a</span></td></tr><tr class=""><td></td><td>camera da letto </td><td></td></tr><tr class="colored"><td>stato immobile</td><td>grezzo</td><td><span style="display: block"> da ristrutturare</span></td></tr></tbody></table></div><p style="font-size:10px" class="left-float">Ogni agenzia ha un proprio titolare ed &egrave; autonoma</p><p style="font-size:10px" class="right-float"></p><br/><br/><p style="font-size:10px" class="left-float">Le presenti informazioni non costituiscono elemento contrattuale</p><p style="font-size:10px;margin-right: 30px;" class="right-float">Codice immobile
+          : 21052576
+        </p><div class="separator_2 clear"></div><div class="tool-graph pressroom"><form method="post" action="/actions/financialtools.action" class="form2col contactForm shedaimmobile" id="financialForm"><h2>Calcola il mutuo giusto per te</h2><div class="separator_1"></div><p class="field left-float"><label for="type">Tipo di mutuo</label><select name="type"><option></option></select></p><p class="field left-float"><label for="capital">Capitale richiesto in € </label><input class="validate['required','currency']" maxlength="9" value="" name="capital" type="text"/></p><div class="clear separator_2"></div><input style="margin-right:2.7em;" class="button right-float" value=" Calcola " type="submit"/><input value="12" name="period" type="hidden"/><input value="MUT" name="financialType" type="hidden"/><input value="true" name="calcolaRata" type="hidden"/><div class="clear"></div><div style="padding-bottom: 40px;" class="hidden graphForm-result" name="chart" id="horizontal"><div class="explain"><p>L'importo risultatante &egrave; puramente indicativo, calcolato utilizzando il tasso Euribor 3 mesi o il tasso IRS di periodo maggiorato di 1,5% di spread.</p></div><span class="separator_1"></span><div style="position:relative"><ul style="top:0" class="xAxis"></ul><dl id="csschart"></dl></div><div style="padding-left: 5px; float: right;margin-right:20px" class="button_l"><a title="Approfondisci" href="/site/it/contents/progettocasa/trovaremutuo/acquisto.html?immAgencyId=pvca5&amp;financialAgencyId=&amp;propertyId=21052576&amp;noGraph=true" id="askFinancialGraphInfo"> Approfondisci</a></div></div></form></div><p class="clear" id="top_page"><a title="Top" href="#header">Top
+          &uarr; 
+        </a></p></div></div><div class="generic onesixty_nine" id="rightColumn"><script type="text/javascript">
+     window.addEvent('domready', function(){
+      var mySlide = new Fx.Slide('confronta');
+      if ($('confronta').hasClass('show'))
+      {
+        mySlide.show();
+      }
+      else
+      {
+        mySlide.hide();
+      }
+
+      $('compareLink').addEvent('click', function(e){
+        e = new Event(e);
+        mySlide.toggle();
+        e.stop();
+      });
+    });
+    </script><div class="box_contact"><div class="corner_t_dx"><div class="corner_b_sx"><div class="corner_b_dx"><p class="boxTitle"><a id="compareLink" href="#">Confronta immobili</a></p><div class="hide" id="confronta"><p>Puoi selezionare un massimo di 3 immobili</p><a href="?propertyDetails=&amp;propertyId=21052576&amp;addCompareProperty" class="button_ml">Aggiungi questo immobile</a><div class="clear"></div></div></div></div></div></div><div class="box_content_related"><p> <b>Seguici su Facebook!</b><br>Siamo pronti ad ascoltarti.<span class="separator_1"></span><img src="/mediaObject/social/banner_facebook/original/banner_facebook.jpg" alt="Seguici su Facebook..." title="Seguici su Facebook..." width="167" height="87" class="corner iradius5" /></p>
+    <p><a target="_blank" href="https://www.facebook.com/GruppoTecnocasa"><strong>Clicca qui</strong></a></p> <p>&nbsp;</p>
+    <ul class="approfondisci"></ul></div><div class="box_content_related"><p> Scarica l'applicazione mobile del Gruppo Tecnocasa<span class="separator_1"></span><img src="/mediaObject/iphone-android/banner_site/original/banner_site.jpg" alt="Applicazione Mobile del Gruppo Tecnocasa" title="Applicazione Mobile del Gruppo Tecnocasa" width="167" height="87" class="corner iradius5" /></p>
+    <p><a target="_blank" href="/site/it/globals/iphon-app.html">Clicca qui<br /> </a></p> <p>&nbsp;</p>
+    <ul class="approfondisci"></ul></div><div class="box_contact"><div class="corner_t_dx"><div class="corner_b_sx"><div class="corner_b_dx"><a href="/site/it/globals/contatti/agencysearch.html"><img src="/mediaObject/varie/Contatto-immobiliare-BOx/resolutions/res-73x75/data.png" alt="Contatta un Agente Immobiliare del Gruppo" title="Contatta un Agente Immobiliare del Gruppo" width="73" height="75" /></a><p><a href="/site/it/globals/contatti/agencysearch.html">Contatta un Agente Immobiliare del Gruppo</a><br/><a style="margin-top:1px" class="button" href="/site/it/globals/contatti/agencysearch.html">CONTATTACI</a></p><div class="clear"></div></div></div></div></div><script type="text/javascript">
+    window.addEvent('domready', function() {
+      $$('form.inbox').addEvent('submit', function(e) {
+        var propertyId = this.getElement('input[name=id]').get('value');
+        new Request.JSON({
+          url : this.get('action'),
+          method : 'post',
+          data : {
+            propertyId : propertyId,
+            isPropertyIdValid : true
+          },
+          onSuccess : function(json, text) {
+            if (json.valid == 'true') {
+              $('propertyid-error').addClass('visibility-hidden');
+              if (json.isCompro) {
+                location.href = '/site/it/contents/iltuoimmobile/propertyResults/compro.html?propertyDetails=true&propertyId='+propertyId;
+              } else {
+                location.href = '/site/it/contents/iltuoimmobile/propertyResults/affitto.html?propertyDetails=true&propertyId='+propertyId;
+              }
+            } else {
+              $('propertyid-error').removeClass('visibility-hidden');
+            }
+          }
+        }).send();
+      });
+    });
+  </script><div class="box_contact"><div class="corner_t_dx"><div class="corner_b_sx"><div class="corner_b_dx"><img src="/mediaObject/varie/Leasing-Box/resolutions/res-73x75/Leasing-Box.png" alt="Trova l'immobile tramite il codice" title="Trova l'immobile tramite il codice" width="73" height="75" /><p>Trova l'immobile tramite il codice</p><div class="clear"></div><form class="inbox" onsubmit="return false;" method="post" action="/actions/searchPropertyResult.action"><fieldset><input style="margin-right:1px;" name="id" type="text"/><input class="box-button" name="id" value="Cerca" type="submit"/><div class="visibility-hidden red" id="propertyid-error">Nessun immobile trovato</div></fieldset></form></div></div></div></div><div class="box_content_related"><p> Io l'ho sottoscritta! E tu cosa aspetti?<span class="separator_1"></span><img src="/mediaObject/varie/Mission-Grande---copia/resolutions/res-167x87/data.png" alt="Aggiornami via e-mail!" title="Aggiornami via e-mail!" width="167" height="87" class="corner iradius5" /></p>
+    <p>Oltre 50.000 newsletter sottoscritte ogni anno!</p> <p><a href="/site/it/globals/newsletter.html">Iscriviti subito!</a></p> <p>&nbsp;</p>
+    <ul class="approfondisci"></ul></div><div class="box_content_related"><p> <b>Speciale "Grandi Città"</b><span class="separator_1"></span><img src="/mediaObject/grandicitta/banner/resolutions/res-167x87/data.jpg" alt="speciale grandi città" title="speciale grandi città" width="167" height="87" class="corner iradius5" /></p>
+    <p><a href="/site/it/globals/specialegc.html"><strong>Trova la tua casa</strong></a></p> <p>&nbsp;</p>
+    <ul class="approfondisci"></ul></div><div class="box_content_related"><p> <b>Speciale "Immobili Turistici"</b><span class="separator_1"></span><img src="/mediaObject/ZIT/speciale_turistico/original/speciale_turistico.jpg" alt="speciale immobili turistici" title="speciale immobili turistici" width="167" height="87" class="corner iradius5" /></p>
+    <p><a href="/site/it/globals/italia.html"><strong>Trova la tua casa</strong></a></p> <p>&nbsp;</p>
+    <ul class="approfondisci"></ul></div><div class="box_content_related"><p> <span class="separator_1"></span><img src="/mediaObject/contacts/LaDucale/original/LaDucale.jpg" alt="Visita i nostri cantieri" title="Visita i nostri cantieri" width="167" height="87" class="corner iradius5" /></p>
+    <p>Vieni a visitare i nostri cantieri.</p>
+    <ul class="approfondisci"><li class="last">
+          
+          <a href="http://www.laducale.it">www.laducale.it</a>
+        </li></ul></div><div class="clear"></div><div class="box_cross_link search_detail"><div class="corner_t_sx"><div class="corner_t_dx"><div class="corner_b_sx"><div class="corner_b_dx"><p><a href="/secure/actions/savePropertyQuery.action?saveMyProperty&amp;propertyId=21052576" class="savesecure add saveMy"> Salva l'immobile</a></p><p><a class="printIt" href="javascript:window.print();">Stampa la scheda</a></p><p><a href="/actions/ContactFriend.action?contactFriendEmail.link=%2Fsite%2Fit%2Fcontents%2Filtuoimmobile%2FpropertyResults%2Fcompro.html%3FpropertyDetails%26amp%3BpropertyId%3D21052576&amp;contactFriendEmail.message=Ho+trovato+questo+immobile+che+potrebbe+interessarti+%21+L%27ho+trovato+sul+sito+del+Gruppo+Tecnocasa.&amp;propertyId=21052576" class="openiframe send">Segnala ad un amico</a></p></div></div></div></div></div></div><div class="clear"></div><div id="footer-nav" class="generic nineforty"><ul><li >
+          
+          <a href="http://www.gruppotecnocasa.it/pub/group/it/gruppotecnocasa/chisiamo/informazionisocietarie.html">@ 2009 Gruppo: "TECNOCASA HOLDING S.p.A."</a>
+        </li><li >
+          
+          <a href="http://www.gruppotecnocasa.it/pub/group/it/gruppotecnocasa/chisiamo/informazionisocietarie.html">P.iva 08365140154</a>
+        </li><li >
+          
+          <a href="/site/it/globals/sitemap.html">Mappa del sito</a>
+        </li><li >
+          
+          <a href="https://login3.tecnocasa.com/">Area Affiliati</a>
+        </li><li class="last">
+          
+          <a href="http://www.tecnocasa.it/pub/site/it/globals/policytecnocasa.html">Policy utilizzo</a>
+        </li></ul></div><script type="text/javascript">
+    urlWithEvent = "/site/it/contents/iltuoimmobile/propertyResults/compro-searchpropertyresult-propertyDetails.html";
+  </script>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12687335-1");
+pageTracker._setDomainName(".tecnocasa.it");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+  <script type="text/javascript">
+  <!--
+    window.addEvent('domready', function() {
+        if (Browser.Engine.trident &&  Browser.Engine.version <= 4) {
+          if (Cookie.read('incompatibleFlag') != 'shown') {
+            SqueezeBox.initialize();
+            SqueezeBox.open($('incompatibleFlagMsg'), {
+              handler: 'adopt',
+              classWindow : 'bgWhite',
+              size: {x: 700, y: 500}
+            });
+            Cookie.write('incompatibleFlag', 'shown', {duration: 1});
+          }
+        }
+    });
+  -->
+  </script></div></body></html>

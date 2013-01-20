@@ -47,7 +47,7 @@ public interface IHouseAgent {
      * @param announce
      * @return
      */
-    AnnounceScrapingResult scrapeDeep(HouseAnnounce announce);
+    AnnounceScrapingResult scrapeAnnounce(HouseAnnounce announce);
     
     /**
      * Returns a unique key for the given announce

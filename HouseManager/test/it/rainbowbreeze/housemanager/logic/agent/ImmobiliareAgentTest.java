@@ -58,7 +58,7 @@ public class ImmobiliareAgentTest {
         File file = new File("testresources/immobiliare_mock_search_1.txt");
         String fileContent = StreamHelper.toString(new FileInputStream(file));
         
-        mNetworkManager.getUrlReplies().put(ImmobiliareAgent.URL_FIRST_RESULT_PAGE, fileContent);
+        mNetworkManager.getUrlReplies().put(mAgent.getSearchUrlFromCursor(null), fileContent);
         
         SearchPageAgentResult result = mAgent.scrape();
         assertNotNull(result);
@@ -87,7 +87,7 @@ public class ImmobiliareAgentTest {
         String fileContent = StreamHelper.toString(new FileInputStream(file));
         String cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=2";
         
-        mNetworkManager.getUrlReplies().put(ImmobiliareAgent.URL_NEXT_RESULT_PAGE_BASE + cursor, fileContent);
+        mNetworkManager.getUrlReplies().put(mAgent.getSearchUrlFromCursor(cursor), fileContent);
         
         SearchPageAgentResult result = mAgent.scrape(cursor);
         assertNotNull(result);
@@ -115,7 +115,7 @@ public class ImmobiliareAgentTest {
         File file = new File("testresources/immobiliare_mock_search_61.txt");
         String fileContent = StreamHelper.toString(new FileInputStream(file));
 
-        mNetworkManager.getUrlReplies().put(ImmobiliareAgent.URL_NEXT_RESULT_PAGE_BASE + cursor, fileContent);
+        mNetworkManager.getUrlReplies().put(mAgent.getSearchUrlFromCursor(cursor), fileContent);
         
         SearchPageAgentResult result = mAgent.scrape(cursor);
         assertNotNull(result);
@@ -149,7 +149,7 @@ public class ImmobiliareAgentTest {
         HouseAnnounce announce = new HouseAnnounce()
                 .setDetailUrl(url);
         
-        AnnounceScrapingResult result = mAgent.scrapeDeep(announce);
+        AnnounceScrapingResult result = mAgent.scrapeAnnounce(announce);
         assertNotNull(result);
         assertFalse(result.hasErrors());
         assertNotNull(result.getAnnounce());
