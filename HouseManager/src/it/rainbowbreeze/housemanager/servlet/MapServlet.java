@@ -60,10 +60,10 @@ public class MapServlet extends HttpServlet {
         }
 
         //Pavia borders
-        req.setAttribute("mapSWLat", 45.212036101115885);
-        req.setAttribute("mapSWLng", 9.116249084472656);
-        req.setAttribute("mapNELat", 45.168725648565285);
-        req.setAttribute("mapNELng", 9.203453063964844);
+        req.setAttribute("mapSWLat", 45.21);
+        req.setAttribute("mapSWLng", 9.12);
+        req.setAttribute("mapNELat", 45.17);
+        req.setAttribute("mapNELng", 9.20);
         req.setAttribute("latestDataUpdate", bag.getLastDataRefresh());
         req.setAttribute("areAgentsRunning", bag.isRunningAgentsEmpty());
         req.setAttribute("totalAnnounces", totalAnnouces);

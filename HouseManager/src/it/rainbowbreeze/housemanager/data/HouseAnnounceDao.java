@@ -77,11 +77,26 @@ public class HouseAnnounceDao extends ObjectifyAbstractDao<HouseAnnounce> {
         int count = 0;
         for(int i=announces.size()-1; i >=0; i--) {
             HouseAnnounce announce = announces.get(i);
+            boolean remove = false;
+            
+            //checks for location
             if (StringUtils.isEmpty(announce.getLat()) || StringUtils.isEmpty(announce.getLon())) {
+                remove = true;
+            }
+            
+            //checks for pavia range
+            if (!remove) {
+                double lat = Double.parseDouble(announce.getLat());
+                double lon = Double.parseDouble(announce.getLon());
+                remove = (lat > 45.23 || lat < 45.16) || (lon < 9.10 || lon > 9.21);
+            }
+
+            if (remove) {
                 count++;
                 announces.remove(i);
             }
         }
+        
         if (count > 0) mLogFacility.d(LOG_HASH, "Removed " + count + " announce(s)");
 
         for(HouseAnnounce announce : announces) {

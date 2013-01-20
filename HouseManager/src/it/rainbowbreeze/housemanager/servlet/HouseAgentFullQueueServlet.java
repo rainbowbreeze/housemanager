@@ -143,11 +143,15 @@ public class HouseAgentFullQueueServlet extends HttpServlet {
      * @param agentDomain
      */
     private void notifyAgentStopped(String agentDomain) {
+        mLogFacility.d(LOG_HASH, "Finished agent execution: " + agentDomain);
         AppGlobalStatusBag bag = App.i().getAppGlobalStatusBagDao().get();
         bag.removeRunningAgents(agentDomain);
-        bag.setLastDataRefresh(new Date());
+        if (bag.isRunningAgentsEmpty()) {
+            mLogFacility.d(LOG_HASH, "All agents have finished the execution, forcing cache refresh");
+            bag.setLastDataRefresh(new Date());
+            App.i().getCacheManager().cleanCache();
+        }
         App.i().getAppGlobalStatusBagDao().save(bag);
-        App.i().getCacheManager().cleanCache();
     }
 
     // ----------------------------------------- Private Classes

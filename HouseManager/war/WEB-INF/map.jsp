@@ -22,7 +22,7 @@
                 var mapOptions = {
                     //center: new google.maps.LatLng(45.185182663283705, 9.158477783203125),
                     //zoom: 8,
-                    mapTypeId: google.maps.MapTypeId.SATELLITE
+                    mapTypeId: google.maps.MapTypeId.HYBRID
                 };
                 map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
 
