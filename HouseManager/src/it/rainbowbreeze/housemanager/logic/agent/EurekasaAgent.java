@@ -141,20 +141,34 @@ public class EurekasaAgent extends HouseAgentAbstract {
                 findData = true;
             }
         } catch (Exception e) {
-            mLogFacility.w(LOG_HASH, "Cannot find img#image-");
+            try {
+                //anonymous image
+                String imgSrc = announceElem.select("div.thumbs_annunci").first().select("img").first().attr("src");
+                if (StringUtils.isNotEmpty(imgSrc)) {
+                    announce.setImgUrl(URL_BASE_SITE + imgSrc);
+                    findData = true;
+                }
+            } catch (Exception e2) {
+                mLogFacility.w(LOG_HASH, "Cannot find img#image-");
+            }
         }
         
         try {
             String priceStr = announceElem.select("div#prezzo-" + id).first().text();
-            if (StringUtils.isEmpty(ScraperUtils.getTextBetween(priceStr, null, "&nbsp;€"))) {
-                priceStr = ScraperUtils.getTextBetween(priceStr, null, " €");
+            if (priceStr.startsWith("Trattative riservate")) {
+                findData = true;
+                announce.setPrice(0);
             } else {
-                priceStr = ScraperUtils.getTextBetween(priceStr, null, "&nbsp;€");
+                if (StringUtils.isEmpty(ScraperUtils.getTextBetween(priceStr, null, "&nbsp;€"))) {
+                    priceStr = ScraperUtils.getTextBetween(priceStr, null, " €");
+                } else {
+                    priceStr = ScraperUtils.getTextBetween(priceStr, null, "&nbsp;€");
+                }
+                priceStr = priceStr.replace(".", "");
+                int price = Integer.parseInt(priceStr);
+                announce.setPrice(price);
+                findData = true;
             }
-            priceStr = priceStr.replace(".", "");
-            int price = Integer.parseInt(priceStr);
-            announce.setPrice(price);
-            findData = true;
         } catch (NumberFormatException e) {
             mLogFacility.w(LOG_HASH, "Wrong conversion of price for announce " + announce.getDetailUrl());
         } catch (Exception e) {
@@ -185,8 +199,41 @@ public class EurekasaAgent extends HouseAgentAbstract {
 
     @Override
     protected boolean scrapeAnnounceDocument(Document doc, HouseAnnounce announce) {
-        // TODO Auto-generated method stub
-        return false;
+        boolean deeperProcessed = false;
+        
+        //description
+        try {
+            String desc = doc.select("span#description").first().text();
+            if (StringUtils.isNotEmpty(desc)) {
+                announce.setShortDesc(desc);
+                deeperProcessed = true;
+            }
+        } catch (Exception e) {
+            mLogFacility.w(LOG_HASH, "Cannot find span#description");
+        }
+        
+        //lat/long
+        try {
+            String onClick = doc.select("div.divJustify").first().getElementsByTag("div").get(2).attr("onClick");
+            int initPos = onClick.indexOf("togglePreviewBox(");
+            initPos += "togglePreviewBox(".length();
+            initPos = onClick.indexOf(",", initPos);
+            initPos += 1;
+            int finalPos = onClick.indexOf(",", initPos);
+            String lat = onClick.substring(initPos, finalPos).trim();
+            initPos = finalPos + 1;
+            finalPos = onClick.indexOf(",", initPos);
+            String lon = onClick.substring(initPos, finalPos).trim();
+            if (StringUtils.isNotEmpty(lat) && StringUtils.isNotEmpty(lon)) {
+                announce.setLat(lat);
+                announce.setLon(lon);
+                deeperProcessed = true;
+            }
+        } catch (Exception e) {
+            mLogFacility.w(LOG_HASH, "Cannot find div#titolo_mappa");
+        }
+        
+        return deeperProcessed;
     }
 
     // ----------------------------------------- Private Classes

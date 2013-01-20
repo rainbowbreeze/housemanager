@@ -1,0 +1,604 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="it-IT">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="language" content="IT">
+	<meta name="robots" content="index,follow">
+    <title>Appartamento in Vendita a Pavia. Trilocale da ristrutturare. Piano alto - eureKasa.it</title>
+    <meta name="keywords" content="Appartamento, Vendita, Pavia, Pavia, Lombardia, Prezzo: 132000, Superficie: 80 Mq., Riscaldamento: Centralizzato, Locali:  3, Stato: Da ristrutturare">
+    <meta name="description" content="Pavia - Appartamento in Vendita - Descrizione: PAVIA - Viale Campari 83/b: luminoso tre locali al piano 5° ed ultimo servito da ascensore composto da ingresso, soggiorno, cucina semi-abitabile, due">
+    <link rel="icon" href="http://www.eurekasa.it/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="http://www.eurekasa.it/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="/dojo/1.8.1/dojo/resources/dojo.css">
+    <link rel="stylesheet" type="text/css" href="/dojo/1.8.1/dijit/themes/tundra/tundra.css">
+    <link rel="stylesheet" type="text/css" href="/css/default-dojo~1282901785.css">
+    <link rel="stylesheet" type="text/css" href="/css/default-main~1334314698.css">
+    <link rel="stylesheet" type="text/css" href="/css/default-search~1276081485.css">
+    <link rel="stylesheet" type="text/css" href="/css/default-calendar~1276081485.css">
+    <!--[if gte IE 5]><link rel="stylesheet" type="text/css" href="/css/default-IE~1279800840.css"><![endif]-->
+    <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/css/default-IE6~1291995413.css"><![endif]-->
+    <!--[if lte IE 6 ]><style type="text/css">#pageStructure { width:1000px; }</style><![endif]-->
+<script type="text/javascript">
+<!--
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-869582-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type =
+'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+  })();
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
+var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + 
+	'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+	})();
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
+dojoConfig = djConfig = {selectorEngine: 'css3', locale: 'it', isDebug: false, ioPublish : true};
+ekConfig = {cookieDomain: ".eurekasa.it", userIsLoggedIn: false, fbApiKey: "93946059a3c701bcb606ae20534dea8a"};
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
+googletag.cmd.push(function() {
+var  dfpBannerInit1 = googletag.defineSlot('/16059616/Eurekasa_Dett_Box_300x250', [300, 250], 'div-gpt-ad-1339682633318-0').addService(googletag.pubads());
+  dfpBannerInit1.setTargeting('Province', 'PV' );  dfpBannerInit1.setTargeting('Comune', '8303' );var  dfpBannerInit2 = googletag.defineSlot('/16059616/Eurekasa_Dett_LB_Top_728x90', [728, 90], 'div-gpt-ad-1339682633318-1').addService(googletag.pubads());
+  dfpBannerInit2.setTargeting('Province', 'PV' );  dfpBannerInit2.setTargeting('Comune', '8303' );googletag.pubads().enableSingleRequest();
+			googletag.pubads().collapseEmptyDivs();
+			googletag.enableServices();
+			});
+//-->
+</script>
+
+    <script type="text/javascript" src="/dojo/1.8.1/dojo/dojo.js"></script>
+    <script type="text/javascript" src="/dojo/1.8.1/verticalsites/nls/VerticalsitesDojoAggregated-181_it.js"></script>
+    <script type="text/javascript" src="/dojo/verticalsites/VerticalsitesDojoAggregated-181.js"></script>
+    <script type="text/javascript" src="/js/language_it~1353513107.js"></script>
+    <script type="text/javascript" src="/jsbundle/main~1357740542.js"></script>
+    <script type="text/javascript" src="/js/calendar~1353513107.js"></script>
+    <script type="text/javascript" src="/js/library~1353513107.js"></script>
+    <script type="text/javascript" src="/js/mainEKBL~1353513107.js"></script>
+    <script type="text/javascript" src="/js/main~1357741428.js"></script>
+    <script type="text/javascript" src="/js/userPanel~1357748881.js"></script>
+    <script type="text/javascript" src="/js/mailPanel~1353513107.js"></script>
+    <script type="text/javascript" src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA5l84FiQI7IYHMhNAVUu96hTRIir2WJC2Wmn4Z9HgXzr8UkwCahSZVbOHw4ZlwbgA3ESVhxoyQoezHw"></script>
+    <script type="text/javascript" src="/js/BDCCCircle~1353513107.js"></script>
+  </head>
+<body class="tundra bodyOthers">
+<div id="dialogContainer"></div>
+<div id="dialogImage" class="contentAzzurroSfumato" style="display:none;background-color:#B6D7F0;"></div>
+<center id="divCent"><div id="page">
+<div style="width: 100%;"><div class="logoTabs">
+<div class="blockleft" style="width: 240px; margin-top: 52px;"><a href="http://www.eurekasa.it"><img src="/vimages/default/IT/logos/smallLogoNormal~1263894585.png" width="234" height="42" alt=""></a></div>
+<div class="blockright border borderGrigio">
+<div id="bannerLeaderboard"><div id="div-gpt-ad-1339682633318-1" style="width:728px; height:90px;"><script type="text/javascript">
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1339682633318-1'); });
+					</script></div></div>
+<div class="empty"></div>
+</div>
+<div class="empty"></div>
+</div></div>
+<script type="text/javascript">
+		var sAnnuncioName = "Appartamento-Pavia-35936442.jpg";
+		var sIdAnnuncio = "35936442";
+		var numImage = 1;
+		var numTotalImage = 10;
+		var nContToHide = 1;
+		var sendToFriendAdId = 35936442;
+	</script><div id="LAtop" class="blockleft" style="width:100%;">
+<div id="menuSup" class="blockleft marginTop" style="width:100%;">
+<div id="home_menu_div_border_left" class="menuBorder leftSelectedInitial"></div>
+<div class="menuSupElement bold blockleft" id="home_menu_div_1"><div class="bigtitle selected" id="home_1">Residenziale</div></div>
+<div id="home_right_1" class="menuBorder rightSelected"></div>
+<div class="menuSupElement bold blockleft" id="home_menu_div_2"><a class="bigtitle forceLink" id="home_2" href="/vendita/commerciale/Lombardia/Pavia/Pavia/Pavia.html">Commerciale</a></div>
+<div id="home_right_2" class="menuBorder right"></div>
+<div class="menuSupElement bold blockleft" id="home_menu_div_3"><a class="bigtitle forceLink" id="home_3" href="/affitto/vacanze/Lombardia/Pavia/Pavia/Pavia.html">Turistico</a></div>
+<div id="home_right_3" class="menuBorder right"></div>
+<div class="menuSupElement bold blockleft" id="home_menu_div_4"><a class="bigtitle forceLink" id="home_4" href="/affitto/stanze/Lombardia/Pavia/Pavia/Pavia.html">Stanze</a></div>
+<div id="home_right_4" class="menuBorder right"></div>
+<div class="menuSupElement bold blockleft" id="home_menu_div_5"><a class="bigtitle forceLink" id="home_5" href="/immobili-in-costruzione/Pavia/cantieri.html">Nuove costruzioni</a></div>
+<div id="home_right_5" class="menuBorder right"></div>
+<div class="menuSupElement bold blockleft" id="home_menu_div_6"><a class="bigtitle forceLink" id="home_6" href="http://agenzie-immobiliari.eurekasa.it/agenzie/Lombardia-Pavia-Pavia">Agenzie</a></div>
+<div id="home_menu_div_border_right" class="menuBorder rightInitial"></div>
+<div class="blockright marginRight size2 bold"><span class="marginLeft red"><img src="/vimages/default/IT/ico-pubblica-annuncio-GRANDE~1248970976.png" width="20" height="28" style="margin-right:5px;text-aling:top;" alt=""><a class="dashed" href="#" rel="nofollow" onclick='javascript:VsUtil.windowLocationReverse("00001=emiTtiaWlaititsretni&amp;php.oicnunna_otnemiresni=lrukcab?php.idecca/ti.erailibommi.www//:ptth=tcerideRlanretxElaititsretni&amp;sdAhsilbup=egassem?lmth.laititsretni/troppus/");'>Pubblica un annuncio GRATIS</a></span></div>
+</div>
+<div class="empty"></div>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-collapse: collapse"><tbody>
+<tr>
+<td class="topleft"></td>
+<td class="borderContentTop"></td>
+<td class="topright"></td>
+</tr>
+<tr>
+<td class="borderLateralLeftBlue"></td>
+<td class="contentAzzurro" border="0">
+<div class="bigtitle bold blockleft" style="background-color:#D1EDFB; padding: 5 13 5 13">
+<a title="Torna indietro" href="http://annunci-casa.eurekasa.it/vendita/residenziale/Lombardia/Pavia/Pavia/Appartamento/Appartamento.html"><img src="/vimages/default/IT/freccette_dietro~1246551398.gif" width="11" height="10" style="margin-right:4px;" alt=""><span style="color:#6EA2C8">Torna</span></a><img src="/vimages/default/IT/separatore-verticale~1246551398.gif" width="2" height="20" style="margin-right:7px;margin-left:7px;text-aling:top;" alt=""><a title="Ricerca immobili nella Regione" href="http://annunci-casa.eurekasa.it/vendita/residenziale/Lombardia/Lombardia.html">Lombardia</a><img src="/vimages/default/IT/freccetta_avanti~1246551398.gif" width="6" height="10" style="margin: 0px 5px;" alt=""><a title="Ricerca immobili nella Provincia" href="http://annunci-casa.eurekasa.it/vendita/residenziale/Lombardia/Pavia/Pavia.html">Pavia</a><img src="/vimages/default/IT/freccetta_avanti~1246551398.gif" width="6" height="10" style="margin: 0px 5px;" alt=""><a title="Ricerca immobili nel Comune" href="http://annunci-casa.eurekasa.it/vendita/residenziale/Lombardia/Pavia/Pavia/Pavia.html">Pavia</a>
+</div>
+<div class="blockright marginRight" style="margin-top:1px;margin-right:2px;"><table class="size1 " cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse"><tbody>
+<tr>
+<td class="topleftAzzurroChiaro"></td>
+<td class="borderContentTopAzzurroChiaro"></td>
+<td class="toprightAzzurroChiaro"></td>
+</tr>
+<tr>
+<td class="borderLateralAzurroChiaro"></td>
+<td class="contentAzzurroChiaro" style="padding:0 4 0 4 0;" border="0"><div style="height:18px;">
+<div id="LoginButton" class="blockLeft marginLeft darkblue forceLink"><img src="/vimages/default/IT/ico-accedi~1248970976.png" width="16" height="16" style="margin-right:5px;text-aling:top;" alt=""><a class="dashed">Accedi</a>
+</div>
+<div id="registrationButton" class="blockLeft marginLeft darkblue forceLink"><img src="/vimages/default/IT/ico-registrati~1248970976.png" width="16" height="16" style="margin-right:5px;text-aling:top;" alt=""><a class="dashed">Registrati</a>
+</div>
+<script>
+				dojo.addOnLoad(function(){
+					dojo.connect(dojo.byId('LoginButton'), 'onclick', function (evt) {			
+						dojo.stopEvent(evt);
+						VsUserDialog.show('Login');
+					});
+
+				dojo.connect(dojo.byId('registrationButton'), 'onclick', function (evt) {
+						dojo.stopEvent(evt);
+						VsUserDialog.show('Registration');
+					});
+				});
+			</script>
+</div></td>
+<td class="borderLateralAzurroChiaro"></td>
+</tr>
+<tr>
+<td class="bottomleftAzzurroChiaro"></td>
+<td class="borderContentTopAzzurroChiaro"></td>
+<td class="bottomrightAzzurroChiaro"></td>
+</tr>
+</tbody></table></div>
+</td>
+<td class="borderLateralRightBlue"></td>
+</tr>
+<tr>
+<td class="bottomleftAzurro"></td>
+<td class="borderContentBottomAzurro"></td>
+<td class="bottomrightAzurro"></td>
+</tr>
+</tbody></table>
+</div>
+<div id="XDleft" class="blockleft marginRight" style="width:610px;">
+<table class="marginTop" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse;">
+<tr>
+<td class="topleftGray"></td>
+<td class="borderContentTopGray"></td>
+<td class="toprightGray"></td>
+</tr>
+<tr>
+<td class="borderLateralLeftGray"></td>
+<td class="contentGray boxTitle bold" border="0">
+<span class="bold marginLeft blockLeft" style="padding:4px 0px;"><img src="/vimages/default/IT/iconoPrivati~1246551398.png" width="16" height="16" style="margin-right:5px;text-aling:top;" alt="">Informazioni sull’annuncio</span><span class="darkBlue bigtitle marginLeft blockLeft">|</span><span class="marginLeft blockLeft" style="padding:4px 0px;"><img src="/vimages/default/IT/listaAnnunci/dettagli~1248970976.png" width="16" height="16" style="margin-right:5px;text-aling:top;" alt=""><a class="dashed" style="font-weight:normal;" title="Ricerca immobili nel Comune" href="http://annunci-casa.eurekasa.it/vendita/residenziale/Lombardia/Pavia/Pavia/Pavia.html">Annunci simili</a></span>
+</td>
+<td class="borderLateralRightGray"></td>
+</tr>
+<tr>
+<td class="borderLateralLeftWhite"></td>
+<td class="contentWhite" border="0">
+<div class="blockleft textleft padder" style=" padding:14 14 0 14;">
+<span class="bigtitle bold dettaglio">Appartamento in vendita a Pavia<br></span><div class="marginSmallTop marginSmallBottom">
+<span><b>Indirizzo: </b>viale campari</span><span class="darkBlue bigtitle marginRight marginLeft">|</span><span><img src="/vimages/default/IT/ico-traslochi~1329147556.png" width="13" height="13" style="margin-bottom: -1px" alt=""> <a class="dashed" id="traslochiDialogLink" href="#" style="margin-left: 5px">Risparmia sul trasloco<script type="text/javascript">
+														dojo.connect(dojo.byId('traslochiDialogLink'), 'onclick', function (evt) {
+														dojo.stopEvent(evt);
+														VsUserDialog.show('traslochi');
+														});
+													</script></a></span>
+</div>
+<div class="empty"></div>
+<div class="marginSmallTop marginBottom">
+<span class="bold bigtitle darkBlue">Prezzo: 132.000 &#8364;</span><span class="darkBlue bigtitle marginRight marginLeft">|</span><span class="bold bigtitle red marginSmallTop marginSmallBottom"><img src="/vimages/default/IT/ico-denaro~1246551398.png" width="16" height="16" style="margin-bottom: -1px" alt=""> <a target="_blank" class="dashed" id="mutuiDialogLink" href="http://www.eurekasa.it/mutui-casa.html">Calcola mutuo<script type="text/javascript">
+														dojo.connect(dojo.byId('mutuiDialogLink'), 'onclick', function (evt) {
+															dojo.stopEvent(evt);
+															
+															var sBaseUrl = escape(location.href);
+															VsUserDialog.show('mutui');
+														});
+													</script></a></span>
+</div>
+<div class="blockleft" style="line-height: 18px;">
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Riferimento: </span>0034A</div>
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Superficie: </span>80 m&#178;</div>
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Balcone: </span>sì</div>
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Box: </span>no</div>
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Locali: </span>3</div>
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Giardino: </span>Nessuno</div>
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Data: </span>28/11/2012</div>
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Cucina: </span>Semi abitabile</div>
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Piano: </span>5</div>
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Bagni: </span>1</div>
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Riscaldamento: </span>Centralizzato</div>
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Con Ascensore: </span>sì</div>
+<div class="blockleft divWidthData_A" style="width:287px;border-bottom:1px solid #DDD; height:25px;line-height:25px;">
+<span class="bold small darkBlue">Stato: </span>Da ristrutturare</div>
+<div class="blockleft energeticClass" style="padding: 5px 0px;width:287px;border-bottom:1px solid #DDD;height:15px;line-height:15px;">
+<span class="bold small darkBlue">Classe Energetica</span>: <img src="/vimages/default/icons/energetic/G~1300965890.png" width="26" height="15" style="margin-right:5px;vertical-align:-3px;" alt=""><span>325.47 kWh/m² anno</span>
+</div>
+</div>
+</div>
+<div class="empty"></div>
+<br><div class="divJustify" style="padding:10px 13px;overflow:hidden;">
+<span id="description"> PAVIA - Viale Campari 83/b: luminoso tre locali al piano 5° ed ultimo servito da ascensore composto da ingresso, soggiorno, cucina semi-abitabile, due camere di cui una matrimoniale, bagno, ripostiglio, ampio balcone, cantina. l'immobile che è da rivedere internamente è libero subito. le spese condominiali sono di circa 1.600/anno comprensive di riscaldamento centralizzato. la zona è decisamente servita sia dai mezzi pubblici che dal centro commerciale Coop a pochi passi.
+
+PAVIA - Viale Campari 83 / b: bright three rooms on the 5th and last floor with elevator composed of entrance, living room, kitchen semi-kitchen, two bedrooms, one bedroom, bathroom, utility room, large balcony, cellar. property that is to be reviewed internally is free immediately. the expenses are about 1.600/anno including central heating. the area is definitely serviced by public transport from the Coop shopping center within walking distance.
+
+PAVIA - Viale Campari 83 / b: trois chambres lumineuses sur la 5ème et dernier étage avec ascenseur composé d'une entrée, salon, cuisine semi-cuisine, deux chambres, une chambre, salle de bains, buanderie, grand balcon, cave. propriété qui doit être examiné à l'interne est libre immédiatement. les dépenses sont sur le 1.600/anno y compris le chauffage central. la région est sans aucun doute desservi par les transports en commun du centre commercial Coop à distance de marche.
+
+PAVIA - Viale Campari 83 / b: brillantes tres habitaciones en la 5 ª planta y última con ascensor, compuesto de entrada, salón-comedor, cocina semi-cocina, dos dormitorios, un dormitorio, baño, lavadero, amplio balcón, trastero. propiedad que se revisará internamente es libre inmediatamente. los gastos son aproximadamente 1.600/anno incluyendo calefacción central. la zona es sin duda la red de transporte público del centro comercial Coop poca distancia.
+
+PAVIA - Viale Campari 83 / b: heldere drie kamers op de 5e en laatste verdieping met lift, bestaande uit entree, woonkamer, keuken semi-keuken, twee slaapkamers, een slaapkamer, badkamer, bijkeuken, groot balkon, kelder. eigenschap die intern wordt beoordeeld is gratis onmiddellijk. de kosten zijn ongeveer 1.600/anno waaronder centrale verwarming. het gebied is zeker met het openbaar vervoer van het Coop winkelcentrum op loopafstand. </span><script type="text/javascript">stripLongTextForTag('description', 50);</script><br class="empty"><div class="empty"></div>
+<br><div onclick="togglePreviewBox(35936442, 45.187301635742, 9.1743803024292,'Vedi annuncio su mappa');if(gvaMiniMaps[35936442] == null) { miniMap(35936442, 45.187301635742, 9.1743803024292, 6, '1', 'dettaglio_annuncio');}  return false;">
+<div style="float: left; margin-top: 5px; margin-right: 3px; display: block;" id="previewImageOpen-35936442"><img src="/vimages/default/IT/listaAnnunci/ico-anteprima-apri~1248970976.png" width="16" height="16" class="noRedirect" alt=""></div>
+<div style="float: left; margin-top: 5px; margin-right: 3px; display: none;" id="previewImageClose-35936442"><img src="/vimages/default/IT/listaAnnunci/ico-anteprima-chiudi~1248970976.png" width="16" height="16" class="noRedirect" alt=""></div>
+<div style="float: left; margin-top: 5px;"><span style="border-bottom: 1px dotted; cursor: pointer" id="previewLabel-35936442">Vedi annuncio su mappa</span></div>
+</div>
+<div class="clear"></div>
+<div style="float: left; margin-top: 15px; display:none; visibility: hidden; height: 1px; text-align: left;" id="previewBox-35936442">
+<div style="height:200px; border-top:1px solid #cacaca; border-bottom:1px solid #cacaca; margin-top:2px;width: 575px;" id="item_gmap_35936442"></div>
+<div style="display: none; height:200px; border-top:1px solid #cacaca; border-bottom:1px solid #cacaca; margin-top:2px;width: 575;" id="item_streetView_35936442"></div>
+<div style="margin-top:6px; height:20px; padding-top:2px;width: 575;">
+<div class="mini_maps_toolbar_btn">
+<div class="mini_maps_toolbar_label blockleft">Zoom:</div>
+<div class="blockleft" onclick='miniMapCtrl("zoomin", 35936442)'><img src="/vimages/map/ico-mappa-zoom+.gif" class="mini_maps_toolbar_icon"></div>
+<div class="mini_maps_toolbar_btn blockleft" style="margin-right: 10px;" onclick='miniMapCtrl("zoomout", 35936442)'><img src="/vimages/map/ico-mappa-zoom-.gif" class="mini_maps_toolbar_icon"></div>
+</div>
+<div class="mini_maps_toolbar_btn blockleft" onclick='miniMapCtrl("size", 35936442)'>
+<img src="/vimages/map/ico-mappa-allarga.gif" class="mini_maps_toolbar_icon" id="mini_map_size_icon_35936442"><span id="mini_map_size_label_35936442">Allarga</span>
+</div>
+<div class="mini_maps_toolbar_btn blockleft" onclick='miniMapCtrl("center", 35936442)'>
+<img src="/vimages/map/ico-mappa-pos_iniziale.gif" class="mini_maps_toolbar_icon">Pos. iniziale</div>
+<div class="mini_maps_toolbar_btn blockright" style="display: none;" id="mini_map_streetview-35936442" onclick='miniMapCtrl("streetView", 35936442, 45.187301635742, 9.1743803024292);'>
+<img src="/vimages/map/ico-mappa-streetview.gif" class="mini_maps_toolbar_icon">Street View</div>
+<script type="text/javascript">addMapOnLoad('mini_map_streetview-35936442', 45.187301635742, 9.1743803024292);</script><div class="mini_maps_toolbar_btn blockright" onclick='miniMapCtrl("ibrida", 35936442)'>
+<img src="/vimages/map/ico-mappa-ibrida.gif" class="mini_maps_toolbar_icon" id="mini_maps_toolbar_icon_hybrid">Ibrida</div>
+<div class="mini_maps_toolbar_btn blockright" onclick='miniMapCtrl("mappa", 35936442)'>
+<img src="/vimages/map/ico-mappa-mappa.gif" class="mini_maps_toolbar_icon">Mappa</div>
+<div class="mini_maps_toolbar_btn blockright" onclick='miniMapCtrl("satellite", 35936442)'>
+<img src="/vimages/map/ico-mappa-satellite.gif" class="mini_maps_toolbar_icon">Satellite</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</td>
+<td class="borderLateralRightWhite"></td>
+</tr>
+<tr>
+<td class="bottomleftWhite"></td>
+<td class="borderContentBottomWhite"></td>
+<td class="bottomrightWhite"></td>
+</tr>
+</table>
+<table class="marginTop" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-collapse: collapse"><tbody>
+<tr>
+<td class="topleftAzzurro"></td>
+<td class="borderContentTopAzzurro"></td>
+<td class="toprightAzzurro"></td>
+</tr>
+<tr>
+<td class="borderLateralLeftAzzurro"></td>
+<td class="contentAzzurro boxTitle" border="0"><span class="bold marginLeft"><img src="/vimages/default/IT/iconoProfessionisti~1246551398.png" width="16" height="16" style="margin-right:5px;text-aling:top;" alt="">Richiedi maggiori informazioni all´inserzionista</span></td>
+<td class="borderLateralRightAzzurro"></td>
+</tr>
+<tr>
+<td class="borderLateralLeftGraySfumato"></td>
+<td id="formContactBottom" class="contentGraySfumato bold" style="padding: 10 0 10 0;" border="0">
+<div class="agencyInformation">
+<div><img alt="" src="/thumbs/agenzie/7677565"></div>
+<br class="empty"><div class="blockleft marginTop size2"><a class="black forcelink" title="Vedi la scheda dell´Agenzia" href="http://agenzie-immobiliari.eurekasa.it/Studio_Immobiliare_Cantoni-Pavia-agenzia_25798">Studio Immobiliare Cantoni</a></div>
+<br class="empty"><div class="noBold blockleft marginTop" style="line-height:20px;">corso manzoni<br> 64/6,
+					27100 Pavia</div>
+<br class="empty"><div class="marginTop blockleft" style="line-height:20px;"><img src="/vimages/default/IT/ico-tel~1248970976.png" width="16" height="16" alt=""> 038220341<br>
+</div>
+</div>
+<div class="blockleft" style="margin: 10 0 10 10;padding:10px;">Inserisci i tuoi dati di contatto e la tua richiesta<form method="post" id="contatto" onSubmit="return checkEmailForm(this)" action="http://www.eurekasa.it/invia_email.php?type=dettaglio">
+<input type="hidden" name="site_from" value="EK"><input type="hidden" name="url_pagina" value="http://www.eurekasa.it/vendita/residenziale/Lombardia/Pavia/Appartamento-Pavia-35936442.html"><input type="hidden" name="backurl" value="http://annunci-casa.eurekasa.it/vendita/residenziale/Lombardia/Pavia/Appartamento-Pavia-35936442.html"><input type="hidden" name="idAnnuncio" value="35936442"><input type="hidden" name="idAgenzia" value="25798"><input type="hidden" name="source" value="dettaglio_annuncio"><div class="blockleft marginTop" style="padding-right:10px;">
+<div class="blockleft" style="width: 125px;"><input name="nome" style="width:125px;" type="text" size="18" maxlength="50" id="nome_a" value="Nome" class="form-text2 gray" onblur="changeInputTextColor (this, 'Nome', false, '#5A5A5A');" onfocus="changeInputTextColor (this,'Nome', true, 'black');"></div>
+<br class="empty"><div class="blockleft" style="width: 125px;"><input name="telefono" style="width:125px;" type="text" size="18" maxlength="50" id="telefono" value="Telefono" class="form-text2 gray" onblur="changeInputTextColor (this, 'Telefono', false, '#5A5A5A');" onfocus="changeInputTextColor (this,'Telefono', true, 'black');"></div>
+<br class="empty"><div class="blockleft" style="width: 125px;"><input name="email" style="width:125px;" type="text" size="18" maxlength="50" id="email" value="Email" class="form-text2 gray" onblur="changeInputTextColor (this, 'Email', false, '#5A5A5A');" onfocus="changeInputTextColor (this,'Email', true, 'black');"></div>
+</div>
+<div class="blockleft marginTop" style="width:190px;"><textarea name="commento" rows="2" cols="20" class="form-text2 gray" id="commento" style="height: 70px; width: 190px;">Vorrei maggiori informazioni sull'immobile</textarea></div>
+<div class="clear"></div>
+<br><div class="blockleft  marginTop" style="width:100%;">
+<div class="blockleft divJustify noBold">
+<span class="xsmall blockleft" style="margin-top:-2px;margin-right:3px;"><input name="privacy" type="checkbox" style="border: 0px none ; margin: 0px; padding: 0px;" checked value="S" id="privacy_a"></span><span class="xsmall blockleft" style="width:220px;" id="sw_acconsento_zz_A_n_div_id197607">Acconsento al trattamento dei dati personali
+				</span><br><span class="xsmall blockleft">
+				(<a class="dashed forceLink" onclick="window.open('http://www.eurekasa.it/casa/informazioni/politica-di-privacy.php')">leggi l'informativa</a>)
+				</span>
+</div>
+<div class="clear"></div>
+<div class="blockright marginTop">
+<input type="submit" class="InviaSubmit" onmouseover="changeBackgroundPosition(this,0,-34);" onmouseout="changeBackgroundPosition(this,0,0);" value="" id="inviaRichiesta"><br class="emptyBR">
+</div>
+</div>
+</form>
+</div>
+</td>
+<td class="borderLateralRightGraySfumato"></td>
+</tr>
+<tr>
+<td class="bottomleftGray"></td>
+<td class="borderContentBottomGray"></td>
+<td class="bottomrightGray"></td>
+</tr>
+</tbody></table>
+</div>
+<div id="XDright" class="blockright marginTop" style="width:375px;">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse;">
+<tr>
+<td class="topleftGray"></td>
+<td class="borderContentTopGray"></td>
+<td class="toprightGray"></td>
+</tr>
+<tr>
+<td class="borderLateralLeftGray"></td>
+<td class="contentGray" border="0"><div id="ListAdsMenuMid">
+<div class="marginLeft darkblue forceLink blockLeft" id="bookmarkSave-35936442"><img src="/vimages/default/IT/ico-stellavuota~1248970976.png" width="16" height="16" alt=""><span style="border-bottom: 1px dotted">Salva</span>
+</div>
+<script type="text/javascript">
+								dojo.addOnLoad(function() {
+									VsUserDialog.initLoginAndDoAction('bookmarkSave-35936442', function(){
+											bookmarkAction('35936442','ad','saveInPlace'); }, false);
+								});
+							</script><span class=" marginLeft darkblue forceLink blockLeft" id="bookmarkDelete-35936442" onclick="bookmarkAction('35936442', 'ad', 'deleteInPlace');" style="display:none"><img src="/vimages/default/IT/ico-preferiti~1248970976.png" width="16" height="16" style="margin-right:2px;text-aling:top;" alt=""><a class="dashed">Salvato</a></span><span class="marginLeft darkblue blockLeft" style="height:14px;"><img src="/vimages/default/IT/ico-mail-azzurra~1246551398.png" width="16" height="16" style="margin-right:2px;text-aling:top;" alt=""><a id="sendToFriend" class="dashed" href="#">Invia ad amico</a><script>
+									dojo.addOnLoad(function(){
+										dojo.connect(dojo.byId('sendToFriend'), 'onclick', function (evt) {
+											dojo.stopEvent(evt);
+											VsUserDialog.show('sendToFriend',{page: "/mail/sendToFriend.php?adId=" + sendToFriendAdId});
+										})
+									});
+									</script></span><span class="marginLeft darkblue blockLeft"><a class="forceLink" onclick="window.open('?stampa=s')"><img src="/vimages/default/IT/ico-stampa~1248970976.png" width="16" height="16" style="margin-right:2px;text-aling:top;" alt=""></a><a class="dashed forceLink" onclick="window.open('?stampa=s')">Stampa</a></span><span class="marginLeft darkblue blockLeft" style="height:14px;"><img src="/vimages/default/IT/ico-segnala~1248970976.png" width="16" height="16" style="margin-right:2px;text-aling:top;" alt=""><a id="reportButton" class="dashed" href="#">Segnala errori</a></span><script>
+									dojo.query('#reportButton').on('click', function (evt) {
+										dojo.stopEvent(evt);
+										VsUserDialog.show('ErrorReport',{container: 'errorReport'});
+									})
+								</script>
+</div></td>
+<td class="borderLateralRightGray"></td>
+</tr>
+<tr>
+<td class="bottomleftGray"></td>
+<td class="borderContentBottomGray"></td>
+<td class="bottomrightGray"></td>
+</tr>
+</table>
+<table class="marginTop" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-collapse: collapse"><tbody>
+<tr>
+<td class="topleftAzzurro"></td>
+<td class="borderContentTopAzzurro"></td>
+<td class="toprightAzzurro"></td>
+</tr>
+<tr>
+<td class="borderLateralLeftAzzurro"></td>
+<td class="contentAzzurro boxTitle" border="0"><span class="bold marginLeft"><img src="/vimages/default/IT/iconoProfessionisti~1246551398.png" width="16" height="16" style="margin-right:5px;text-aling:top;" alt="">Richiedi maggiori informazioni all´inserzionista</span></td>
+<td class="borderLateralRightAzzurro"></td>
+</tr>
+<tr>
+<td class="borderLateralLeftGraySfumato"></td>
+<td id="formContactBottom" class="contentGraySfumato bold" style="padding: 10 0 10 0;" border="0"><div class="blockleft" style="margin: 10 0 10 10;padding:10px;">Inserisci i tuoi dati di contatto e la tua richiesta<form method="post" id="contatto" onSubmit="return checkEmailForm(this)" action="http://www.eurekasa.it/invia_email.php?type=dettaglio">
+<input type="hidden" name="site_from" value="EK"><input type="hidden" name="url_pagina" value="http://www.eurekasa.it/vendita/residenziale/Lombardia/Pavia/Appartamento-Pavia-35936442.html"><input type="hidden" name="backurl" value="http://annunci-casa.eurekasa.it/vendita/residenziale/Lombardia/Pavia/Appartamento-Pavia-35936442.html"><input type="hidden" name="idAnnuncio" value="35936442"><input type="hidden" name="idAgenzia" value="25798"><input type="hidden" name="source" value="dettaglio_annuncio"><div class="blockleft marginTop" style="padding-right:10px;">
+<div class="blockleft" style="width: 125px;"><input name="nome" style="width:125px;" type="text" size="18" maxlength="50" id="nome_a" value="Nome" class="form-text2 gray" onblur="changeInputTextColor (this, 'Nome', false, '#5A5A5A');" onfocus="changeInputTextColor (this,'Nome', true, 'black');"></div>
+<br class="empty"><div class="blockleft" style="width: 125px;"><input name="telefono" style="width:125px;" type="text" size="18" maxlength="50" id="telefono" value="Telefono" class="form-text2 gray" onblur="changeInputTextColor (this, 'Telefono', false, '#5A5A5A');" onfocus="changeInputTextColor (this,'Telefono', true, 'black');"></div>
+<br class="empty"><div class="blockleft" style="width: 125px;"><input name="email" style="width:125px;" type="text" size="18" maxlength="50" id="email" value="Email" class="form-text2 gray" onblur="changeInputTextColor (this, 'Email', false, '#5A5A5A');" onfocus="changeInputTextColor (this,'Email', true, 'black');"></div>
+</div>
+<div class="blockleft marginTop" style="width:190px;"><textarea name="commento" rows="2" cols="20" class="form-text2 gray" id="commento" style="height: 70px; width: 190px;">Vorrei maggiori informazioni sull'immobile</textarea></div>
+<div class="clear"></div>
+<br><div class="blockleft  marginTop" style="width:100%;">
+<div class="blockleft divJustify noBold">
+<span class="xsmall blockleft" style="margin-top:-2px;margin-right:3px;"><input name="privacy" type="checkbox" style="border: 0px none ; margin: 0px; padding: 0px;" checked value="S" id="privacy_a"></span><span class="xsmall blockleft" style="width:220px;" id="sw_acconsento_zz_A_n_div_id197607">Acconsento al trattamento dei dati personali
+				</span><br><span class="xsmall blockleft">
+				(<a class="dashed forceLink" onclick="window.open('http://www.eurekasa.it/casa/informazioni/politica-di-privacy.php')">leggi l'informativa</a>)
+				</span>
+</div>
+<div class="clear"></div>
+<div class="blockright marginTop">
+<input type="submit" class="InviaSubmit" onmouseover="changeBackgroundPosition(this,0,-34);" onmouseout="changeBackgroundPosition(this,0,0);" value="" id="inviaRichiesta"><br class="emptyBR">
+</div>
+</div>
+</form>
+</div></td>
+<td class="borderLateralRightGraySfumato"></td>
+</tr>
+<tr>
+<td class="bottomleftGray"></td>
+<td class="borderContentBottomGray"></td>
+<td class="bottomrightGray"></td>
+</tr>
+</tbody></table>
+<div id="Immagini" class="blockleft marginTop" style="width:100%;">
+<script type="text/javascript">
+		function swap(currentNum, currentID, sPref) {
+			var url = "url('/thumbs/400x300/"+currentID+"/"+sPref+".jpg')";
+			document.getElementById('imageContainer').style.backgroundImage = url;
+		}
+	</script><div id="imgBigLeft" class="blockleft adsDetailImage" style="display:none;width:100%; height:274px;border:2px solid red;"></div>
+<div id="imgBig" class="blockleft" style="width:375px;height:284px;">
+<div id="imgBig1" class="blockleft adsDetailImage" style="opacity:1;background-image: url('/thumbs/400x300/35936442/1/Appartamento_Pavia_278239997.jpg');width:375px; height:284px;"></div>
+<div id="imgBig2" class="blockleft adsDetailImage" style="position:absolute;opacity:0;width:375px; height:284px;"></div>
+</div>
+<div id="imgBigRight" class="blockleft adsDetailImage" style="display: none;width:100%; height:274px;border:2px solid yellow;"></div>
+<div id="topVetrinaDettaglio" class="blockleft "><div class="blockleft">
+<span class="darkBlue bold size1">Immagini <span id="numeroImg"> 1 </span>di 10</span><span style="margin:0 5px;">|</span><span id="play" class="darkblue"><a onclick="play();"><span class="dashed">play</span><img src="/vimages/default/IT/ico-play~1248970976.png" width="15" height="15" style="margin-left:4px;" alt=""></a></span>
+</div></div>
+<div class="blockleft" onmouseover="loadStartImage()">
+<div id="vetrinaDettaglioLeft" class="blockleft forcelink" onclick="slideLeft();"></div>
+<div id="vetrinaDettaglioContentCenter" class="blockleft">
+<div class="thumb-IE adsDetailThumbs" id="img1" style="float:left;margin-top:10px;margin-left:7px;background-image: url('/thumbs/100x75/35936442/10/Appartamento_Pavia_278240173.jpg');" onclick="slideLeft();"></div>
+<div id="img2" name="1" number="3" class="thumb-IE adsDetailThumbs" style="float:left;margin-top:10px;margin-left:7px;background-image: url('/thumbs/100x75/35936442/1/Appartamento_Pavia_278239997.jpg');border-color:12386B;" onclick="slideRight();"></div>
+<div id="img3" name="2" number="3" class="thumb-IE adsDetailThumbs" style="float:left;margin-top:10px;margin-left:7px;background-image: url('/thumbs/100x75/35936442/2/Appartamento_Pavia_278240014.jpg');" onclick="slideRight();"></div>
+</div>
+<div id="vetrinaDettaglioRight" class="blockleft forcelink" onclick="slideRight();"></div>
+</div>
+<div class="empty"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div id="errorReport" style="float:left;display:none;">
+<div class="formSfumato" style="width: 580px; float:left; padding: 20px;">
+<div class="textleft marginBottom">Se ritieni che in questo annuncio ci sia un errore, puoi segnalarcelo compilando i seguenti campi. Grazie per la tua collaborazione.</div>
+<div style="float: left; width:315px;">
+<div style="line-height: 28px; float: left;">
+<label style="width: 100px; display: block; float: left;">Email</label><input name="email" style="margin-top: 0px; width:190px;" type="text" size="15" id="segnalaErrori_email">
+</div>
+<div style="line-height: 28px; float: left;"><div style="float: left; margin-right: 10px;">
+<label style="width: 100px; display: block; float: left;">Nome</label><input name="nominativo" style="margin-top: 0px; width:190px;" type="text" size="15" id="segnalaErrori_nome">
+</div></div>
+<div style="line-height: 28px; float: left;"><div style="float: left; margin-right: 10px;">
+<label style="width: 100px; display: block; float: left;">Tipo di errore</label><select id="segnalaErrori_tipologia" name="idTipoErrore" class="" style="width:190px;"><option value="10">già venduto</option>
+<option value="20">l´immobile non esiste</option>
+<option value="30">errore nei dati</option>
+<option value="40">errore nel prezzo</option>
+<option value="50">errore nelle foto</option>
+<option value="60">errore nella mappa</option>
+<option value="70">altro</option></select>
+</div></div>
+</div>
+<div class="blockleft" style="width:220px;padding-left: 25px;"><textarea name="messaggio" id="segnalaErrori_messaggio" value="Messaggio" cols="26" rows="4" class="gray" style="font-size:14px; margin-top:0px; height:82px; width:210px;" onfocus="changeInputTextColor(this,'Scrivi qui la tua segnalazione', true, 'black');" onblur="changeInputTextColor(this,'Scrivi qui la tua segnalazione', false, 'black');">Scrivi qui la tua segnalazione</textarea></div>
+<div class="clear"></div>
+<div id="segnalaErrori_errormessage" style="margin-top: 5px; margin-bottom: 8px; font-weight: bold; color: red;"></div>
+<div class="blockleft"><div class="empty blockleft" style="width: 100%;">
+<div class="xsmall blockleft" style="margin-right: 5px;"><input name="privacy" type="checkbox" checked value="1" id="segnalaErrori_privacy"></div>
+<div class="blockleft" style="font-size: 11px;">Acconsento al trattamento dei dati personali<br>(<a class="dashed forceLink" onclick="window.open('http://www.eurekasa.it/casa/informazioni/politica-di-privacy.php')">leggi l'informativa</a>)</div>
+<div class="blockleft" style="padding-left: 150px;"><input type="button" name="invia" class="inviaSubmit" onmouseover="changeBackgroundPosition(this,0,-34);" onmouseout="changeBackgroundPosition(this,0,0);" id="inviaRichiesta" onclick="submitError();"></div>
+<div class="empty"></div>
+</div></div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="blockleft" style="line-height:20px;width:1000px;height:270px;font-size:13px;">
+<div id="footerWinter" class="blockleft" style="height:270px;width:366px;"><div class="blockright" style="padding-top: 171px; font-size: 12px; text-align: left; width: 298px;line-height:14px;">
+<div><script type="text/javascript">
+							document.write('<span class="bold">© 2013</span> tutti i diritti riservati ');
+						</script></div>
+<div><script type="text/javascript">
+							document.write('P.IVA 08435221000 ');
+						</script></div>
+<a class="black" href="#" onclick="window.open('http://www.immobiliare.it/dati_societari.html',null,'top=250,left=100,height=280,width=450,status=no, directories=no, toolbar=no, location=no, menubar=no,scrollbars=no, resizable=no');">Dati societari</a>
+</div></div>
+<div id="footerText" class="blockright" style="position:relative;margin-left:-45px;width:675px;"><div class="blockright" style="margin-top:120px;width:675px;position:relative;">
+<div class="divFooter blockright  divJustify" style="margin-top:10px;">
+<span class="bold grigio">Servizi per Professionisti</span><br><span><a class="dashed black" href="http://www.eurekasa.it/accesso_agenzie.php">Pubblica i tuoi annunci</a></span><br><span><a class="dashed black" href="http://www.eurekasa.it/sito-agenzie.php">Crea sito web</a></span><br><span><a class="dashed black" href="http://www.eurekasa.it/pubblicita.php">Pubblicità su eureKasa.it</a></span><br>
+</div>
+<div class="footerSeparator blockright"></div>
+<div class="divFooter blockright divJustify" style="padding-right : 20px; margin-top:10px;">
+<span class="bold grigio">Servizi per Privati</span><br><span><a class="dashed black" href="#" rel="nofollow" onclick='javascript:VsUtil.windowLocationReverse("00001=emiTtiaWlaititsretni&amp;php.oicnunna_otnemiresni=lrukcab?php.idecca/ti.erailibommi.www//:ptth=tcerideRlanretxElaititsretni&amp;sdAhsilbup=egassem?lmth.laititsretni/troppus/");'>Pubblica annuncio</a></span><br><span><a class="dashed black" href="http://www.eurekasa.it/mutui-casa.html">Mutui</a> | <a class="dashed black" href="http://www.eurekasa.it/prestiti.html">Prestiti</a></span><br><span><a class="dashed black" href="http://www.eurekasa.it/bricolage-casa/bricolage.php">Bricolage</a></span><br>
+</div>
+<div class="footerSeparator blockright"></div>
+<div id="footerDynColumn" class="blockright"></div>
+<script type="text/javascript" defer>
+						dynWriteFooter();
+					</script><div class="divFooter blockright divJustify" style="margin-top:10px; padding-right:20px;">
+<span class="bold grigio">La società</span><br><span><a class="dashed black" href="http://www.eurekasa.it/casa/informazioni/eurekasa.php">Chi siamo</a> | <a class="dashed black" href="http://www.eurekasa.it/casa/informazioni/contatti.php">Contatti</a></span><br><span><a class="dashed black" href="http://www.eurekasa.it/casa/informazioni/ufficio-stampa.php">Ufficio stampa</a></span><br><span><a class="dashed black" href="http://www.eurekasa.it/casa/informazioni/lavora-con-eurekasa.php">Lavora con noi</a></span>
+</div>
+<div class="blockleft marginLeft" style="float: left; font-size: 12px; margin-top:5px;width:600px;">L’accesso e l’utilizzo del sito sono subordinati all’accettazione dei <a class="dashed black" href="http://www.eurekasa.it/casa/informazioni/termini-uso.php">Termini d’uso</a> e delle <a class="dashed black" href="http://www.eurekasa.it/casa/informazioni/politica-di-privacy.php">Regole della Privacy</a>
+</div>
+<div class="clear"></div>
+</div></div>
+<div class="clear"></div>
+<script type="text/javascript" defer> 
+ 	  			var oggi=new Date(); 
+ 	  		 	var giorno=oggi.getDate(); 
+                var mese=oggi.getMonth() +1  ; 
+         
+         
+                if((mese == 12 && giorno >=22 ) || mese == 1 || mese == 2 || (mese == 3 && giorno <= 19)){ 
+                     divChangeClass('divCent','footerBgWinter'); 
+                }
+                else if ((mese == 3 && giorno >= 20) || mese == 4 || mese == 5 || (mese == 6 && giorno <= 20)){ 
+                     divChangeClass('divCent','footerBgSpring'); 
+                }
+                else if ((mese == 6 && giorno >= 21) || mese == 7 || mese == 8 || (mese == 9 && giorno <= 22) ){ 
+                     divChangeClass('divCent','footerBgSummer'); 
+                }else{
+                	 divChangeClass('divCent','footerBgAutunnale'); 
+                }
+           
+		     </script>
+</div>
+<br class="empty">
+</div></center>
+<div id="fb-root"></div>
+<script type="text/javascript">
+<!--
+// START Nielsen//NetRatings SiteCensus V5.2
+// COPYRIGHT 2006 Nielsen//NetRatings
+var _rsCI="intelia-it";
+var _rsCG="0";
+var _rsDN="//secure-it.imrworldwide.com/";
+var _rsCC=0;
+var _rsIP=1;
+// END Nielsen//NetRatings SiteCensus V5.2
+//-->
+</script>
+
+<noscript>
+<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
+<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
+
+<img src="//secure-it.imrworldwide.com/cgi-bin/m?ci=intelia-it&amp;cg=0" style="display:none" alt="" />
+
+<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
+</noscript>
+
+<script type="text/javascript">
+<!--
+var ekFacebook = null;
+window.fbAsyncInit = function() {
+	dojo.addOnLoad( function() {
+		ekFacebook = new EurekasaFacebook('93946059a3c701bcb606ae20534dea8a', '.eurekasa.it', false);
+	});
+};
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol + '//connect.facebook.net/it_IT/all.js';
+    if(document.getElementById('fb-root') != null) {
+    	document.getElementById('fb-root').appendChild(e);
+    }
+  }());
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
+// INTELIA
+if (location.search.indexOf("dotjs_r=leonardo&dotjs_t=affiliate&dotjs_j=")>-1 && document.referrer.indexOf(location.search.substring(location.search.lastIndexOf("dotjs_j=")+8))>-1)
+	document.write("<" + "img src='http://media.intelia.it/adclick.php?bannerid=10200&n=ae6bcb90' WIDTH='1' HEIGHT='1' BORDER='0'>");
+//-->
+</script>
+</body>
+  <!-- Transf. on _LOCALHOST_ by www9 (time: 0.07) -->
+</html>

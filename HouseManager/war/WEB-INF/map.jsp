@@ -72,9 +72,14 @@
                 content += "<td>"
                 content += "<img src=\"" + announce.imgUrl + "\" alt=\"" + announce.title + "\">";
                 content += "</td><td>"
-                content += "<strong>Area: </strong>" + announce.area + " mq<br>"
-                content += "<strong>Prezzo: </strong>";
-                if (announce.price > 0) content += addCommas(announce.price) + " ${currency}"; else content += "Sconosciuto";
+                content += "<strong>Area</strong>: " + announce.area + " mq<br>"
+                content += "<strong>Prezzo</strong>: ";
+                if (announce.price > 0) {
+                    content += addCommas(announce.price) + " ${currency}<br>";
+                    content += "<strong>${currency}/mq</strong>: " + addCommas(Math.floor(announce.price / announce.area));
+                } else {
+                    content += "Sconosciuto";
+                }
                 content += "</td>"
                 content += "</tr></table> <br>"
                 content += unescape(announce.shortDesc) + "<br>";

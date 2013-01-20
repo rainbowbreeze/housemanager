@@ -7,9 +7,9 @@ import it.rainbowbreeze.housemanager.common.App;
 import it.rainbowbreeze.housemanager.common.ILogFacility;
 import it.rainbowbreeze.housemanager.data.HouseAnnounceDao;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
+import it.rainbowbreeze.housemanager.logic.agent.EurekasaAgent;
 import it.rainbowbreeze.housemanager.logic.agent.IHouseAgent;
 import it.rainbowbreeze.housemanager.logic.agent.ImmobiliareAgent;
-import it.rainbowbreeze.housemanager.logic.agent.TecnocasaAgent;
 import it.rainbowbreeze.housemanager.servlet.HouseAgentFullQueueServlet;
 import it.rainbowbreeze.housemanager.servlet.HouseAgentSingleQueueServlet;
 
@@ -47,8 +47,8 @@ public class HouseAgentsManager {
         //creates scraping agents
         IHouseAgent immobiliare = new ImmobiliareAgent(mLogFacility, networkManager);
         mAgents.put(immobiliare.getName(), immobiliare);
-//        IHouseAgent tecnocasa = new TecnocasaAgent(mLogFacility, networkManager);
-//        mAgents.put(tecnocasa.getName(), tecnocasa);
+        IHouseAgent eurekasa = new EurekasaAgent(mLogFacility, networkManager);
+        mAgents.put(eurekasa.getName(), eurekasa);
     }
 
     // --------------------------------------- Public Properties

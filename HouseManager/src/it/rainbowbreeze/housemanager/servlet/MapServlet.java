@@ -43,7 +43,7 @@ public class MapServlet extends HttpServlet {
         
         String jsonAnnounces = null;
         int totalAnnouces = 0;
-        if (cacheManager.isRefreshRequired(bag.getLastDataRefresh())) {
+        if (!cacheManager.isRefreshRequired(bag.getLastDataRefresh())) {
             jsonAnnounces = cacheManager.getAnnouncesJson();
             totalAnnouces = cacheManager.getAnnouncesNumber();
             logFacility.d(LOG_HASH, "Announces should be present in cache");

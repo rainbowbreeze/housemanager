@@ -103,7 +103,7 @@ public class ImmobiliareAgentTest {
             assertTrue("Short desc", StringUtils.isNotEmpty(announce.getShortDesc()));
             assertTrue("Title", StringUtils.isNotEmpty(announce.getTitle()));
             assertTrue("Area", announce.getArea() > 0);
-            assertTrue("Price", announce.getPrice() > -1); //trattative riservate
+            assertTrue("Price", announce.getPrice() >= 0); //trattative riservate
             assertTrue("Domain", StringUtils.isNotEmpty(announce.getDomainSite()));
             assertFalse("Deep processed", announce.wasDeepProcessed());
         }

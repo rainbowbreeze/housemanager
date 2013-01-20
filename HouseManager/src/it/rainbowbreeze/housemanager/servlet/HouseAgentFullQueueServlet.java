@@ -147,6 +147,7 @@ public class HouseAgentFullQueueServlet extends HttpServlet {
         bag.removeRunningAgents(agentDomain);
         bag.setLastDataRefresh(new Date());
         App.i().getAppGlobalStatusBagDao().save(bag);
+        App.i().getCacheManager().cleanCache();
     }
 
     // ----------------------------------------- Private Classes

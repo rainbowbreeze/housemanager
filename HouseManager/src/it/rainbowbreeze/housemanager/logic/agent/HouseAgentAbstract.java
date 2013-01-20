@@ -36,12 +36,6 @@ public abstract class HouseAgentAbstract  implements IHouseAgent {
     // --------------------------------------- Public Properties
 
     // ------------------------------------------ Public Methods
-    public void initProcess() {
-    }
-
-    public void coolDown() {
-    }
-
     /**
      * Get the URL of a search page from a given cursor. If the cursor is null, the first
      * search page URL is returned
@@ -51,11 +45,18 @@ public abstract class HouseAgentAbstract  implements IHouseAgent {
      */
     public abstract String getSearchUrlFromCursor(String cursor);
 
-    @Override
+
+    public void initProcess() {
+    }
+
+    public void coolDown() {
+    }
+
     public HouseAnnounce createAnnounce() {
         return new HouseAnnounce()
                 .setDomainSite(getName())
-                .setAnnounceType(AnnounceType.SELL);
+                .setAnnounceType(AnnounceType.SELL)
+                .setPrice(-1);
     }
 
     public String getTaskQueueName(Date date, HouseAnnounce announce) {

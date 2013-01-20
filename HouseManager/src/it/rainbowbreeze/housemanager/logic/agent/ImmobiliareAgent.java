@@ -148,7 +148,14 @@ public class ImmobiliareAgent extends HouseAgentAbstract {
                 findData = true;
                 announce.setPrice(0);
             } else {
-                int price = Integer.parseInt(priceStr);
+                int price;
+                try {
+                    price = Integer.parseInt(priceStr);
+                } catch (NumberFormatException e) {
+                    //sometimes price is 300.001 - 500.000 €
+                    priceStr = ScraperUtils.getTextBetween(priceStr, null, "-").trim();
+                    price = Integer.parseInt(priceStr);
+                }
                 findData = true;
                 announce.setPrice(price);
             }

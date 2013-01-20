@@ -72,37 +72,35 @@ public class EurekasaAgentTest {
             assertTrue("Short desc", StringUtils.isEmpty(announce.getShortDesc()));
             assertTrue("Title", StringUtils.isNotEmpty(announce.getTitle()));
             assertTrue("Area", announce.getArea() > 0);
-            assertTrue("Price", announce.getPrice() > 0);
+            assertTrue("Price", announce.getPrice() >= 0);
             assertTrue("Domain", StringUtils.isNotEmpty(announce.getDomainSite()));
             assertFalse("Deep processed", announce.wasDeepProcessed());
         }
     }
     
-    /**
-
     @Test
     public void testSecondPage() throws Exception {
-        File file = new File("testresources/immobiliare_mock_search_2.txt");
+        File file = new File("testresources/eurekasa_mock_search_2.txt");
         String fileContent = StreamHelper.toString(new FileInputStream(file));
-        String cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=2";
+        String cursor = "pag2";
         
-        mNetworkManager.getUrlReplies().put(EurekasaAgent.URL_NEXT_RESULT_PAGE_BASE + cursor, fileContent);
+        mNetworkManager.getUrlReplies().put(mAgent.getSearchUrlFromCursor(cursor), fileContent);
         
         SearchPageAgentResult result = mAgent.scrape(cursor);
         assertNotNull(result);
         assertTrue(result.hasMoreResults());
         assertFalse(result.hasErrors());
-        assertEquals(62, result.getTotalPages());
+        assertEquals(53, result.getTotalPages());
         assertEquals(15, result.getAnnounces().size());
-        assertEquals("/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=3", result.getCursor());
+        assertEquals("pag3", result.getCursor());
         
         for (HouseAnnounce announce : result.getAnnounces()) {
             assertTrue("Detail url", StringUtils.isNotEmpty(announce.getDetailUrl()));
             assertTrue("Image url", StringUtils.isNotEmpty(announce.getImgUrl()));
-            assertTrue("Short desc", StringUtils.isNotEmpty(announce.getShortDesc()));
+            assertTrue("Short desc", StringUtils.isEmpty(announce.getShortDesc()));
             assertTrue("Title", StringUtils.isNotEmpty(announce.getTitle()));
             assertTrue("Area", announce.getArea() > 0);
-            assertTrue("Price", announce.getPrice() > -1); //trattative riservate
+            assertTrue("Price", announce.getPrice() >= 0);
             assertTrue("Domain", StringUtils.isNotEmpty(announce.getDomainSite()));
             assertFalse("Deep processed", announce.wasDeepProcessed());
         }
@@ -110,38 +108,37 @@ public class EurekasaAgentTest {
 
     @Test
     public void testLastPage() throws Exception {
-        String cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=61";
-        File file = new File("testresources/immobiliare_mock_search_61.txt");
+        File file = new File("testresources/eurekasa_mock_search_53.txt");
         String fileContent = StreamHelper.toString(new FileInputStream(file));
-
-        mNetworkManager.getUrlReplies().put(EurekasaAgent + cursor, fileContent);
+        String cursor = "pag53";
+        
+        mNetworkManager.getUrlReplies().put(mAgent.getSearchUrlFromCursor(cursor), fileContent);
         
         SearchPageAgentResult result = mAgent.scrape(cursor);
         assertNotNull(result);
         assertFalse(result.hasErrors());
-        assertEquals(61, result.getTotalPages());
-        assertEquals(6, result.getAnnounces().size());
         assertFalse(result.hasMoreResults());
+        assertEquals(53, result.getTotalPages());
+        assertEquals(15, result.getAnnounces().size());
         assertTrue(StringUtils.isEmpty(result.getCursor()));
         
         for (HouseAnnounce announce : result.getAnnounces()) {
             assertTrue("Detail url", StringUtils.isNotEmpty(announce.getDetailUrl()));
             assertTrue("Image url", StringUtils.isNotEmpty(announce.getImgUrl()));
-            assertTrue("Short desc", StringUtils.isNotEmpty(announce.getShortDesc()));
+            assertTrue("Short desc", StringUtils.isEmpty(announce.getShortDesc()));
             assertTrue("Title", StringUtils.isNotEmpty(announce.getTitle()));
             assertTrue("Area", announce.getArea() > 0);
+            assertTrue("Price", announce.getPrice() >= 0);
             assertTrue("Domain", StringUtils.isNotEmpty(announce.getDomainSite()));
             assertFalse("Deep processed", announce.wasDeepProcessed());
-            //assertTrue("Price", announce.getPrice() > 0); //trattativa riservata
         }
     }
-    */
     
     @Test
     public void testAnnounceScraping() throws Exception {
-        String url = "http://www.tecnocasa.it/schedaimmobile/21042538.html";
+        String url = "http://annunci-casa.eurekasa.it/vendita/residenziale/Lombardia/Pavia/Villa-Pavia-19567617.html";
         
-        File file = new File("testresources/tecnocasa_mock_detail_1.txt");
+        File file = new File("testresources/eurekasa_mock_detail_1.txt");
         String fileContent = StreamHelper.toString(new FileInputStream(file));
 
         mNetworkManager.getUrlReplies().put(url, fileContent);
@@ -155,10 +152,10 @@ public class EurekasaAgentTest {
         assertNotNull(result.getAnnounce());
         announce = result.getAnnounce();
         assertTrue(announce.wasDeepProcessed());
-        assertEquals("45.181", announce.getLat());
-        assertEquals("9.16894", announce.getLon());
+        assertEquals("45.187301635742", announce.getLat());
+        assertEquals("9.1743803024292", announce.getLon());
         assertFalse(StringUtils.isEmpty(announce.getShortDesc()));
-        assertTrue(announce.getShortDesc().startsWith("Pavia, ad un passo da Corso Garibaldi, in viale Venezia, ex casa Einstein, recentemente ristrutturata, ottimo ampio bilocale con"));
+        assertTrue(announce.getShortDesc().startsWith("PAVIA - Viale Campari 83/b: luminoso tre locali al piano 5° ed ultimo servito da ascensore composto da ingresso, soggiorno, cucina semi-abitabile, due camere di cui una matrimoniale, bagno, ripostiglio, ampio balcone, cantina. l'immobile che è da rivedere internamente è libero subito. le spese condominiali sono di circa"));
     }
     
     @Test
