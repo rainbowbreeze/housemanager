@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Case a Pavia...</title>
+        <title>Case in vendita a Pavia</title>
         
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
         <link rel="stylesheet" type="text/css" href="style.css">
