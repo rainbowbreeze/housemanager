@@ -14,6 +14,15 @@
         <url-pattern>/map</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>HeatMap</servlet-name>
+        <servlet-class>it.rainbowbreeze.housemanager.servlet.HeatMapServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>HeatMap</servlet-name>
+        <url-pattern>/heatmap</url-pattern>
+    </servlet-mapping>
+
     
     <!-- Task queues -->
     <servlet>
