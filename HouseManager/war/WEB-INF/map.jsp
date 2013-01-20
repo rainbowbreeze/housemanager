@@ -130,6 +130,7 @@
 <body onload="initialize()">
 
     <div id="navigation">
+        <h3>Case in vendita a Pavia</h3>
         <span class="paramTitle">Prezzo massimo: </span>
         <span id="priceChosen">${priceUpper}</span> ${currency} 
         <div id="slider">

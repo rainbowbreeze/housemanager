@@ -80,6 +80,7 @@
 <body onload="initialize()">
 
     <div id="navigation">
+        <h3>Case in vendita a Pavia</h3>
         <p>
             <span class="paramTitle">Annunci totali: </span>${totalAnnounces}
         </p>
