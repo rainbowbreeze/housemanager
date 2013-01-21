@@ -4,7 +4,9 @@
 package it.rainbowbreeze.housemanager.data;
 
 import it.rainbowbreeze.housemanager.common.ILogFacility;
+import it.rainbowbreeze.housemanager.logic.ScraperUtils;
 
+import java.io.IOException;
 import java.util.Date;
 
 import com.google.appengine.api.memcache.MemcacheService;
@@ -49,7 +51,13 @@ public class CacheManager {
     }
     
     public String getAnnouncesJson() {
-        return (String) mMemcache.get(MEMKEY_ANNOUNCESJSON);
+        try {
+            //string is compressed in order to save space
+            return ScraperUtils.decompress((String) mMemcache.get(MEMKEY_ANNOUNCESJSON));
+        } catch (IOException e) {
+            mLogFacility.w(LOG_HASH, e.getMessage());
+            return null;
+        }
     }
     
     /**
@@ -60,9 +68,14 @@ public class CacheManager {
      * @param lastDataRefresh
      */
     public void cacheAnnounces(int announcesNumber, String announcesJson, Date lastDataRefresh) {
-        mMemcache.put(MEMKEY_ANNOUNCESNUMBER, announcesNumber);
-        mMemcache.put(MEMKEY_ANNOUNCESJSON, announcesJson);
-        mMemcache.put(MEMKEY_LASTDATAREFRESH, lastDataRefresh);
+        try {
+            mMemcache.put(MEMKEY_ANNOUNCESNUMBER, announcesNumber);
+            mMemcache.put(MEMKEY_ANNOUNCESJSON, ScraperUtils.compress(announcesJson));
+            mMemcache.put(MEMKEY_LASTDATAREFRESH, lastDataRefresh);
+        } catch (Exception e) {
+            mLogFacility.w(LOG_HASH, e.getMessage());
+            cleanCache();
+        }
     }
 
     public void cleanCache() {

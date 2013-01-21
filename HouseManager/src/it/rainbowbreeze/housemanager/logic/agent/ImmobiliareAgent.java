@@ -6,6 +6,7 @@ package it.rainbowbreeze.housemanager.logic.agent;
 import it.rainbowbreeze.housemanager.common.ILogFacility;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 import it.rainbowbreeze.housemanager.logic.NetworkManager;
+import it.rainbowbreeze.housemanager.logic.ScraperUtils;
 
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.nodes.Document;
@@ -143,13 +144,13 @@ public class ImmobiliareAgent extends HouseAgentAbstract {
         String priceStr = null;
         try {
             priceStr = announceElem.select("span.price").first().text();
-            priceStr = priceStr.replace("€", "").replace(".", "").trim();
             if ("Trattative riservate".equalsIgnoreCase(priceStr)) {
                 findData = true;
                 announce.setPrice(0);
             } else {
                 int price;
                 try {
+                    priceStr = priceStr.replace("€", "").replace(".", "").trim();
                     price = Integer.parseInt(priceStr);
                 } catch (NumberFormatException e) {
                     //sometimes price is 300.001 - 500.000 €
@@ -168,7 +169,7 @@ public class ImmobiliareAgent extends HouseAgentAbstract {
         String areaStr = null;
         try {
             areaStr = announceElem.select("div.bottom").first().select("div.align_left").first().childNode(4).toString();
-            areaStr = areaStr.replace("&nbsp;", "").replace("m&sup2;", "").trim();
+            areaStr = ScraperUtils.extractNumbers(areaStr);
             int area = Integer.parseInt(areaStr);
             findData = true;
             announce.setArea(area);
@@ -228,7 +229,7 @@ public class ImmobiliareAgent extends HouseAgentAbstract {
         try {
             String desc = doc.select("div.descrizione").first().text();
             if (StringUtils.isNotEmpty(desc)) {
-                announce.setShortDesc(desc);
+                announce.setShortDesc(desc.length() > MAX_DESC_LEN ? desc.substring(0, MAX_DESC_LEN) : desc);
                 deeperProcessed = true;
             }
         } catch (Exception e) {

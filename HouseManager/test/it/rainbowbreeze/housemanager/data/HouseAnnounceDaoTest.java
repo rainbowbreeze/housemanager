@@ -93,25 +93,31 @@ public class HouseAnnounceDaoTest {
         HouseAnnounce announce1 = createAnnounce1()
                 .setDeepProcessed(true).setLat(null).setLon(null);
         HouseAnnounce announce2 = createAnnounce1()
-                .setDeepProcessed(true).setLat("200").setLon(null);
+                .setDeepProcessed(true).setLat("45.23").setLon(null);
         HouseAnnounce announce3 = createAnnounce1()
-                .setDeepProcessed(true).setLat("300").setLon("400");
+                .setDeepProcessed(true).setLat("45.22").setLon("9.11");
         HouseAnnounce announce4 = createAnnounce4()
-                .setDeepProcessed(false).setLat("500").setLon("600");
+                .setDeepProcessed(false).setLat("45.17").setLon("9.20");
+        HouseAnnounce announce5 = createAnnounce4()
+                .setDeepProcessed(false).setLat("300").setLon("200");
         assertNotNull(mDao.save(announce1));
         assertNotNull(mDao.save(announce2));
         assertNotNull(mDao.save(announce3));
         assertNotNull(mDao.save(announce4));
+        assertNotNull(mDao.save(announce5));
 
         size = mDao.count();
-        assertEquals(4, size);
+        assertEquals(5, size);
         
         actualResult = mDao.getAllValidAndEncoded();
         assertNotNull(actualResult);
-        assertEquals(1, actualResult.size());
+        assertEquals(2, actualResult.size());
         HouseAnnounce actualAnnounce = actualResult.get(0);
         assertNotNull(actualAnnounce);
         assertEquals(announce3.getId(), actualAnnounce.getId());
+        actualAnnounce = actualResult.get(1);
+        assertNotNull(actualAnnounce);
+        assertEquals(announce4.getId(), actualAnnounce.getId());
     }
 
     // ----------------------------------------- Private Methods

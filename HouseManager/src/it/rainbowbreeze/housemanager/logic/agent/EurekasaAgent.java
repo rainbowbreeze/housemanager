@@ -6,6 +6,7 @@ package it.rainbowbreeze.housemanager.logic.agent;
 import it.rainbowbreeze.housemanager.common.ILogFacility;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 import it.rainbowbreeze.housemanager.logic.NetworkManager;
+import it.rainbowbreeze.housemanager.logic.ScraperUtils;
 
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.nodes.Document;
@@ -159,12 +160,7 @@ public class EurekasaAgent extends HouseAgentAbstract {
                 findData = true;
                 announce.setPrice(0);
             } else {
-                if (StringUtils.isEmpty(ScraperUtils.getTextBetween(priceStr, null, "&nbsp;€"))) {
-                    priceStr = ScraperUtils.getTextBetween(priceStr, null, " €");
-                } else {
-                    priceStr = ScraperUtils.getTextBetween(priceStr, null, "&nbsp;€");
-                }
-                priceStr = priceStr.replace(".", "");
+                priceStr = ScraperUtils.extractNumbers(priceStr);
                 int price = Integer.parseInt(priceStr);
                 announce.setPrice(price);
                 findData = true;
@@ -177,7 +173,7 @@ public class EurekasaAgent extends HouseAgentAbstract {
         
         try {
             String areaStr = announceElem.select("div#superficie-" + id).first().text();
-            areaStr = ScraperUtils.getTextBetween(areaStr, null, "m").trim();
+            areaStr = ScraperUtils.extractNumbers(areaStr);
             int area = Integer.parseInt(areaStr);
             announce.setArea(area);
             findData = true;
@@ -205,7 +201,7 @@ public class EurekasaAgent extends HouseAgentAbstract {
         try {
             String desc = doc.select("span#description").first().text();
             if (StringUtils.isNotEmpty(desc)) {
-                announce.setShortDesc(desc);
+                announce.setShortDesc(desc.length() > MAX_DESC_LEN ? desc.substring(0, MAX_DESC_LEN) : desc);
                 deeperProcessed = true;
             }
         } catch (Exception e) {

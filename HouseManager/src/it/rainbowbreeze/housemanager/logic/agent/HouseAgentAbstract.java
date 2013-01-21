@@ -13,6 +13,7 @@ import it.rainbowbreeze.housemanager.common.ILogFacility;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce.AnnounceType;
 import it.rainbowbreeze.housemanager.logic.NetworkManager;
+import it.rainbowbreeze.housemanager.logic.ScraperUtils;
 
 /**
  * Abstract class for house website scraper
@@ -22,9 +23,12 @@ import it.rainbowbreeze.housemanager.logic.NetworkManager;
  */
 public abstract class HouseAgentAbstract  implements IHouseAgent {
     // ------------------------------------------ Private Fields
+    private final String LOG_HASH;
+    protected static final int MAX_DESC_LEN = 490; //max length of description string
+
     protected final ILogFacility mLogFacility;
     protected final NetworkManager mNetworkManager;
-    private final String LOG_HASH;
+
 
     // -------------------------------------------- Constructors
     public HouseAgentAbstract(ILogFacility logFacility, NetworkManager networkManager) {

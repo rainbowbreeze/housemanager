@@ -6,6 +6,7 @@ package it.rainbowbreeze.housemanager.logic.agent;
 import it.rainbowbreeze.housemanager.common.ILogFacility;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
 import it.rainbowbreeze.housemanager.logic.NetworkManager;
+import it.rainbowbreeze.housemanager.logic.ScraperUtils;
 
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.nodes.Document;
