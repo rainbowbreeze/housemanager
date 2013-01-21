@@ -9,6 +9,8 @@ import it.rainbowbreeze.housemanager.logic.ScraperUtils;
 import java.io.IOException;
 import java.util.Date;
 
+import org.apache.commons.lang3.StringUtils;
+
 import com.google.appengine.api.memcache.MemcacheService;
 import com.google.appengine.api.memcache.MemcacheServiceFactory;
 
@@ -68,12 +70,15 @@ public class CacheManager {
      * @param lastDataRefresh
      */
     public void cacheAnnounces(int announcesNumber, String announcesJson, Date lastDataRefresh) {
+        String compressedJson = null;
         try {
             mMemcache.put(MEMKEY_ANNOUNCESNUMBER, announcesNumber);
-            mMemcache.put(MEMKEY_ANNOUNCESJSON, ScraperUtils.compress(announcesJson));
+            compressedJson = ScraperUtils.compress(announcesJson);
+            mMemcache.put(MEMKEY_ANNOUNCESJSON, compressedJson);
             mMemcache.put(MEMKEY_LASTDATAREFRESH, lastDataRefresh);
         } catch (Exception e) {
             mLogFacility.w(LOG_HASH, e.getMessage());
+            if (StringUtils.isNotEmpty(compressedJson)) mLogFacility.w(LOG_HASH, "Size of json is " + compressedJson.length());
             cleanCache();
         }
     }

@@ -69,8 +69,8 @@ public class MapServlet extends HttpServlet {
         req.setAttribute("totalAnnounces", totalAnnouces);
         req.setAttribute("announces", jsonAnnounces);
         req.setAttribute("priceLower", 0);
-        req.setAttribute("priceUpper", 600000);
-        req.setAttribute("priceValue", 600000);
+        req.setAttribute("priceUpper", 1500000);
+        req.setAttribute("priceValue", 1500000);
         req.setAttribute("priceStep", 10000);
         req.setAttribute("areaLower", 0);
         req.setAttribute("areaUpper", 500);

@@ -112,17 +112,26 @@
                 //updates the page
                 var display = document.getElementById(elementName);
                 display.innerHTML = slideAmount;
+                var shownMarkers = 0;
                 //updates the map markers
                 if (areaRange && priceRange) {
                     for (var i=0; i<announces.length; i++) {
                         var announce = announces[i];
                         if (announce.price <= priceRange && announce.area >= areaRange) {
                             markers[i].setMap(map);
+                            shownMarkers ++;
                         } else {
                             markers[i].setMap(null);
+                            //console.log(announce.detailUrl);
                         }
                     }
+                    updateShownMarkers(shownMarkers);
                 }
+            }
+            
+            function updateShownMarkers(newTotal) {
+                var display = document.getElementById("shownMarkers");
+                display.innerHTML = newTotal;
             }
         </script>
     </head>
@@ -151,7 +160,7 @@
         </div>
         
         <p>
-            <span class="paramTitle">Annunci totali: </span>${totalAnnounces}
+            <span class="paramTitle">Annunci: </span><span id="shownMarkers">${totalAnnounces}</span>/${totalAnnounces}
         </p>
 
         <c:choose>
