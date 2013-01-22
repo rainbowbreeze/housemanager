@@ -169,7 +169,7 @@ public class ImmobiliareAgent extends HouseAgentAbstract {
         String areaStr = null;
         try {
             areaStr = announceElem.select("div.bottom").first().select("div.align_left").first().childNode(4).toString();
-            areaStr = ScraperUtils.extractNumbers(areaStr);
+            areaStr = ScraperUtils.extractNumbers(areaStr.replace("m&sup2;", ""));
             int area = Integer.parseInt(areaStr);
             findData = true;
             announce.setArea(area);

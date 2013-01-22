@@ -59,6 +59,7 @@ public class ScraperUtilsTest {
         assertEquals("456", ScraperUtils.extractNumbers("aa 456 ddx"));
         assertEquals("123456", ScraperUtils.extractNumbers("a123a 456 asd"));
         assertEquals("854", ScraperUtils.extractNumbers("854 €"));
+        assertEquals("50", ScraperUtils.extractNumbers("50 m²"));
     }
     
     @Test

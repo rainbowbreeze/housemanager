@@ -3,6 +3,8 @@
  */
 package it.rainbowbreeze.housemanager.domain;
 
+import it.rainbowbreeze.housemanager.logic.ScraperUtils;
+
 import java.net.URI;
 import java.net.URISyntaxException;
 
@@ -176,24 +178,13 @@ public class HouseAnnounce {
      * @return
      */
     public HouseAnnounce encode() {
-        setTitle(encodeIfNotEmpty(getTitle()));
-        setShortDesc(encodeIfNotEmpty(getShortDesc()));
+        setTitle(ScraperUtils.encodeRFC2396(getTitle()));
+        setShortDesc(ScraperUtils.encodeRFC2396(getShortDesc()));
         return this;
     }
 
 
     // ----------------------------------------- Private Methods
-    private String encodeIfNotEmpty(String value) {
-        try {
-            //a RFC2396 encoding is requested, so spaces are substituted by %20, for example
-            //I wasn't able to find a smarter way to do this
-            return StringUtils.isNotEmpty(value)
-                    ? (new URI("http", value, null)).toASCIIString().substring(5) //remove the http: part
-                    : value;
-        } catch (URISyntaxException e) {
-            return value;
-        }
-    }
 
     // ----------------------------------------- Private Classes
 }

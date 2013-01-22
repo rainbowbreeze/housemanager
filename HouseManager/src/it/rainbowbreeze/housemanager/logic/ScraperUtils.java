@@ -8,6 +8,8 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.zip.GZIPInputStream;
@@ -123,6 +125,22 @@ public class ScraperUtils {
         }
     }
     
+    /**
+     * RFC2396 encoding of a string (spaces are substituted by %20)
+     * @param value
+     * @return
+     */
+    public static String encodeRFC2396(String value) {
+        try {
+            //a RFC2396 encoding is requested, so spaces are substituted by %20, for example
+            //I wasn't able to find a smarter way to do this
+            return StringUtils.isNotEmpty(value)
+                    ? (new URI("http", value, null)).toASCIIString().substring(5) //remove the http: part
+                    : value;
+        } catch (URISyntaxException e) {
+            return value;
+        }
+    }
     // ----------------------------------------- Private Methods
 
     // ----------------------------------------- Private Classes
