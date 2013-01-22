@@ -46,7 +46,7 @@ public class ScraperUtilsTest {
     public void testGetyyyyMMdd() {
         assertNull(ScraperUtils.getyyyyMMdd(null));
         Date date = new Date(1326538186000l);  //January, 14th 2012 - 10:49:46 am UTC
-        assertEquals("20120114", ScraperUtils.getyyyyMMdd(date));
+        assertEquals("201201141149", ScraperUtils.getyyyyMMdd(date)); //11:49 local time (CEST)
     }
     
     @Test

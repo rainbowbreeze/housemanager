@@ -178,5 +178,11 @@ public class TecnocasaAgent extends HouseAgentAbstract {
         return false;
     }
 
+    @Override
+    protected String extractPageNumberFromCursor(String cursor) {
+        // TODO Auto-generated method stub
+        return null;
+    }
+
     // ----------------------------------------- Private Classes
 }

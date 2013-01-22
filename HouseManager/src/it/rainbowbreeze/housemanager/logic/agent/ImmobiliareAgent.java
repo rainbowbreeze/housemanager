@@ -113,6 +113,15 @@ public class ImmobiliareAgent extends HouseAgentAbstract {
         return null;
     }
 
+    @Override
+    protected String extractPageNumberFromCursor(String cursor) {
+        if (StringUtils.isEmpty(cursor)) return cursor;
+        //search for last =
+        int pos = cursor.lastIndexOf("=");
+        return pos > -1
+                ? cursor.substring(pos+1)
+                : null;
+    }
     
     /**
      * Analyzes a single result of a global search and discover all the information for the house

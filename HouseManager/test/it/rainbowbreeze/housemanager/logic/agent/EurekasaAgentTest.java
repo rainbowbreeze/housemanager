@@ -165,25 +165,29 @@ public class EurekasaAgentTest {
         HouseAnnounce announce = mAgent.createAnnounce()
                 .setDetailUrl(url);
         String taskName = mAgent.getTaskQueueName(testDate, announce);
-        assertEquals("EurekasaIt_20130114-Ann_Appartamento-Pavia-35936442", taskName);
+        assertEquals("EurekasaIt_201301141149-Ann_Appartamento-Pavia-35936442", taskName);
     }
     
-    /**
     @Test
     public void testGetTaskQueueName_Cursor() {
         Date testDate = new Date(1358160587000L);  //January, 14th 2013 - 10:49:46 am UTC
         String cursor = null;
         String taskName = mAgent.getTaskQueueName(testDate, cursor);
-        assertEquals("ImmobiliareIt_20130114-Pg_", taskName);
-        cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=2";
+        assertEquals("EurekasaIt_201301141149-Pg_", taskName);
+        cursor = "pag2";
         taskName = mAgent.getTaskQueueName(testDate, cursor);
-        assertEquals("ImmobiliareIt_20130114-Pg_2", taskName);
-        cursor = "/Pavia/vendita_case-Pavia.html?criterio=rilevanza&pag=234";
+        assertEquals("EurekasaIt_201301141149-Pg_2", taskName);
+        cursor = "pag53";
         taskName = mAgent.getTaskQueueName(testDate, cursor);
-        assertEquals("ImmobiliareIt_20130114-Pg_234", taskName);
+        assertEquals("EurekasaIt_201301141149-Pg_53", taskName);
     }
     
-    */
+    @Test
+    public void testExtractPageNumberFromCursor() {
+        assertEquals(null, mAgent.extractPageNumberFromCursor(null));
+        assertEquals("2", mAgent.extractPageNumberFromCursor("pag2"));
+        assertEquals("102", mAgent.extractPageNumberFromCursor("pag102"));
+    }
     
     // ----------------------------------------- Private Methods
 

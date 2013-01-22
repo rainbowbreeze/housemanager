@@ -46,7 +46,7 @@ public class EurekasaAgent extends HouseAgentAbstract {
     public String getSearchUrlFromCursor(String cursor) {
         return StringUtils.isEmpty(cursor)
                 ? URL_RESULT_PAGE.replace("XXXX", "pag1")
-                : URL_RESULT_PAGE.replace("XXXX", cursor) + cursor;
+                : URL_RESULT_PAGE.replace("XXXX", cursor);
     }
     
     
@@ -98,6 +98,11 @@ public class EurekasaAgent extends HouseAgentAbstract {
             mLogFacility.w(LOG_HASH, "Cannot find li#next");
         }
         return null;
+    }
+    
+    @Override
+    protected String extractPageNumberFromCursor(String cursor) {
+        return ScraperUtils.extractNumbers(cursor);
     }
 
     

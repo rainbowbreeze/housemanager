@@ -1,19 +1,18 @@
 package it.rainbowbreeze.housemanager.logic.agent;
 
+import it.rainbowbreeze.housemanager.common.ILogFacility;
+import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
+import it.rainbowbreeze.housemanager.domain.HouseAnnounce.AnnounceType;
+import it.rainbowbreeze.housemanager.logic.NetworkManager;
+import it.rainbowbreeze.housemanager.logic.ScraperUtils;
+
 import java.util.Date;
-import java.util.UUID;
 
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
-import it.rainbowbreeze.housemanager.common.ILogFacility;
-import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
-import it.rainbowbreeze.housemanager.domain.HouseAnnounce.AnnounceType;
-import it.rainbowbreeze.housemanager.logic.NetworkManager;
-import it.rainbowbreeze.housemanager.logic.ScraperUtils;
 
 /**
  * Abstract class for house website scraper
@@ -80,17 +79,8 @@ public abstract class HouseAgentAbstract  implements IHouseAgent {
         sb.append(getName()).append("_")
                 .append(ScraperUtils.getyyyyMMdd(date))
                 .append("-Pg_");
-        if (StringUtils.isNotEmpty(cursor)) {
-            //search for last =
-            int pos = cursor.lastIndexOf("=");
-            if (pos > -1) {
-                //get only the final number
-                sb.append(cursor.substring(pos+1));
-            } else {
-                //appends a random UUID
-                sb.append(UUID.randomUUID().toString());
-            }
-        }
+        String pageNumber = extractPageNumberFromCursor(cursor);
+        if (StringUtils.isNotEmpty(pageNumber)) sb.append(pageNumber);
         return sb.toString();
     }
     
@@ -165,6 +155,13 @@ public abstract class HouseAgentAbstract  implements IHouseAgent {
      * @return
      */
     protected abstract String getResultListIdentifier();
+    
+    /**
+     * Extracts the page number from a given cursor
+     * @param cursor
+     * @return
+     */
+    protected abstract String extractPageNumberFromCursor(String cursor);
 
     /**
      * Analyzes a generic search result page

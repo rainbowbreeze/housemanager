@@ -62,7 +62,7 @@ public class ScraperUtils {
      */
     public static String getyyyyMMdd(Date date) {
         if (null == date) return null;
-        String formattedDate = new SimpleDateFormat("yyyyMMdd").format(date);
+        String formattedDate = new SimpleDateFormat("yyyyMMddHHmm").format(date);
         return formattedDate;
     }
     
