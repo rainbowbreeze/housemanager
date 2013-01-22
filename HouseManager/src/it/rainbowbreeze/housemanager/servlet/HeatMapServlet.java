@@ -6,6 +6,7 @@ import it.rainbowbreeze.housemanager.data.CacheManager;
 import it.rainbowbreeze.housemanager.data.HouseAnnounceDao;
 import it.rainbowbreeze.housemanager.domain.AppGlobalStatusBag;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
+import it.rainbowbreeze.housemanager.logic.MiscUtils;
 
 import java.io.IOException;
 import java.util.List;
@@ -68,6 +69,7 @@ public class HeatMapServlet extends HttpServlet {
         req.setAttribute("areAgentsRunning", bag.isRunningAgentsEmpty());
         req.setAttribute("totalAnnounces", totalAnnouces);
         req.setAttribute("announces", jsonAnnounces);
+        MiscUtils.addStatsForProduction(req, "trackingCode");
         
         resp.setContentType("text/html");
         RequestDispatcher jsp = req.getRequestDispatcher("/WEB-INF/heatmap.jsp");

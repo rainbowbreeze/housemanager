@@ -182,5 +182,6 @@
     <div id="content">
         <div id="map_canvas"></div>
     </div>
-    
+
+    ${trackingCode}
 </body>

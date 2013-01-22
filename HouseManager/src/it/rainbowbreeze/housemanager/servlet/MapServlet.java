@@ -6,6 +6,7 @@ import it.rainbowbreeze.housemanager.data.CacheManager;
 import it.rainbowbreeze.housemanager.data.HouseAnnounceDao;
 import it.rainbowbreeze.housemanager.domain.AppGlobalStatusBag;
 import it.rainbowbreeze.housemanager.domain.HouseAnnounce;
+import it.rainbowbreeze.housemanager.logic.MiscUtils;
 
 import java.io.IOException;
 import java.util.List;
@@ -77,6 +78,7 @@ public class MapServlet extends HttpServlet {
         req.setAttribute("areaValue", 1);
         req.setAttribute("areaStep", 10);
         req.setAttribute("currency", "Eur");
+        MiscUtils.addStatsForProduction(req, "trackingCode");
         
         resp.setContentType("text/html");
         RequestDispatcher jsp = req.getRequestDispatcher("/WEB-INF/map.jsp");
