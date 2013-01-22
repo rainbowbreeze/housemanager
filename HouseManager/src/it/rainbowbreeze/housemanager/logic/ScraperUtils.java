@@ -53,6 +53,11 @@ public class ScraperUtils {
         return sourceString.substring(startPos, endPos);
     }
     
+    /**
+     * Returns a 8 digits year - month - day string from a given date
+     * @param date
+     * @return
+     */
     public static String getyyyyMMdd(Date date) {
         if (null == date) return null;
         String formattedDate = new SimpleDateFormat("yyyyMMdd").format(date);
@@ -108,7 +113,15 @@ public class ScraperUtils {
           outStr.append(line);
         }
         return outStr.toString();
-     }    
+    }
+    
+    public static String truncateDesciption(String description) {
+        if (StringUtils.isNotEmpty(description) && description.length() > 490) {
+            return description.substring(0, 490) + "...";
+        } else {
+            return description;
+        }
+    }
     
     // ----------------------------------------- Private Methods
 

@@ -24,7 +24,6 @@ import it.rainbowbreeze.housemanager.logic.ScraperUtils;
 public abstract class HouseAgentAbstract  implements IHouseAgent {
     // ------------------------------------------ Private Fields
     private final String LOG_HASH;
-    protected static final int MAX_DESC_LEN = 490; //max length of description string
 
     protected final ILogFacility mLogFacility;
     protected final NetworkManager mNetworkManager;

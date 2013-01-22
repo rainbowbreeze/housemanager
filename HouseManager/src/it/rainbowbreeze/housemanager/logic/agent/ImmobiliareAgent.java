@@ -229,7 +229,7 @@ public class ImmobiliareAgent extends HouseAgentAbstract {
         try {
             String desc = doc.select("div.descrizione").first().text();
             if (StringUtils.isNotEmpty(desc)) {
-                announce.setShortDesc(desc.length() > MAX_DESC_LEN ? desc.substring(0, MAX_DESC_LEN) : desc);
+                announce.setShortDesc(ScraperUtils.truncateDesciption(desc));
                 deeperProcessed = true;
             }
         } catch (Exception e) {
