@@ -9,7 +9,7 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         
         <script type="text/javascript"
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDG2ho3ev9azmNy8uwiC1sz9HmudJ9KFtY&sensor=false">
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDokGlHNrwR99lk6-6uMKezTgVFvscC2MY&sensor=false">
         </script>
         <script type="text/javascript">
             var priceRange;  //max price of the house to show
